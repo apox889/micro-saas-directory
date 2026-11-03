@@ -81,6 +81,7 @@ export default function AdminStagingDashboard({
   const [affiliateLinks, setAffiliateLinks] = useState({});
   const [publishingId, setPublishingId] = useState(null);
   const [isExportingStatic, setIsExportingStatic] = useState(false);
+  const [isPublishingLive, setIsPublishingLive] = useState(false);
   const [toastMessage, setToastMessage] = useState(null);
 
   // Local Batch Import State (JSON / Feed)
@@ -110,6 +111,28 @@ export default function AdminStagingDashboard({
       showToast(`❌ Static export notice: ${err.message}`);
     } finally {
       setIsExportingStatic(false);
+    }
+  };
+
+  // Publish Live: Synchronizes static data, stages database & logos, commits and pushes to GitHub main
+  const handlePublishLive = async () => {
+    setIsPublishingLive(true);
+    showToast('🚀 Staging database & logo assets, creating commit, and pushing to GitHub...');
+    try {
+      const res = await fetch('/api/admin/publish-live', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({})
+      });
+      const data = await res.json();
+      if (!res.ok || !data.success) {
+        throw new Error(data.error || 'Failed to publish live to GitHub');
+      }
+      showToast(`🎉 ${data.message}`);
+    } catch (err) {
+      showToast(`❌ Publish Live failed: ${err.message}`);
+    } finally {
+      setIsPublishingLive(false);
     }
   };
 
@@ -617,6 +640,27 @@ export default function AdminStagingDashboard({
           >
             <RefreshCw className="w-3.5 h-3.5" />
             <span>Refresh</span>
+          </button>
+
+          {/* THE REQUESTED PUBLISH LIVE BUTTON: Push database & logos to GitHub main branch */}
+          <button
+            type="button"
+            disabled={isPublishingLive}
+            onClick={handlePublishLive}
+            className="inline-flex items-center gap-2 px-4 py-2 rounded-xl text-xs font-bold bg-emerald-600 hover:bg-emerald-700 text-white shadow-sm hover:shadow transition-all disabled:opacity-50"
+            title="Automatically stage all new tool entries, database, and local logo files, commit, and push to GitHub main branch"
+          >
+            {isPublishingLive ? (
+              <>
+                <Loader2 className="w-3.5 h-3.5 animate-spin" />
+                <span>Publishing Live to GitHub...</span>
+              </>
+            ) : (
+              <>
+                <UploadCloud className="w-3.5 h-3.5" />
+                <span>Publish Live 🚀</span>
+              </>
+            )}
           </button>
 
           <button

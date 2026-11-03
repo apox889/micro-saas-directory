@@ -345,6 +345,32 @@ export function createLogoApiMiddleware() {
         }
       }
 
+      // POST /api/admin/publish-live or /api/admin/git-publish: Stages database/logos, commits, and pushes to GitHub main branch
+      if (req.method === 'POST' && (pathname === '/api/admin/publish-live' || pathname === '/api/admin/git-publish')) {
+        try {
+          const body = await getBody();
+          const { customMessage } = body;
+          const { publishLiveToGitHub } = await import('../scripts/publish-live.js');
+          const result = await publishLiveToGitHub(customMessage);
+
+          return sendJson(200, {
+            success: true,
+            message: result.message,
+            commitHash: result.commitHash,
+            commitMessage: result.commitMessage,
+            publishedCount: result.publishedCount,
+            committed: result.committed,
+            pushed: result.pushed,
+            timestamp: result.timestamp
+          });
+        } catch (publishErr) {
+          console.error('[Admin API] Publish live failed:', publishErr);
+          return sendJson(500, { 
+            error: 'Publish Live failed: ' + publishErr.message 
+          });
+        }
+      }
+
       // PUT /api/admin/tools/:id or /api/admin/drafts/:id: Full edit of any tool record (draft or published)
       if (req.method === 'PUT' && (pathname.startsWith('/api/admin/tools/') || pathname.startsWith('/api/admin/drafts/'))) {
         const id = pathname.replace('/api/admin/tools/', '').replace('/api/admin/drafts/', '');

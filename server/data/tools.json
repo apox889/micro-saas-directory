@@ -1297,7 +1297,7 @@
     },
     "pricing": "Free tier available / Transparent pricing",
     "affiliateUrl": "https://snipd.com/?ref=curateless",
-    "status": "draft",
+    "status": "published",
     "aiGeneratedAt": "2026-11-03T12:25:02.056Z",
     "lessonPlan": {
       "title": "Snipd Zero-Bloat Quickstart",
@@ -1369,7 +1369,9 @@
     "localLogoPath": "/logos/snipd.png",
     "affiliateBadge": "Partner Pick",
     "affiliatePerk": "Verified Anti-Bloat Recommendation",
-    "createdAt": "2026-11-03T12:25:03.808Z"
+    "createdAt": "2026-11-03T12:25:03.808Z",
+    "publishedAt": "2026-11-03T13:42:50.683Z",
+    "dateAdded": "2026-11-03"
   },
   {
     "id": "draft-1793708704989-standard-notes",
@@ -1405,7 +1407,7 @@
     },
     "pricing": "Free tier available / Transparent pricing",
     "affiliateUrl": "https://standardnotes.com/?ref=curateless",
-    "status": "draft",
+    "status": "published",
     "aiGeneratedAt": "2026-11-03T12:25:03.808Z",
     "lessonPlan": {
       "title": "Standard Notes Zero-Bloat Quickstart",
@@ -1477,7 +1479,9 @@
     "localLogoPath": "/logos/standard-notes.png",
     "affiliateBadge": "Partner Pick",
     "affiliatePerk": "Verified Anti-Bloat Recommendation",
-    "createdAt": "2026-11-03T12:25:04.989Z"
+    "createdAt": "2026-11-03T12:25:04.989Z",
+    "publishedAt": "2026-11-03T13:43:33.400Z",
+    "dateAdded": "2026-11-03"
   },
   {
     "id": "draft-1793708670133",

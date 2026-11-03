@@ -9,6 +9,7 @@
     "preview": "vite preview",
     "export:data": "node scripts/export-static.js",
     "import:batch": "node scripts/import-batch.js",
+    "publish:live": "node scripts/publish-live.js",
     "set-domain": "node scripts/set-custom-domain.js",
     "server": "node server/index.js",
     "sync-logos": "node server/sync-logos.js"

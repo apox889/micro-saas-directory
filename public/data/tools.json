@@ -1,8 +1,367 @@
 {
   "success": true,
-  "count": 13,
-  "exportedAt": "2026-11-03T12:49:22.443Z",
+  "count": 17,
+  "exportedAt": "2026-11-03T14:17:33.670Z",
   "tools": [
+    {
+      "id": "manual-1793710324562-asdsadsad",
+      "name": "asdsadsad",
+      "slug": "asdsadsad",
+      "website": "https://google.com",
+      "domain": "google.com",
+      "brandColor": "#4f46e5",
+      "tagline": "asdsadasd vsdvdf",
+      "description": "asdsadasd vsdvdf",
+      "category": "Utilities",
+      "whatItReplaces": "Bloated legacy software",
+      "replacesDetailed": "Replaces enterprise bloat with focused micro-functionality.",
+      "targetAudience": "Builders & digital craftsmen",
+      "tags": [
+        "Beginner-Friendly",
+        "Free Tier Available"
+      ],
+      "learningCurve": {
+        "level": "Gentle",
+        "score": 1,
+        "timeToLearn": "5 mins",
+        "summary": "Straightforward onboarding designed for instant velocity."
+      },
+      "tutorialCount": 12,
+      "tutorialMeta": {
+        "videoGuides": 5,
+        "stepByStepDocs": 5,
+        "communityShortcuts": 2
+      },
+      "pricing": "Free tier / Transparent pricing",
+      "status": "published",
+      "localLogoPath": "/logos/asdsadsad.png",
+      "affiliateUrl": "https://google.com/?ref=curateless",
+      "affiliateBadge": "Partner Pick",
+      "affiliatePerk": "Verified Anti-Bloat Recommendation",
+      "createdAt": "2026-11-03T12:52:04.562Z",
+      "lessonPlan": {
+        "title": "asdsadsad Quickstart Guide",
+        "subtitle": "Get started with asdsadsad in under 5 mins.",
+        "estimatedTime": "5 mins",
+        "difficulty": "Beginner",
+        "overview": "A streamlined 5-step curriculum to master asdsadsad.",
+        "prerequisites": [
+          "Web browser or local app"
+        ],
+        "steps": [
+          {
+            "stepNumber": 1,
+            "title": "Account & Workspace Setup",
+            "timeEstimate": "2 mins",
+            "description": "Download or log in with zero marketing questionnaires.",
+            "actionItems": [
+              "Sign in",
+              "Set preferred defaults"
+            ],
+            "proTip": "Keep initial setup minimal."
+          },
+          {
+            "stepNumber": 2,
+            "title": "Core Workflow Execution",
+            "timeEstimate": "3 mins",
+            "description": "Perform your primary task without menu fatigue.",
+            "actionItems": [
+              "Test primary action"
+            ],
+            "proTip": "Focus strictly on your main daily goal."
+          }
+        ]
+      }
+    },
+    {
+      "id": "manual-1793710291645-sadasd",
+      "name": "sadasd",
+      "slug": "sadasd",
+      "website": "sadasdsadasd",
+      "domain": "sadasdsadasd",
+      "brandColor": "#4f46e5",
+      "tagline": "Lightweight, modern utilities micro-tool designed to eliminate bloat.",
+      "description": "Lightweight, modern utilities micro-tool designed to eliminate bloat.",
+      "category": "Utilities",
+      "whatItReplaces": "Bloated legacy software",
+      "replacesDetailed": "Replaces enterprise bloat with focused micro-functionality.",
+      "targetAudience": "Builders & digital craftsmen",
+      "tags": [
+        "Beginner-Friendly",
+        "Free Tier Available"
+      ],
+      "learningCurve": {
+        "level": "Gentle",
+        "score": 1,
+        "timeToLearn": "5 mins",
+        "summary": "Straightforward onboarding designed for instant velocity."
+      },
+      "tutorialCount": 12,
+      "tutorialMeta": {
+        "videoGuides": 5,
+        "stepByStepDocs": 5,
+        "communityShortcuts": 2
+      },
+      "pricing": "Free tier / Transparent pricing",
+      "status": "published",
+      "localLogoPath": "/logos/sadasd.png",
+      "affiliateUrl": "sadasdsadasd/?ref=curateless",
+      "affiliateBadge": "Partner Pick",
+      "affiliatePerk": "Verified Anti-Bloat Recommendation",
+      "createdAt": "2026-11-03T12:51:31.645Z",
+      "lessonPlan": {
+        "title": "sadasd Quickstart Guide",
+        "subtitle": "Get started with sadasd in under 5 mins.",
+        "estimatedTime": "5 mins",
+        "difficulty": "Beginner",
+        "overview": "A streamlined 5-step curriculum to master sadasd.",
+        "prerequisites": [
+          "Web browser or local app"
+        ],
+        "steps": [
+          {
+            "stepNumber": 1,
+            "title": "Account & Workspace Setup",
+            "timeEstimate": "2 mins",
+            "description": "Download or log in with zero marketing questionnaires.",
+            "actionItems": [
+              "Sign in",
+              "Set preferred defaults"
+            ],
+            "proTip": "Keep initial setup minimal."
+          },
+          {
+            "stepNumber": 2,
+            "title": "Core Workflow Execution",
+            "timeEstimate": "3 mins",
+            "description": "Perform your primary task without menu fatigue.",
+            "actionItems": [
+              "Test primary action"
+            ],
+            "proTip": "Focus strictly on your main daily goal."
+          }
+        ]
+      }
+    },
+    {
+      "id": "draft-1793708703808-snipd",
+      "name": "Snipd",
+      "slug": "snipd",
+      "website": "https://snipd.com",
+      "domain": "snipd.com",
+      "brandColor": "#06B6D4",
+      "tagline": "AI podcast player that captures, transcribes, and organizes audio knowledge.",
+      "description": "AI-powered podcast player that highlights spoken ideas, transcribes audio instantly, and exports key takeaways to your second brain.",
+      "category": "Video",
+      "whatItReplaces": "Bloated Podcast Players & Heavy Audio Editors",
+      "replacesDetailed": "Replaces sluggish podcast players with one-tap AI audio bookmarking, automated transcripts, key takeaways, and smart silence removal.",
+      "targetAudience": "Podcast listeners, researchers, and lifelong learners wanting to retain audio insights.",
+      "tags": [
+        "Beginner-Friendly",
+        "Free Tier Available",
+        "Smart Transcripts",
+        "AI-Powered"
+      ],
+      "learningCurve": {
+        "level": "Gentle",
+        "score": 1,
+        "timeToLearn": "4 mins",
+        "summary": "Tap headphone button to snip insights. AI automatically transcribes and syncs to Notion/Obsidian."
+      },
+      "tutorialCount": 10,
+      "tutorialMeta": {
+        "videoGuides": 4,
+        "stepByStepDocs": 4,
+        "communityShortcuts": 2
+      },
+      "pricing": "Free tier available / Transparent pricing",
+      "affiliateUrl": "https://snipd.com/?ref=curateless",
+      "status": "published",
+      "aiGeneratedAt": "2026-11-03T12:25:02.056Z",
+      "lessonPlan": {
+        "title": "Snipd Zero-Bloat Quickstart",
+        "subtitle": "Get started with Snipd in under 4 mins.",
+        "estimatedTime": "4 mins",
+        "difficulty": "Beginner",
+        "overview": "A streamlined 5-step curriculum to replace bloated tools and master Snipd without cognitive fatigue.",
+        "prerequisites": [
+          "Web browser or local application install"
+        ],
+        "steps": [
+          {
+            "stepNumber": 1,
+            "title": "Initialization & Clean Defaults",
+            "timeEstimate": "2 mins",
+            "description": "Launch the application and disable non-essential notification badges.",
+            "actionItems": [
+              "Open application",
+              "Turn off unnecessary alerts and marketing popups"
+            ],
+            "proTip": "Start with default minimalist settings to avoid early configuration burnout."
+          },
+          {
+            "stepNumber": 2,
+            "title": "Core Workflow Execution",
+            "timeEstimate": "3 mins",
+            "description": "Perform your primary daily task without navigating through heavy multi-layered menus.",
+            "actionItems": [
+              "Execute standard action",
+              "Notice the immediate sub-50ms responsiveness"
+            ],
+            "proTip": "Learn the primary hotkey for creating new entries instantly."
+          },
+          {
+            "stepNumber": 3,
+            "title": "Keyboard Hotkeys & Flow State",
+            "timeEstimate": "2 mins",
+            "description": "Map essential shortcuts to keep your hands on the keyboard.",
+            "actionItems": [
+              "Review the cheat sheet",
+              "Test navigation commands"
+            ],
+            "proTip": "Press ? anywhere to inspect available keyboard combinations."
+          },
+          {
+            "stepNumber": 4,
+            "title": "Local Data Export & Sovereignty",
+            "timeEstimate": "2 mins",
+            "description": "Ensure your data is readily exportable in open formats with zero vendor lock-in.",
+            "actionItems": [
+              "Locate export options",
+              "Confirm standard formats (JSON/Markdown/CSV)"
+            ],
+            "proTip": "Keep regular offline backups of your workspace."
+          },
+          {
+            "stepNumber": 5,
+            "title": "Team Handoff or Daily Automation",
+            "timeEstimate": "2 mins",
+            "description": "Share lightweight outputs with colleagues without forcing them to register accounts.",
+            "actionItems": [
+              "Generate clean share link",
+              "Verify distraction-free viewer mode"
+            ],
+            "proTip": "Colleagues can view your outputs without signing up for enterprise seats."
+          }
+        ]
+      },
+      "localLogoPath": "/logos/snipd.png",
+      "affiliateBadge": "Partner Pick",
+      "affiliatePerk": "Verified Anti-Bloat Recommendation",
+      "createdAt": "2026-11-03T12:25:03.808Z",
+      "publishedAt": "2026-11-03T13:42:50.683Z",
+      "dateAdded": "2026-11-03"
+    },
+    {
+      "id": "draft-1793708704989-standard-notes",
+      "name": "Standard Notes",
+      "slug": "standard-notes",
+      "website": "https://standardnotes.com",
+      "domain": "standardnotes.com",
+      "brandColor": "#3B82F6",
+      "tagline": "End-to-end encrypted note-taking app designed for digital longevity.",
+      "description": "End-to-end encrypted, zero-knowledge note-taking app ensuring 100-year digital permanence with lightweight plain text and Markdown.",
+      "category": "Writing",
+      "whatItReplaces": "Evernote, Google Docs & Proprietary Note Lock-in",
+      "replacesDetailed": "Replaces heavy cloud note bloat and surveillance capitalist data mining with end-to-end encrypted, zero-knowledge plain text and Markdown notes.",
+      "targetAudience": "Journalists, researchers, novelists, and privacy advocates needing eternal note longevity.",
+      "tags": [
+        "Beginner-Friendly",
+        "Free Tier Available",
+        "Alternative to Evernote",
+        "Open Source",
+        "End-to-End Encrypted"
+      ],
+      "learningCurve": {
+        "level": "Low",
+        "score": 2,
+        "timeToLearn": "6 mins",
+        "summary": "Clean interface with local encryption and instant multi-device synchronization."
+      },
+      "tutorialCount": 18,
+      "tutorialMeta": {
+        "videoGuides": 8,
+        "stepByStepDocs": 8,
+        "communityShortcuts": 2
+      },
+      "pricing": "Free tier available / Transparent pricing",
+      "affiliateUrl": "https://standardnotes.com/?ref=curateless",
+      "status": "published",
+      "aiGeneratedAt": "2026-11-03T12:25:03.808Z",
+      "lessonPlan": {
+        "title": "Standard Notes Zero-Bloat Quickstart",
+        "subtitle": "Get started with Standard Notes in under 6 mins.",
+        "estimatedTime": "6 mins",
+        "difficulty": "Intermediate",
+        "overview": "A streamlined 5-step curriculum to replace bloated tools and master Standard Notes without cognitive fatigue.",
+        "prerequisites": [
+          "Web browser or local application install"
+        ],
+        "steps": [
+          {
+            "stepNumber": 1,
+            "title": "Initialization & Clean Defaults",
+            "timeEstimate": "2 mins",
+            "description": "Launch the application and disable non-essential notification badges.",
+            "actionItems": [
+              "Open application",
+              "Turn off unnecessary alerts and marketing popups"
+            ],
+            "proTip": "Start with default minimalist settings to avoid early configuration burnout."
+          },
+          {
+            "stepNumber": 2,
+            "title": "Core Workflow Execution",
+            "timeEstimate": "3 mins",
+            "description": "Perform your primary daily task without navigating through heavy multi-layered menus.",
+            "actionItems": [
+              "Execute standard action",
+              "Notice the immediate sub-50ms responsiveness"
+            ],
+            "proTip": "Learn the primary hotkey for creating new entries instantly."
+          },
+          {
+            "stepNumber": 3,
+            "title": "Keyboard Hotkeys & Flow State",
+            "timeEstimate": "2 mins",
+            "description": "Map essential shortcuts to keep your hands on the keyboard.",
+            "actionItems": [
+              "Review the cheat sheet",
+              "Test navigation commands"
+            ],
+            "proTip": "Press ? anywhere to inspect available keyboard combinations."
+          },
+          {
+            "stepNumber": 4,
+            "title": "Local Data Export & Sovereignty",
+            "timeEstimate": "2 mins",
+            "description": "Ensure your data is readily exportable in open formats with zero vendor lock-in.",
+            "actionItems": [
+              "Locate export options",
+              "Confirm standard formats (JSON/Markdown/CSV)"
+            ],
+            "proTip": "Keep regular offline backups of your workspace."
+          },
+          {
+            "stepNumber": 5,
+            "title": "Team Handoff or Daily Automation",
+            "timeEstimate": "2 mins",
+            "description": "Share lightweight outputs with colleagues without forcing them to register accounts.",
+            "actionItems": [
+              "Generate clean share link",
+              "Verify distraction-free viewer mode"
+            ],
+            "proTip": "Colleagues can view your outputs without signing up for enterprise seats."
+          }
+        ]
+      },
+      "localLogoPath": "/logos/standard-notes.png",
+      "affiliateBadge": "Partner Pick",
+      "affiliatePerk": "Verified Anti-Bloat Recommendation",
+      "createdAt": "2026-11-03T12:25:04.989Z",
+      "publishedAt": "2026-11-03T13:43:33.400Z",
+      "dateAdded": "2026-11-03"
+    },
     {
       "id": "draft-1793705420386-zed-editor",
       "name": "Zed Editor",
