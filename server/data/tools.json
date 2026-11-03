@@ -172,7 +172,7 @@
       "communityShortcuts": 2
     },
     "pricing": "Free tier available / Transparent pricing",
-    "status": "draft",
+    "status": "published",
     "localLogoPath": "/logos/linear.png",
     "logoSource": "a.favicon.im",
     "affiliateUrl": "https://linear.app/?ref=curateless",
@@ -213,7 +213,9 @@
           "proTip": "Learn the primary hotkey for creating new entries instantly."
         }
       ]
-    }
+    },
+    "publishedAt": "2026-11-03T14:19:38.336Z",
+    "dateAdded": "2026-11-03"
   },
   {
     "id": "draft-1793709287999-zed-editor-2",
