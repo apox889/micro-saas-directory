@@ -1,0 +1,3377 @@
+[
+  {
+    "id": "manual-1793710324562-asdsadsad",
+    "name": "asdsadsad",
+    "slug": "asdsadsad",
+    "website": "https://google.com",
+    "domain": "google.com",
+    "brandColor": "#4f46e5",
+    "tagline": "asdsadasd vsdvdf",
+    "description": "asdsadasd vsdvdf",
+    "category": "Utilities",
+    "whatItReplaces": "Bloated legacy software",
+    "replacesDetailed": "Replaces enterprise bloat with focused micro-functionality.",
+    "targetAudience": "Builders & digital craftsmen",
+    "tags": [
+      "Beginner-Friendly",
+      "Free Tier Available"
+    ],
+    "learningCurve": {
+      "level": "Gentle",
+      "score": 1,
+      "timeToLearn": "5 mins",
+      "summary": "Straightforward onboarding designed for instant velocity."
+    },
+    "tutorialCount": 12,
+    "tutorialMeta": {
+      "videoGuides": 5,
+      "stepByStepDocs": 5,
+      "communityShortcuts": 2
+    },
+    "pricing": "Free tier / Transparent pricing",
+    "status": "published",
+    "localLogoPath": "/logos/asdsadsad.png",
+    "affiliateUrl": "https://google.com/?ref=curateless",
+    "affiliateBadge": "Partner Pick",
+    "affiliatePerk": "Verified Anti-Bloat Recommendation",
+    "createdAt": "2026-11-03T12:52:04.562Z",
+    "lessonPlan": {
+      "title": "asdsadsad Quickstart Guide",
+      "subtitle": "Get started with asdsadsad in under 5 mins.",
+      "estimatedTime": "5 mins",
+      "difficulty": "Beginner",
+      "overview": "A streamlined 5-step curriculum to master asdsadsad.",
+      "prerequisites": [
+        "Web browser or local app"
+      ],
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Account & Workspace Setup",
+          "timeEstimate": "2 mins",
+          "description": "Download or log in with zero marketing questionnaires.",
+          "actionItems": [
+            "Sign in",
+            "Set preferred defaults"
+          ],
+          "proTip": "Keep initial setup minimal."
+        },
+        {
+          "stepNumber": 2,
+          "title": "Core Workflow Execution",
+          "timeEstimate": "3 mins",
+          "description": "Perform your primary task without menu fatigue.",
+          "actionItems": [
+            "Test primary action"
+          ],
+          "proTip": "Focus strictly on your main daily goal."
+        }
+      ]
+    }
+  },
+  {
+    "id": "manual-1793710291645-sadasd",
+    "name": "sadasd",
+    "slug": "sadasd",
+    "website": "sadasdsadasd",
+    "domain": "sadasdsadasd",
+    "brandColor": "#4f46e5",
+    "tagline": "Lightweight, modern utilities micro-tool designed to eliminate bloat.",
+    "description": "Lightweight, modern utilities micro-tool designed to eliminate bloat.",
+    "category": "Utilities",
+    "whatItReplaces": "Bloated legacy software",
+    "replacesDetailed": "Replaces enterprise bloat with focused micro-functionality.",
+    "targetAudience": "Builders & digital craftsmen",
+    "tags": [
+      "Beginner-Friendly",
+      "Free Tier Available"
+    ],
+    "learningCurve": {
+      "level": "Gentle",
+      "score": 1,
+      "timeToLearn": "5 mins",
+      "summary": "Straightforward onboarding designed for instant velocity."
+    },
+    "tutorialCount": 12,
+    "tutorialMeta": {
+      "videoGuides": 5,
+      "stepByStepDocs": 5,
+      "communityShortcuts": 2
+    },
+    "pricing": "Free tier / Transparent pricing",
+    "status": "published",
+    "localLogoPath": "/logos/sadasd.png",
+    "affiliateUrl": "sadasdsadasd/?ref=curateless",
+    "affiliateBadge": "Partner Pick",
+    "affiliatePerk": "Verified Anti-Bloat Recommendation",
+    "createdAt": "2026-11-03T12:51:31.645Z",
+    "lessonPlan": {
+      "title": "sadasd Quickstart Guide",
+      "subtitle": "Get started with sadasd in under 5 mins.",
+      "estimatedTime": "5 mins",
+      "difficulty": "Beginner",
+      "overview": "A streamlined 5-step curriculum to master sadasd.",
+      "prerequisites": [
+        "Web browser or local app"
+      ],
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Account & Workspace Setup",
+          "timeEstimate": "2 mins",
+          "description": "Download or log in with zero marketing questionnaires.",
+          "actionItems": [
+            "Sign in",
+            "Set preferred defaults"
+          ],
+          "proTip": "Keep initial setup minimal."
+        },
+        {
+          "stepNumber": 2,
+          "title": "Core Workflow Execution",
+          "timeEstimate": "3 mins",
+          "description": "Perform your primary task without menu fatigue.",
+          "actionItems": [
+            "Test primary action"
+          ],
+          "proTip": "Focus strictly on your main daily goal."
+        }
+      ]
+    }
+  },
+  {
+    "id": "draft-1793709286271-linear-1",
+    "name": "Linear",
+    "slug": "linear",
+    "website": "https://linear.app",
+    "domain": "linear.app",
+    "brandColor": "#4f46e5",
+    "logoLetter": "LI",
+    "tagline": "Streamlined issue tracking built for high-performance software teams, replacing slow bloated Jira boards with instant keyboard navigation.",
+    "description": "Streamlined issue tracking built for high-performance software teams, replacing slow bloated Jira boards with instant keyboard navigation.",
+    "category": "Productivity",
+    "whatItReplaces": "Jira & Complex Issue Trackers",
+    "replacesDetailed": "Replaces 10-second multi-step Jira page reloads with instantaneous sub-50ms sync and keyboard navigation.",
+    "targetAudience": "Modern software engineers, product managers, and lean engineering teams.",
+    "tags": [
+      "Beginner-Friendly",
+      "Free Tier Available",
+      "High Performance",
+      "Minimalist UI"
+    ],
+    "learningCurve": {
+      "level": "Gentle",
+      "score": 1,
+      "timeToLearn": "5 mins",
+      "summary": "Familiar spreadsheet-like velocity with intuitive keyboard shortcuts."
+    },
+    "tutorialCount": 18,
+    "tutorialMeta": {
+      "videoGuides": 8,
+      "stepByStepDocs": 8,
+      "communityShortcuts": 2
+    },
+    "pricing": "Free tier available / Transparent pricing",
+    "status": "draft",
+    "localLogoPath": "/logos/linear.png",
+    "logoSource": "a.favicon.im",
+    "affiliateUrl": "https://linear.app/?ref=curateless",
+    "affiliateBadge": "Partner Pick",
+    "affiliatePerk": "Verified Anti-Bloat Recommendation",
+    "createdAt": "2026-11-03T12:34:46.271Z",
+    "ingestedVia": "local-batch-importer",
+    "lessonPlan": {
+      "title": "Linear Zero-Bloat Quickstart",
+      "subtitle": "Master Linear in under 5 mins.",
+      "estimatedTime": "5 mins",
+      "difficulty": "Beginner",
+      "overview": "A streamlined 5-step curriculum to replace bloated legacy tools and master Linear.",
+      "prerequisites": [
+        "Web browser or local application install"
+      ],
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Workspace Setup & Clean Defaults",
+          "timeEstimate": "2 mins",
+          "description": "Launch application and turn off unnecessary notification badges.",
+          "actionItems": [
+            "Open application",
+            "Configure default minimalist preferences"
+          ],
+          "proTip": "Start with default settings to avoid early configuration burnout."
+        },
+        {
+          "stepNumber": 2,
+          "title": "Primary Task Execution",
+          "timeEstimate": "3 mins",
+          "description": "Perform your main daily task without navigating through heavy multi-layered menus.",
+          "actionItems": [
+            "Execute core action",
+            "Observe sub-50ms responsiveness"
+          ],
+          "proTip": "Learn the primary hotkey for creating new entries instantly."
+        }
+      ]
+    }
+  },
+  {
+    "id": "draft-1793709287999-zed-editor-2",
+    "name": "Zed Editor",
+    "slug": "zed-editor",
+    "website": "https://zed.dev",
+    "domain": "zed.dev",
+    "brandColor": "#4f46e5",
+    "logoLetter": "ZE",
+    "tagline": "Ultra-fast, Rust-powered code editor engineered with GPU acceleration for instantaneous startup and sub-millisecond typing latency.",
+    "description": "Ultra-fast, Rust-powered code editor engineered with GPU acceleration for instantaneous startup and sub-millisecond typing latency.",
+    "category": "Utilities",
+    "whatItReplaces": "VS Code & Heavy Electron Editors",
+    "replacesDetailed": "Replaces VS Code’s 1GB+ Electron memory footprint with a high-performance Rust engine rendering at 120fps on the GPU.",
+    "targetAudience": "Software engineers, systems programmers, and minimalists who refuse to wait for editor lag.",
+    "tags": [
+      "Beginner-Friendly",
+      "Free Tier Available",
+      "Open Source",
+      "GPU-Accelerated"
+    ],
+    "learningCurve": {
+      "level": "Low",
+      "score": 2,
+      "timeToLearn": "8 mins",
+      "summary": "Familiar VS Code keymaps with instant responsiveness and built-in language servers."
+    },
+    "tutorialCount": 16,
+    "tutorialMeta": {
+      "videoGuides": 7,
+      "stepByStepDocs": 7,
+      "communityShortcuts": 2
+    },
+    "pricing": "Free tier available / Transparent pricing",
+    "status": "draft",
+    "localLogoPath": "/logos/zed-editor.png",
+    "logoSource": "a.favicon.im",
+    "affiliateUrl": "https://zed.dev/?ref=curateless",
+    "affiliateBadge": "Partner Pick",
+    "affiliatePerk": "Verified Anti-Bloat Recommendation",
+    "createdAt": "2026-11-03T12:34:47.999Z",
+    "ingestedVia": "local-batch-importer",
+    "lessonPlan": {
+      "title": "Zed Editor Zero-Bloat Quickstart",
+      "subtitle": "Master Zed Editor in under 8 mins.",
+      "estimatedTime": "8 mins",
+      "difficulty": "Intermediate",
+      "overview": "A streamlined 5-step curriculum to replace bloated legacy tools and master Zed Editor.",
+      "prerequisites": [
+        "Web browser or local application install"
+      ],
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Workspace Setup & Clean Defaults",
+          "timeEstimate": "2 mins",
+          "description": "Launch application and turn off unnecessary notification badges.",
+          "actionItems": [
+            "Open application",
+            "Configure default minimalist preferences"
+          ],
+          "proTip": "Start with default settings to avoid early configuration burnout."
+        },
+        {
+          "stepNumber": 2,
+          "title": "Primary Task Execution",
+          "timeEstimate": "3 mins",
+          "description": "Perform your main daily task without navigating through heavy multi-layered menus.",
+          "actionItems": [
+            "Execute core action",
+            "Observe sub-50ms responsiveness"
+          ],
+          "proTip": "Learn the primary hotkey for creating new entries instantly."
+        }
+      ]
+    }
+  },
+  {
+    "id": "draft-1793709289262-excalidraw-3",
+    "name": "Excalidraw",
+    "slug": "excalidraw",
+    "website": "https://excalidraw.com",
+    "domain": "excalidraw.com",
+    "brandColor": "#4f46e5",
+    "logoLetter": "EX",
+    "tagline": "Virtual collaborative whiteboard for sketching hand-drawn style diagrams, system architectures, and wireframes with zero account friction.",
+    "description": "Virtual collaborative whiteboard for sketching hand-drawn style diagrams, system architectures, and wireframes with zero account friction.",
+    "category": "Design",
+    "whatItReplaces": "Miro, Mural & Heavy Whiteboards",
+    "replacesDetailed": "Replaces resource-draining canvas whiteboards with an ultra-lightweight client-side SVG sketchpad.",
+    "targetAudience": "Product designers, system architects, engineering leads, and technical educators.",
+    "tags": [
+      "Beginner-Friendly",
+      "Free Tier Available",
+      "Zero Account Required",
+      "Open Source"
+    ],
+    "learningCurve": {
+      "level": "Gentle",
+      "score": 1,
+      "timeToLearn": "3 mins",
+      "summary": "Zero onboarding needed. Pick a tool and draw immediately."
+    },
+    "tutorialCount": 14,
+    "tutorialMeta": {
+      "videoGuides": 6,
+      "stepByStepDocs": 6,
+      "communityShortcuts": 2
+    },
+    "pricing": "Free tier available / Transparent pricing",
+    "status": "draft",
+    "localLogoPath": "/logos/excalidraw.png",
+    "logoSource": "a.favicon.im",
+    "affiliateUrl": "https://excalidraw.com/?ref=curateless",
+    "affiliateBadge": "Partner Pick",
+    "affiliatePerk": "Verified Anti-Bloat Recommendation",
+    "createdAt": "2026-11-03T12:34:49.262Z",
+    "ingestedVia": "local-batch-importer",
+    "lessonPlan": {
+      "title": "Excalidraw Zero-Bloat Quickstart",
+      "subtitle": "Master Excalidraw in under 3 mins.",
+      "estimatedTime": "3 mins",
+      "difficulty": "Beginner",
+      "overview": "A streamlined 5-step curriculum to replace bloated legacy tools and master Excalidraw.",
+      "prerequisites": [
+        "Web browser or local application install"
+      ],
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Workspace Setup & Clean Defaults",
+          "timeEstimate": "2 mins",
+          "description": "Launch application and turn off unnecessary notification badges.",
+          "actionItems": [
+            "Open application",
+            "Configure default minimalist preferences"
+          ],
+          "proTip": "Start with default settings to avoid early configuration burnout."
+        },
+        {
+          "stepNumber": 2,
+          "title": "Primary Task Execution",
+          "timeEstimate": "3 mins",
+          "description": "Perform your main daily task without navigating through heavy multi-layered menus.",
+          "actionItems": [
+            "Execute core action",
+            "Observe sub-50ms responsiveness"
+          ],
+          "proTip": "Learn the primary hotkey for creating new entries instantly."
+        }
+      ]
+    }
+  },
+  {
+    "id": "draft-1793709290581-ghost-4",
+    "name": "Ghost",
+    "slug": "ghost",
+    "website": "https://ghost.org",
+    "domain": "ghost.org",
+    "brandColor": "#4f46e5",
+    "logoLetter": "GH",
+    "tagline": "Modern, open-source publishing platform and newsletter engine built on Node.js, replacing bloated WordPress installations.",
+    "description": "Modern, open-source publishing platform and newsletter engine built on Node.js, replacing bloated WordPress installations.",
+    "category": "Publishing",
+    "whatItReplaces": "Bloated WordPress & Substack",
+    "replacesDetailed": "Replaces 40+ third-party WordPress plugins and sluggish database queries with a clean, fast publishing stack.",
+    "targetAudience": "Independent writers, journalists, niche publishers, and content creators.",
+    "tags": [
+      "Beginner-Friendly",
+      "Free Tier Available",
+      "Independent Web",
+      "SEO Optimized"
+    ],
+    "learningCurve": {
+      "level": "Low",
+      "score": 2,
+      "timeToLearn": "15 mins",
+      "summary": "Clean markdown-first editor with integrated subscriber management."
+    },
+    "tutorialCount": 20,
+    "tutorialMeta": {
+      "videoGuides": 8,
+      "stepByStepDocs": 8,
+      "communityShortcuts": 4
+    },
+    "pricing": "Free tier available / Transparent pricing",
+    "status": "draft",
+    "localLogoPath": "/logos/ghost.png",
+    "logoSource": "a.favicon.im",
+    "affiliateUrl": "https://ghost.org/?ref=curateless",
+    "affiliateBadge": "Partner Pick",
+    "affiliatePerk": "Verified Anti-Bloat Recommendation",
+    "createdAt": "2026-11-03T12:34:50.581Z",
+    "ingestedVia": "local-batch-importer",
+    "lessonPlan": {
+      "title": "Ghost Zero-Bloat Quickstart",
+      "subtitle": "Master Ghost in under 15 mins.",
+      "estimatedTime": "15 mins",
+      "difficulty": "Intermediate",
+      "overview": "A streamlined 5-step curriculum to replace bloated legacy tools and master Ghost.",
+      "prerequisites": [
+        "Web browser or local application install"
+      ],
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Workspace Setup & Clean Defaults",
+          "timeEstimate": "2 mins",
+          "description": "Launch application and turn off unnecessary notification badges.",
+          "actionItems": [
+            "Open application",
+            "Configure default minimalist preferences"
+          ],
+          "proTip": "Start with default settings to avoid early configuration burnout."
+        },
+        {
+          "stepNumber": 2,
+          "title": "Primary Task Execution",
+          "timeEstimate": "3 mins",
+          "description": "Perform your main daily task without navigating through heavy multi-layered menus.",
+          "actionItems": [
+            "Execute core action",
+            "Observe sub-50ms responsiveness"
+          ],
+          "proTip": "Learn the primary hotkey for creating new entries instantly."
+        }
+      ]
+    }
+  },
+  {
+    "id": "draft-1793709292311-cal-com-5",
+    "name": "Cal.com",
+    "slug": "cal-com",
+    "website": "https://cal.com",
+    "domain": "cal.com",
+    "brandColor": "#4f46e5",
+    "logoLetter": "CA",
+    "tagline": "Open-source, self-hostable appointment scheduling platform replacing enterprise-bloated Calendly setups.",
+    "description": "Open-source, self-hostable appointment scheduling platform replacing enterprise-bloated Calendly setups.",
+    "category": "Productivity",
+    "whatItReplaces": "Calendly & Doodle",
+    "replacesDetailed": "Replaces commercial scheduling silos with open data ownership, webhooks, and sub-second booking speeds.",
+    "targetAudience": "Consultants, founders, sales reps, and remote agencies.",
+    "tags": [
+      "Beginner-Friendly",
+      "Free Tier Available",
+      "Self-Hostable",
+      "Open Source"
+    ],
+    "learningCurve": {
+      "level": "Gentle",
+      "score": 1,
+      "timeToLearn": "5 mins",
+      "summary": "Connect your calendar and share your link in minutes."
+    },
+    "tutorialCount": 12,
+    "tutorialMeta": {
+      "videoGuides": 5,
+      "stepByStepDocs": 5,
+      "communityShortcuts": 2
+    },
+    "pricing": "Free tier available / Transparent pricing",
+    "status": "draft",
+    "localLogoPath": "/logos/cal-com.png",
+    "logoSource": "a.favicon.im",
+    "affiliateUrl": "https://cal.com/?ref=curateless",
+    "affiliateBadge": "Partner Pick",
+    "affiliatePerk": "Verified Anti-Bloat Recommendation",
+    "createdAt": "2026-11-03T12:34:52.311Z",
+    "ingestedVia": "local-batch-importer",
+    "lessonPlan": {
+      "title": "Cal.com Zero-Bloat Quickstart",
+      "subtitle": "Master Cal.com in under 5 mins.",
+      "estimatedTime": "5 mins",
+      "difficulty": "Beginner",
+      "overview": "A streamlined 5-step curriculum to replace bloated legacy tools and master Cal.com.",
+      "prerequisites": [
+        "Web browser or local application install"
+      ],
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Workspace Setup & Clean Defaults",
+          "timeEstimate": "2 mins",
+          "description": "Launch application and turn off unnecessary notification badges.",
+          "actionItems": [
+            "Open application",
+            "Configure default minimalist preferences"
+          ],
+          "proTip": "Start with default settings to avoid early configuration burnout."
+        },
+        {
+          "stepNumber": 2,
+          "title": "Primary Task Execution",
+          "timeEstimate": "3 mins",
+          "description": "Perform your main daily task without navigating through heavy multi-layered menus.",
+          "actionItems": [
+            "Execute core action",
+            "Observe sub-50ms responsiveness"
+          ],
+          "proTip": "Learn the primary hotkey for creating new entries instantly."
+        }
+      ]
+    }
+  },
+  {
+    "id": "draft-1793709294197-hoppscotch-6",
+    "name": "Hoppscotch",
+    "slug": "hoppscotch",
+    "website": "https://hoppscotch.io",
+    "domain": "hoppscotch.io",
+    "brandColor": "#4f46e5",
+    "logoLetter": "HO",
+    "tagline": "Lightweight, web-first API development ecosystem replacing bloated 500MB Postman desktop installs.",
+    "description": "Lightweight, web-first API development ecosystem replacing bloated 500MB Postman desktop installs.",
+    "category": "Development",
+    "whatItReplaces": "Postman Desktop & Insomnia Bloat",
+    "replacesDetailed": "Replaces memory-heavy Electron API clients with a sub-50ms web application requiring zero local disk storage.",
+    "targetAudience": "Frontend developers, backend engineers, and QA testers testing REST and GraphQL endpoints.",
+    "tags": [
+      "Beginner-Friendly",
+      "Free Tier Available",
+      "Instant Browser Launch",
+      "Open Source"
+    ],
+    "learningCurve": {
+      "level": "Gentle",
+      "score": 1,
+      "timeToLearn": "4 mins",
+      "summary": "Runs right inside your browser with instantaneous request dispatching."
+    },
+    "tutorialCount": 15,
+    "tutorialMeta": {
+      "videoGuides": 6,
+      "stepByStepDocs": 6,
+      "communityShortcuts": 3
+    },
+    "pricing": "Free tier available / Transparent pricing",
+    "status": "draft",
+    "localLogoPath": "/logos/hoppscotch.png",
+    "logoSource": "a.favicon.im",
+    "affiliateUrl": "https://hoppscotch.io/?ref=curateless",
+    "affiliateBadge": "Partner Pick",
+    "affiliatePerk": "Verified Anti-Bloat Recommendation",
+    "createdAt": "2026-11-03T12:34:54.197Z",
+    "ingestedVia": "local-batch-importer",
+    "lessonPlan": {
+      "title": "Hoppscotch Zero-Bloat Quickstart",
+      "subtitle": "Master Hoppscotch in under 4 mins.",
+      "estimatedTime": "4 mins",
+      "difficulty": "Beginner",
+      "overview": "A streamlined 5-step curriculum to replace bloated legacy tools and master Hoppscotch.",
+      "prerequisites": [
+        "Web browser or local application install"
+      ],
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Workspace Setup & Clean Defaults",
+          "timeEstimate": "2 mins",
+          "description": "Launch application and turn off unnecessary notification badges.",
+          "actionItems": [
+            "Open application",
+            "Configure default minimalist preferences"
+          ],
+          "proTip": "Start with default settings to avoid early configuration burnout."
+        },
+        {
+          "stepNumber": 2,
+          "title": "Primary Task Execution",
+          "timeEstimate": "3 mins",
+          "description": "Perform your main daily task without navigating through heavy multi-layered menus.",
+          "actionItems": [
+            "Execute core action",
+            "Observe sub-50ms responsiveness"
+          ],
+          "proTip": "Learn the primary hotkey for creating new entries instantly."
+        }
+      ]
+    }
+  },
+  {
+    "id": "draft-1793709295383-baserow-7",
+    "name": "Baserow",
+    "slug": "baserow",
+    "website": "https://baserow.io",
+    "domain": "baserow.io",
+    "brandColor": "#4f46e5",
+    "logoLetter": "BA",
+    "tagline": "Open-source no-code database and Airtable alternative giving full control over your relational data without row locks.",
+    "description": "Open-source no-code database and Airtable alternative giving full control over your relational data without row locks.",
+    "category": "Database",
+    "whatItReplaces": "Airtable & Locked Spreadsheets",
+    "replacesDetailed": "Eliminates aggressive Airtable pricing tiers and restrictive 50k row limits with open PostgreSQL performance.",
+    "targetAudience": "Operations managers, database administrators, and no-code builders.",
+    "tags": [
+      "Beginner-Friendly",
+      "Free Tier Available",
+      "Self-Hostable",
+      "Relational Database"
+    ],
+    "learningCurve": {
+      "level": "Moderate",
+      "score": 3,
+      "timeToLearn": "12 mins",
+      "summary": "Familiar spreadsheet interface powered by real PostgreSQL relational architecture."
+    },
+    "tutorialCount": 13,
+    "tutorialMeta": {
+      "videoGuides": 6,
+      "stepByStepDocs": 6,
+      "communityShortcuts": 1
+    },
+    "pricing": "Free tier available / Transparent pricing",
+    "status": "draft",
+    "localLogoPath": "/logos/baserow.png",
+    "logoSource": "a.favicon.im",
+    "affiliateUrl": "https://baserow.io/?ref=curateless",
+    "affiliateBadge": "Partner Pick",
+    "affiliatePerk": "Verified Anti-Bloat Recommendation",
+    "createdAt": "2026-11-03T12:34:55.383Z",
+    "ingestedVia": "local-batch-importer",
+    "lessonPlan": {
+      "title": "Baserow Zero-Bloat Quickstart",
+      "subtitle": "Master Baserow in under 12 mins.",
+      "estimatedTime": "12 mins",
+      "difficulty": "Intermediate",
+      "overview": "A streamlined 5-step curriculum to replace bloated legacy tools and master Baserow.",
+      "prerequisites": [
+        "Web browser or local application install"
+      ],
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Workspace Setup & Clean Defaults",
+          "timeEstimate": "2 mins",
+          "description": "Launch application and turn off unnecessary notification badges.",
+          "actionItems": [
+            "Open application",
+            "Configure default minimalist preferences"
+          ],
+          "proTip": "Start with default settings to avoid early configuration burnout."
+        },
+        {
+          "stepNumber": 2,
+          "title": "Primary Task Execution",
+          "timeEstimate": "3 mins",
+          "description": "Perform your main daily task without navigating through heavy multi-layered menus.",
+          "actionItems": [
+            "Execute core action",
+            "Observe sub-50ms responsiveness"
+          ],
+          "proTip": "Learn the primary hotkey for creating new entries instantly."
+        }
+      ]
+    }
+  },
+  {
+    "id": "draft-1793709296754-raycast-8",
+    "name": "Raycast",
+    "slug": "raycast",
+    "website": "https://raycast.com",
+    "domain": "raycast.com",
+    "brandColor": "#4f46e5",
+    "logoLetter": "RA",
+    "tagline": "Blazingly fast, extendable Mac launcher engineered to keep your hands on the keyboard and automate recurring tasks.",
+    "description": "Blazingly fast, extendable Mac launcher engineered to keep your hands on the keyboard and automate recurring tasks.",
+    "category": "Utilities",
+    "whatItReplaces": "Spotlight, Alfred & Sluggish Launchers",
+    "replacesDetailed": "Replaces sluggish search bars and standalone snippets apps with a single, unified sub-10ms launcher.",
+    "targetAudience": "Mac power users, developers, and speed-oriented professionals.",
+    "tags": [
+      "Beginner-Friendly",
+      "Free Tier Available",
+      "Keyboard-First",
+      "Extensible"
+    ],
+    "learningCurve": {
+      "level": "Gentle",
+      "score": 1,
+      "timeToLearn": "5 mins",
+      "summary": "Instant replacement for Spotlight with powerful community extensions."
+    },
+    "tutorialCount": 22,
+    "tutorialMeta": {
+      "videoGuides": 9,
+      "stepByStepDocs": 9,
+      "communityShortcuts": 4
+    },
+    "pricing": "Free tier available / Transparent pricing",
+    "status": "draft",
+    "localLogoPath": "/logos/raycast.png",
+    "logoSource": "a.favicon.im",
+    "affiliateUrl": "https://raycast.com/?ref=curateless",
+    "affiliateBadge": "Partner Pick",
+    "affiliatePerk": "Verified Anti-Bloat Recommendation",
+    "createdAt": "2026-11-03T12:34:56.754Z",
+    "ingestedVia": "local-batch-importer",
+    "lessonPlan": {
+      "title": "Raycast Zero-Bloat Quickstart",
+      "subtitle": "Master Raycast in under 5 mins.",
+      "estimatedTime": "5 mins",
+      "difficulty": "Beginner",
+      "overview": "A streamlined 5-step curriculum to replace bloated legacy tools and master Raycast.",
+      "prerequisites": [
+        "Web browser or local application install"
+      ],
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Workspace Setup & Clean Defaults",
+          "timeEstimate": "2 mins",
+          "description": "Launch application and turn off unnecessary notification badges.",
+          "actionItems": [
+            "Open application",
+            "Configure default minimalist preferences"
+          ],
+          "proTip": "Start with default settings to avoid early configuration burnout."
+        },
+        {
+          "stepNumber": 2,
+          "title": "Primary Task Execution",
+          "timeEstimate": "3 mins",
+          "description": "Perform your main daily task without navigating through heavy multi-layered menus.",
+          "actionItems": [
+            "Execute core action",
+            "Observe sub-50ms responsiveness"
+          ],
+          "proTip": "Learn the primary hotkey for creating new entries instantly."
+        }
+      ]
+    }
+  },
+  {
+    "id": "draft-1793709297862-typora-9",
+    "name": "Typora",
+    "slug": "typora",
+    "website": "https://typora.io",
+    "domain": "typora.io",
+    "brandColor": "#4f46e5",
+    "logoLetter": "TY",
+    "tagline": "Seamless, live-preview Markdown reader and writer providing distraction-free authoring without dual-pane clutter.",
+    "description": "Seamless, live-preview Markdown reader and writer providing distraction-free authoring without dual-pane clutter.",
+    "category": "Writing",
+    "whatItReplaces": "Microsoft Word & Cluttered Dual-Pane Editors",
+    "replacesDetailed": "Replaces heavy WYSIWYG word processors with a clean, single-surface live-preview Markdown document viewer.",
+    "targetAudience": "Technical writers, documentation authors, students, and bloggers.",
+    "tags": [
+      "Beginner-Friendly",
+      "Free Tier Available",
+      "Distraction-Free",
+      "Markdown-Native"
+    ],
+    "learningCurve": {
+      "level": "Gentle",
+      "score": 1,
+      "timeToLearn": "2 mins",
+      "summary": "What you see is what you type: markdown elements format in real time."
+    },
+    "tutorialCount": 10,
+    "tutorialMeta": {
+      "videoGuides": 4,
+      "stepByStepDocs": 4,
+      "communityShortcuts": 2
+    },
+    "pricing": "Free tier available / Transparent pricing",
+    "status": "draft",
+    "localLogoPath": "/logos/typora.png",
+    "logoSource": "a.favicon.im",
+    "affiliateUrl": "https://typora.io/?ref=curateless",
+    "affiliateBadge": "Partner Pick",
+    "affiliatePerk": "Verified Anti-Bloat Recommendation",
+    "createdAt": "2026-11-03T12:34:57.862Z",
+    "ingestedVia": "local-batch-importer",
+    "lessonPlan": {
+      "title": "Typora Zero-Bloat Quickstart",
+      "subtitle": "Master Typora in under 2 mins.",
+      "estimatedTime": "2 mins",
+      "difficulty": "Beginner",
+      "overview": "A streamlined 5-step curriculum to replace bloated legacy tools and master Typora.",
+      "prerequisites": [
+        "Web browser or local application install"
+      ],
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Workspace Setup & Clean Defaults",
+          "timeEstimate": "2 mins",
+          "description": "Launch application and turn off unnecessary notification badges.",
+          "actionItems": [
+            "Open application",
+            "Configure default minimalist preferences"
+          ],
+          "proTip": "Start with default settings to avoid early configuration burnout."
+        },
+        {
+          "stepNumber": 2,
+          "title": "Primary Task Execution",
+          "timeEstimate": "3 mins",
+          "description": "Perform your main daily task without navigating through heavy multi-layered menus.",
+          "actionItems": [
+            "Execute core action",
+            "Observe sub-50ms responsiveness"
+          ],
+          "proTip": "Learn the primary hotkey for creating new entries instantly."
+        }
+      ]
+    }
+  },
+  {
+    "id": "draft-1793709298971-obsidian-10",
+    "name": "Obsidian",
+    "slug": "obsidian",
+    "website": "https://obsidian.md",
+    "domain": "obsidian.md",
+    "brandColor": "#4f46e5",
+    "logoLetter": "OB",
+    "tagline": "Private and flexible knowledge base that adapts to the way you think, storing plain text Markdown files locally on your computer.",
+    "description": "Private and flexible knowledge base that adapts to the way you think, storing plain text Markdown files locally on your computer.",
+    "category": "Notes",
+    "whatItReplaces": "Notion & Sluggish Cloud Note Apps",
+    "replacesDetailed": "Replaces proprietary cloud notes and slow database page loads with instantaneous local Markdown files you own forever.",
+    "targetAudience": "Researchers, developers, writers, and knowledge workers seeking data sovereignty.",
+    "tags": [
+      "Beginner-Friendly",
+      "Free Tier Available",
+      "Local-First",
+      "Zero Vendor Lock-in"
+    ],
+    "learningCurve": {
+      "level": "Low",
+      "score": 2,
+      "timeToLearn": "10 mins",
+      "summary": "Start with simple notes, then connect ideas using bi-directional links and graph views."
+    },
+    "tutorialCount": 25,
+    "tutorialMeta": {
+      "videoGuides": 10,
+      "stepByStepDocs": 10,
+      "communityShortcuts": 5
+    },
+    "pricing": "Free tier available / Transparent pricing",
+    "status": "draft",
+    "localLogoPath": "/logos/obsidian.png",
+    "logoSource": "a.favicon.im",
+    "affiliateUrl": "https://obsidian.md/?ref=curateless",
+    "affiliateBadge": "Partner Pick",
+    "affiliatePerk": "Verified Anti-Bloat Recommendation",
+    "createdAt": "2026-11-03T12:34:58.971Z",
+    "ingestedVia": "local-batch-importer",
+    "lessonPlan": {
+      "title": "Obsidian Zero-Bloat Quickstart",
+      "subtitle": "Master Obsidian in under 10 mins.",
+      "estimatedTime": "10 mins",
+      "difficulty": "Intermediate",
+      "overview": "A streamlined 5-step curriculum to replace bloated legacy tools and master Obsidian.",
+      "prerequisites": [
+        "Web browser or local application install"
+      ],
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Workspace Setup & Clean Defaults",
+          "timeEstimate": "2 mins",
+          "description": "Launch application and turn off unnecessary notification badges.",
+          "actionItems": [
+            "Open application",
+            "Configure default minimalist preferences"
+          ],
+          "proTip": "Start with default settings to avoid early configuration burnout."
+        },
+        {
+          "stepNumber": 2,
+          "title": "Primary Task Execution",
+          "timeEstimate": "3 mins",
+          "description": "Perform your main daily task without navigating through heavy multi-layered menus.",
+          "actionItems": [
+            "Execute core action",
+            "Observe sub-50ms responsiveness"
+          ],
+          "proTip": "Learn the primary hotkey for creating new entries instantly."
+        }
+      ]
+    }
+  },
+  {
+    "id": "draft-1793709254053-pocketbase-1",
+    "name": "PocketBase",
+    "slug": "pocketbase",
+    "website": "https://pocketbase.io",
+    "domain": "pocketbase.io",
+    "brandColor": "#4f46e5",
+    "logoLetter": "PO",
+    "tagline": "Open source backend in 1 single executable file with embedded SQLite.",
+    "description": "Open source backend in 1 single executable file with embedded SQLite.",
+    "category": "Database",
+    "whatItReplaces": "Bloated legacy software",
+    "replacesDetailed": "Replaces enterprise bloat with focused micro-functionality and sub-50ms velocity.",
+    "targetAudience": "Modern digital minimalists and power users.",
+    "tags": [
+      "Beginner-Friendly",
+      "Free Tier Available",
+      "Single Executable"
+    ],
+    "learningCurve": {
+      "level": "Gentle",
+      "score": 1,
+      "timeToLearn": "5 mins",
+      "summary": "Download single binary and run immediately."
+    },
+    "tutorialCount": 10,
+    "tutorialMeta": {
+      "videoGuides": 4,
+      "stepByStepDocs": 4,
+      "communityShortcuts": 2
+    },
+    "pricing": "Free tier available / Transparent pricing",
+    "status": "draft",
+    "localLogoPath": "/logos/pocketbase.png",
+    "logoSource": "a.favicon.im",
+    "affiliateUrl": "https://pocketbase.io/?ref=curateless",
+    "affiliateBadge": "Partner Pick",
+    "affiliatePerk": "Verified Anti-Bloat Recommendation",
+    "createdAt": "2026-11-03T12:34:14.053Z",
+    "ingestedVia": "local-batch-importer",
+    "lessonPlan": {
+      "title": "PocketBase Zero-Bloat Quickstart",
+      "subtitle": "Master PocketBase in under 5 mins.",
+      "estimatedTime": "5 mins",
+      "difficulty": "Beginner",
+      "overview": "A streamlined 5-step curriculum to replace bloated legacy tools and master PocketBase.",
+      "prerequisites": [
+        "Web browser or local application install"
+      ],
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Workspace Setup & Clean Defaults",
+          "timeEstimate": "2 mins",
+          "description": "Launch application and turn off unnecessary notification badges.",
+          "actionItems": [
+            "Open application",
+            "Configure default minimalist preferences"
+          ],
+          "proTip": "Start with default settings to avoid early configuration burnout."
+        },
+        {
+          "stepNumber": 2,
+          "title": "Primary Task Execution",
+          "timeEstimate": "3 mins",
+          "description": "Perform your main daily task without navigating through heavy multi-layered menus.",
+          "actionItems": [
+            "Execute core action",
+            "Observe sub-50ms responsiveness"
+          ],
+          "proTip": "Learn the primary hotkey for creating new entries instantly."
+        }
+      ]
+    }
+  },
+  {
+    "id": "draft-1793709255172-tailscale-2",
+    "name": "Tailscale",
+    "slug": "tailscale",
+    "website": "https://tailscale.com",
+    "domain": "tailscale.com",
+    "brandColor": "#4f46e5",
+    "logoLetter": "TA",
+    "tagline": "Zero config mesh VPN that connects your devices and services securely using WireGuard.",
+    "description": "Zero config mesh VPN that connects your devices and services securely using WireGuard.",
+    "category": "Utilities",
+    "whatItReplaces": "Bloated legacy software",
+    "replacesDetailed": "Replaces enterprise bloat with focused micro-functionality and sub-50ms velocity.",
+    "targetAudience": "Modern digital minimalists and power users.",
+    "tags": [
+      "Beginner-Friendly",
+      "Free Tier Available",
+      "WireGuard-Powered"
+    ],
+    "learningCurve": {
+      "level": "Gentle",
+      "score": 1,
+      "timeToLearn": "4 mins",
+      "summary": "Sign in with your identity provider and connect in 1 click."
+    },
+    "tutorialCount": 10,
+    "tutorialMeta": {
+      "videoGuides": 4,
+      "stepByStepDocs": 4,
+      "communityShortcuts": 2
+    },
+    "pricing": "Free tier available / Transparent pricing",
+    "status": "draft",
+    "localLogoPath": "/logos/tailscale.png",
+    "logoSource": "a.favicon.im",
+    "affiliateUrl": "https://tailscale.com/?ref=curateless",
+    "affiliateBadge": "Partner Pick",
+    "affiliatePerk": "Verified Anti-Bloat Recommendation",
+    "createdAt": "2026-11-03T12:34:15.172Z",
+    "ingestedVia": "local-batch-importer",
+    "lessonPlan": {
+      "title": "Tailscale Zero-Bloat Quickstart",
+      "subtitle": "Master Tailscale in under 4 mins.",
+      "estimatedTime": "4 mins",
+      "difficulty": "Beginner",
+      "overview": "A streamlined 5-step curriculum to replace bloated legacy tools and master Tailscale.",
+      "prerequisites": [
+        "Web browser or local application install"
+      ],
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Workspace Setup & Clean Defaults",
+          "timeEstimate": "2 mins",
+          "description": "Launch application and turn off unnecessary notification badges.",
+          "actionItems": [
+            "Open application",
+            "Configure default minimalist preferences"
+          ],
+          "proTip": "Start with default settings to avoid early configuration burnout."
+        },
+        {
+          "stepNumber": 2,
+          "title": "Primary Task Execution",
+          "timeEstimate": "3 mins",
+          "description": "Perform your main daily task without navigating through heavy multi-layered menus.",
+          "actionItems": [
+            "Execute core action",
+            "Observe sub-50ms responsiveness"
+          ],
+          "proTip": "Learn the primary hotkey for creating new entries instantly."
+        }
+      ]
+    }
+  },
+  {
+    "id": "draft-1793708700130-plausible-analytics",
+    "name": "Plausible Analytics",
+    "slug": "plausible-analytics",
+    "website": "https://plausible.io",
+    "domain": "plausible.io",
+    "brandColor": "#6366F1",
+    "tagline": "Simple, lightweight, privacy-focused open source Google Analytics alternative.",
+    "description": "Privacy-focused, sub-1KB web analytics dashboard providing high-value visitor insights without intrusive tracking cookies or complex menus.",
+    "category": "Utilities",
+    "whatItReplaces": "Google Analytics 4 & Heavy Tracking Bloat",
+    "replacesDetailed": "Replaces GA4’s convoluted 50-page menu maze, intrusive cookie banners, and 45KB tracker scripts with a sub-1KB, privacy-first analytics dashboard.",
+    "targetAudience": "Indie founders, content creators, and privacy-conscious web developers.",
+    "tags": [
+      "Beginner-Friendly",
+      "Free Tier Available",
+      "Alternative to Google Analytics",
+      "Open Source",
+      "Cookie-Free"
+    ],
+    "learningCurve": {
+      "level": "Gentle",
+      "score": 1,
+      "timeToLearn": "3 mins",
+      "summary": "Single-page analytics dashboard. Zero training or cookie banner configuration needed."
+    },
+    "tutorialCount": 14,
+    "tutorialMeta": {
+      "videoGuides": 6,
+      "stepByStepDocs": 6,
+      "communityShortcuts": 2
+    },
+    "pricing": "Free tier available / Transparent pricing",
+    "affiliateUrl": "https://plausible.io/?ref=curateless",
+    "status": "draft",
+    "aiGeneratedAt": "2026-11-03T12:24:59.214Z",
+    "lessonPlan": {
+      "title": "Plausible Analytics Zero-Bloat Quickstart",
+      "subtitle": "Get started with Plausible Analytics in under 3 mins.",
+      "estimatedTime": "3 mins",
+      "difficulty": "Beginner",
+      "overview": "A streamlined 5-step curriculum to replace bloated tools and master Plausible Analytics without cognitive fatigue.",
+      "prerequisites": [
+        "Web browser or local application install"
+      ],
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Initialization & Clean Defaults",
+          "timeEstimate": "2 mins",
+          "description": "Launch the application and disable non-essential notification badges.",
+          "actionItems": [
+            "Open application",
+            "Turn off unnecessary alerts and marketing popups"
+          ],
+          "proTip": "Start with default minimalist settings to avoid early configuration burnout."
+        },
+        {
+          "stepNumber": 2,
+          "title": "Core Workflow Execution",
+          "timeEstimate": "3 mins",
+          "description": "Perform your primary daily task without navigating through heavy multi-layered menus.",
+          "actionItems": [
+            "Execute standard action",
+            "Notice the immediate sub-50ms responsiveness"
+          ],
+          "proTip": "Learn the primary hotkey for creating new entries instantly."
+        },
+        {
+          "stepNumber": 3,
+          "title": "Keyboard Hotkeys & Flow State",
+          "timeEstimate": "2 mins",
+          "description": "Map essential shortcuts to keep your hands on the keyboard.",
+          "actionItems": [
+            "Review the cheat sheet",
+            "Test navigation commands"
+          ],
+          "proTip": "Press ? anywhere to inspect available keyboard combinations."
+        },
+        {
+          "stepNumber": 4,
+          "title": "Local Data Export & Sovereignty",
+          "timeEstimate": "2 mins",
+          "description": "Ensure your data is readily exportable in open formats with zero vendor lock-in.",
+          "actionItems": [
+            "Locate export options",
+            "Confirm standard formats (JSON/Markdown/CSV)"
+          ],
+          "proTip": "Keep regular offline backups of your workspace."
+        },
+        {
+          "stepNumber": 5,
+          "title": "Team Handoff or Daily Automation",
+          "timeEstimate": "2 mins",
+          "description": "Share lightweight outputs with colleagues without forcing them to register accounts.",
+          "actionItems": [
+            "Generate clean share link",
+            "Verify distraction-free viewer mode"
+          ],
+          "proTip": "Colleagues can view your outputs without signing up for enterprise seats."
+        }
+      ]
+    },
+    "localLogoPath": "/logos/plausible-analytics.png",
+    "affiliateBadge": "Partner Pick",
+    "affiliatePerk": "Verified Anti-Bloat Recommendation",
+    "createdAt": "2026-11-03T12:25:00.130Z"
+  },
+  {
+    "id": "draft-1793708702056-kitemaker",
+    "name": "Kitemaker",
+    "slug": "kitemaker",
+    "website": "https://kitemaker.co",
+    "domain": "kitemaker.co",
+    "brandColor": "#F43F5E",
+    "tagline": "Fast, keyboard-driven product collaboration and issue tracking.",
+    "description": "Ultra-responsive issue tracker built around conversations and keyboard shortcuts, stripping away Jira's administrative overhead.",
+    "category": "Organization",
+    "whatItReplaces": "Jira & Bureaucratic Issue Trackers",
+    "replacesDetailed": "Replaces Jira’s slow drag-and-drop ticket boards and endless custom fields with hotkey-driven, discussion-centric product discovery for agile engineering squads.",
+    "targetAudience": "Engineering squads and high-velocity product teams who prioritize building over ticket bureaucracy.",
+    "tags": [
+      "Beginner-Friendly",
+      "Free Tier Available",
+      "Alternative to Jira",
+      "Keyboard-First"
+    ],
+    "learningCurve": {
+      "level": "Low",
+      "score": 2,
+      "timeToLearn": "8 mins",
+      "summary": "Keyboard-driven work items with seamless GitHub and Slack integrations."
+    },
+    "tutorialCount": 12,
+    "tutorialMeta": {
+      "videoGuides": 5,
+      "stepByStepDocs": 5,
+      "communityShortcuts": 2
+    },
+    "pricing": "Free tier available / Transparent pricing",
+    "affiliateUrl": "https://kitemaker.co/?ref=curateless",
+    "status": "draft",
+    "aiGeneratedAt": "2026-11-03T12:25:00.130Z",
+    "lessonPlan": {
+      "title": "Kitemaker Zero-Bloat Quickstart",
+      "subtitle": "Get started with Kitemaker in under 8 mins.",
+      "estimatedTime": "8 mins",
+      "difficulty": "Intermediate",
+      "overview": "A streamlined 5-step curriculum to replace bloated tools and master Kitemaker without cognitive fatigue.",
+      "prerequisites": [
+        "Web browser or local application install"
+      ],
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Initialization & Clean Defaults",
+          "timeEstimate": "2 mins",
+          "description": "Launch the application and disable non-essential notification badges.",
+          "actionItems": [
+            "Open application",
+            "Turn off unnecessary alerts and marketing popups"
+          ],
+          "proTip": "Start with default minimalist settings to avoid early configuration burnout."
+        },
+        {
+          "stepNumber": 2,
+          "title": "Core Workflow Execution",
+          "timeEstimate": "3 mins",
+          "description": "Perform your primary daily task without navigating through heavy multi-layered menus.",
+          "actionItems": [
+            "Execute standard action",
+            "Notice the immediate sub-50ms responsiveness"
+          ],
+          "proTip": "Learn the primary hotkey for creating new entries instantly."
+        },
+        {
+          "stepNumber": 3,
+          "title": "Keyboard Hotkeys & Flow State",
+          "timeEstimate": "2 mins",
+          "description": "Map essential shortcuts to keep your hands on the keyboard.",
+          "actionItems": [
+            "Review the cheat sheet",
+            "Test navigation commands"
+          ],
+          "proTip": "Press ? anywhere to inspect available keyboard combinations."
+        },
+        {
+          "stepNumber": 4,
+          "title": "Local Data Export & Sovereignty",
+          "timeEstimate": "2 mins",
+          "description": "Ensure your data is readily exportable in open formats with zero vendor lock-in.",
+          "actionItems": [
+            "Locate export options",
+            "Confirm standard formats (JSON/Markdown/CSV)"
+          ],
+          "proTip": "Keep regular offline backups of your workspace."
+        },
+        {
+          "stepNumber": 5,
+          "title": "Team Handoff or Daily Automation",
+          "timeEstimate": "2 mins",
+          "description": "Share lightweight outputs with colleagues without forcing them to register accounts.",
+          "actionItems": [
+            "Generate clean share link",
+            "Verify distraction-free viewer mode"
+          ],
+          "proTip": "Colleagues can view your outputs without signing up for enterprise seats."
+        }
+      ]
+    },
+    "localLogoPath": "/logos/kitemaker.png",
+    "affiliateBadge": "Partner Pick",
+    "affiliatePerk": "Verified Anti-Bloat Recommendation",
+    "createdAt": "2026-11-03T12:25:02.056Z"
+  },
+  {
+    "id": "draft-1793708703808-snipd",
+    "name": "Snipd",
+    "slug": "snipd",
+    "website": "https://snipd.com",
+    "domain": "snipd.com",
+    "brandColor": "#06B6D4",
+    "tagline": "AI podcast player that captures, transcribes, and organizes audio knowledge.",
+    "description": "AI-powered podcast player that highlights spoken ideas, transcribes audio instantly, and exports key takeaways to your second brain.",
+    "category": "Video",
+    "whatItReplaces": "Bloated Podcast Players & Heavy Audio Editors",
+    "replacesDetailed": "Replaces sluggish podcast players with one-tap AI audio bookmarking, automated transcripts, key takeaways, and smart silence removal.",
+    "targetAudience": "Podcast listeners, researchers, and lifelong learners wanting to retain audio insights.",
+    "tags": [
+      "Beginner-Friendly",
+      "Free Tier Available",
+      "Smart Transcripts",
+      "AI-Powered"
+    ],
+    "learningCurve": {
+      "level": "Gentle",
+      "score": 1,
+      "timeToLearn": "4 mins",
+      "summary": "Tap headphone button to snip insights. AI automatically transcribes and syncs to Notion/Obsidian."
+    },
+    "tutorialCount": 10,
+    "tutorialMeta": {
+      "videoGuides": 4,
+      "stepByStepDocs": 4,
+      "communityShortcuts": 2
+    },
+    "pricing": "Free tier available / Transparent pricing",
+    "affiliateUrl": "https://snipd.com/?ref=curateless",
+    "status": "draft",
+    "aiGeneratedAt": "2026-11-03T12:25:02.056Z",
+    "lessonPlan": {
+      "title": "Snipd Zero-Bloat Quickstart",
+      "subtitle": "Get started with Snipd in under 4 mins.",
+      "estimatedTime": "4 mins",
+      "difficulty": "Beginner",
+      "overview": "A streamlined 5-step curriculum to replace bloated tools and master Snipd without cognitive fatigue.",
+      "prerequisites": [
+        "Web browser or local application install"
+      ],
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Initialization & Clean Defaults",
+          "timeEstimate": "2 mins",
+          "description": "Launch the application and disable non-essential notification badges.",
+          "actionItems": [
+            "Open application",
+            "Turn off unnecessary alerts and marketing popups"
+          ],
+          "proTip": "Start with default minimalist settings to avoid early configuration burnout."
+        },
+        {
+          "stepNumber": 2,
+          "title": "Core Workflow Execution",
+          "timeEstimate": "3 mins",
+          "description": "Perform your primary daily task without navigating through heavy multi-layered menus.",
+          "actionItems": [
+            "Execute standard action",
+            "Notice the immediate sub-50ms responsiveness"
+          ],
+          "proTip": "Learn the primary hotkey for creating new entries instantly."
+        },
+        {
+          "stepNumber": 3,
+          "title": "Keyboard Hotkeys & Flow State",
+          "timeEstimate": "2 mins",
+          "description": "Map essential shortcuts to keep your hands on the keyboard.",
+          "actionItems": [
+            "Review the cheat sheet",
+            "Test navigation commands"
+          ],
+          "proTip": "Press ? anywhere to inspect available keyboard combinations."
+        },
+        {
+          "stepNumber": 4,
+          "title": "Local Data Export & Sovereignty",
+          "timeEstimate": "2 mins",
+          "description": "Ensure your data is readily exportable in open formats with zero vendor lock-in.",
+          "actionItems": [
+            "Locate export options",
+            "Confirm standard formats (JSON/Markdown/CSV)"
+          ],
+          "proTip": "Keep regular offline backups of your workspace."
+        },
+        {
+          "stepNumber": 5,
+          "title": "Team Handoff or Daily Automation",
+          "timeEstimate": "2 mins",
+          "description": "Share lightweight outputs with colleagues without forcing them to register accounts.",
+          "actionItems": [
+            "Generate clean share link",
+            "Verify distraction-free viewer mode"
+          ],
+          "proTip": "Colleagues can view your outputs without signing up for enterprise seats."
+        }
+      ]
+    },
+    "localLogoPath": "/logos/snipd.png",
+    "affiliateBadge": "Partner Pick",
+    "affiliatePerk": "Verified Anti-Bloat Recommendation",
+    "createdAt": "2026-11-03T12:25:03.808Z"
+  },
+  {
+    "id": "draft-1793708704989-standard-notes",
+    "name": "Standard Notes",
+    "slug": "standard-notes",
+    "website": "https://standardnotes.com",
+    "domain": "standardnotes.com",
+    "brandColor": "#3B82F6",
+    "tagline": "End-to-end encrypted note-taking app designed for digital longevity.",
+    "description": "End-to-end encrypted, zero-knowledge note-taking app ensuring 100-year digital permanence with lightweight plain text and Markdown.",
+    "category": "Writing",
+    "whatItReplaces": "Evernote, Google Docs & Proprietary Note Lock-in",
+    "replacesDetailed": "Replaces heavy cloud note bloat and surveillance capitalist data mining with end-to-end encrypted, zero-knowledge plain text and Markdown notes.",
+    "targetAudience": "Journalists, researchers, novelists, and privacy advocates needing eternal note longevity.",
+    "tags": [
+      "Beginner-Friendly",
+      "Free Tier Available",
+      "Alternative to Evernote",
+      "Open Source",
+      "End-to-End Encrypted"
+    ],
+    "learningCurve": {
+      "level": "Low",
+      "score": 2,
+      "timeToLearn": "6 mins",
+      "summary": "Clean interface with local encryption and instant multi-device synchronization."
+    },
+    "tutorialCount": 18,
+    "tutorialMeta": {
+      "videoGuides": 8,
+      "stepByStepDocs": 8,
+      "communityShortcuts": 2
+    },
+    "pricing": "Free tier available / Transparent pricing",
+    "affiliateUrl": "https://standardnotes.com/?ref=curateless",
+    "status": "draft",
+    "aiGeneratedAt": "2026-11-03T12:25:03.808Z",
+    "lessonPlan": {
+      "title": "Standard Notes Zero-Bloat Quickstart",
+      "subtitle": "Get started with Standard Notes in under 6 mins.",
+      "estimatedTime": "6 mins",
+      "difficulty": "Intermediate",
+      "overview": "A streamlined 5-step curriculum to replace bloated tools and master Standard Notes without cognitive fatigue.",
+      "prerequisites": [
+        "Web browser or local application install"
+      ],
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Initialization & Clean Defaults",
+          "timeEstimate": "2 mins",
+          "description": "Launch the application and disable non-essential notification badges.",
+          "actionItems": [
+            "Open application",
+            "Turn off unnecessary alerts and marketing popups"
+          ],
+          "proTip": "Start with default minimalist settings to avoid early configuration burnout."
+        },
+        {
+          "stepNumber": 2,
+          "title": "Core Workflow Execution",
+          "timeEstimate": "3 mins",
+          "description": "Perform your primary daily task without navigating through heavy multi-layered menus.",
+          "actionItems": [
+            "Execute standard action",
+            "Notice the immediate sub-50ms responsiveness"
+          ],
+          "proTip": "Learn the primary hotkey for creating new entries instantly."
+        },
+        {
+          "stepNumber": 3,
+          "title": "Keyboard Hotkeys & Flow State",
+          "timeEstimate": "2 mins",
+          "description": "Map essential shortcuts to keep your hands on the keyboard.",
+          "actionItems": [
+            "Review the cheat sheet",
+            "Test navigation commands"
+          ],
+          "proTip": "Press ? anywhere to inspect available keyboard combinations."
+        },
+        {
+          "stepNumber": 4,
+          "title": "Local Data Export & Sovereignty",
+          "timeEstimate": "2 mins",
+          "description": "Ensure your data is readily exportable in open formats with zero vendor lock-in.",
+          "actionItems": [
+            "Locate export options",
+            "Confirm standard formats (JSON/Markdown/CSV)"
+          ],
+          "proTip": "Keep regular offline backups of your workspace."
+        },
+        {
+          "stepNumber": 5,
+          "title": "Team Handoff or Daily Automation",
+          "timeEstimate": "2 mins",
+          "description": "Share lightweight outputs with colleagues without forcing them to register accounts.",
+          "actionItems": [
+            "Generate clean share link",
+            "Verify distraction-free viewer mode"
+          ],
+          "proTip": "Colleagues can view your outputs without signing up for enterprise seats."
+        }
+      ]
+    },
+    "localLogoPath": "/logos/standard-notes.png",
+    "affiliateBadge": "Partner Pick",
+    "affiliatePerk": "Verified Anti-Bloat Recommendation",
+    "createdAt": "2026-11-03T12:25:04.989Z"
+  },
+  {
+    "id": "draft-1793708670133",
+    "name": "Railway",
+    "slug": "railway",
+    "website": "https://railway.app",
+    "domain": "railway.app",
+    "brandColor": "#4f46e5",
+    "tagline": "Lightweight, high-speed utilities micro-tool.",
+    "description": "Lightweight, high-speed utilities micro-tool engineered to eliminate software bloat.",
+    "category": "Utilities",
+    "whatItReplaces": "Bloated Legacy Software",
+    "replacesDetailed": "Replaces heavy enterprise suites with a lightweight, distraction-free architecture.",
+    "targetAudience": "Developers, creators, and professionals who demand instant response times.",
+    "tags": [
+      "Beginner-Friendly",
+      "Free Tier Available",
+      "Sub-50ms Sync"
+    ],
+    "learningCurve": {
+      "level": "Gentle",
+      "score": 1,
+      "timeToLearn": "5 mins",
+      "summary": "Intuitive interface designed for immediate productivity with zero setup friction."
+    },
+    "tutorialCount": 19,
+    "tutorialMeta": {
+      "videoGuides": 8,
+      "stepByStepDocs": 8,
+      "communityShortcuts": 3
+    },
+    "pricing": "Free tier available / Transparent pricing",
+    "affiliateUrl": "",
+    "status": "draft",
+    "aiGeneratedAt": "2026-11-03T12:24:28.665Z",
+    "lessonPlan": {
+      "title": "Railway Zero-Bloat Quickstart",
+      "subtitle": "Get started with Railway in under 5 mins.",
+      "estimatedTime": "5 mins",
+      "difficulty": "Beginner",
+      "overview": "A streamlined 5-step curriculum to replace bloated tools and master Railway without cognitive fatigue.",
+      "prerequisites": [
+        "Web browser or local application install"
+      ],
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Initialization & Clean Defaults",
+          "timeEstimate": "2 mins",
+          "description": "Launch the application and disable non-essential notification badges.",
+          "actionItems": [
+            "Open application",
+            "Turn off unnecessary alerts and marketing popups"
+          ],
+          "proTip": "Start with default minimalist settings to avoid early configuration burnout."
+        },
+        {
+          "stepNumber": 2,
+          "title": "Core Workflow Execution",
+          "timeEstimate": "3 mins",
+          "description": "Perform your primary daily task without navigating through heavy multi-layered menus.",
+          "actionItems": [
+            "Execute standard action",
+            "Notice the immediate sub-50ms responsiveness"
+          ],
+          "proTip": "Learn the primary hotkey for creating new entries instantly."
+        },
+        {
+          "stepNumber": 3,
+          "title": "Keyboard Hotkeys & Flow State",
+          "timeEstimate": "2 mins",
+          "description": "Map essential shortcuts to keep your hands on the keyboard.",
+          "actionItems": [
+            "Review the cheat sheet",
+            "Test navigation commands"
+          ],
+          "proTip": "Press ? anywhere to inspect available keyboard combinations."
+        },
+        {
+          "stepNumber": 4,
+          "title": "Local Data Export & Sovereignty",
+          "timeEstimate": "2 mins",
+          "description": "Ensure your data is readily exportable in open formats with zero vendor lock-in.",
+          "actionItems": [
+            "Locate export options",
+            "Confirm standard formats (JSON/Markdown/CSV)"
+          ],
+          "proTip": "Keep regular offline backups of your workspace."
+        },
+        {
+          "stepNumber": 5,
+          "title": "Team Handoff or Daily Automation",
+          "timeEstimate": "2 mins",
+          "description": "Share lightweight outputs with colleagues without forcing them to register accounts.",
+          "actionItems": [
+            "Generate clean share link",
+            "Verify distraction-free viewer mode"
+          ],
+          "proTip": "Colleagues can view your outputs without signing up for enterprise seats."
+        }
+      ]
+    },
+    "localLogoPath": "/logos/railway.png",
+    "affiliateBadge": "Partner Pick",
+    "affiliatePerk": "Verified Anti-Bloat Recommendation",
+    "createdAt": "2026-11-03T12:24:30.133Z"
+  },
+  {
+    "id": "manual-1793708652272-supabase",
+    "name": "Supabase",
+    "slug": "supabase",
+    "website": "https://supabase.com",
+    "domain": "supabase.com",
+    "brandColor": "#4f46e5",
+    "tagline": "Lightweight, modern database tool.",
+    "category": "Database",
+    "whatItReplaces": "Bloated Firebase & AWS setup",
+    "replacesDetailed": "Open source Firebase alternative with sub-second latency and Postgres.",
+    "targetAudience": "Builders & minimalists",
+    "tags": [
+      "Beginner-Friendly",
+      "Free Tier Available"
+    ],
+    "learningCurve": {
+      "level": "Gentle",
+      "score": 1,
+      "timeToLearn": "5 mins",
+      "summary": "Straightforward onboarding designed for instant velocity."
+    },
+    "tutorialCount": 12,
+    "tutorialMeta": {
+      "videoGuides": 5,
+      "stepByStepDocs": 5,
+      "communityShortcuts": 2
+    },
+    "pricing": "Free tier / Transparent pricing",
+    "status": "draft",
+    "localLogoPath": "/logos/supabase.png",
+    "affiliateUrl": "https://supabase.com/?ref=curateless",
+    "affiliateBadge": "Partner Pick",
+    "affiliatePerk": "Verified Anti-Bloat Recommendation",
+    "createdAt": "2026-11-03T12:24:12.272Z",
+    "lessonPlan": {
+      "title": "Supabase Quickstart Guide",
+      "subtitle": "Get started with Supabase in under 5 mins.",
+      "estimatedTime": "5 mins",
+      "difficulty": "Beginner",
+      "overview": "A streamlined 5-step curriculum to master Supabase.",
+      "prerequisites": [
+        "Web browser or local app"
+      ],
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Account & Workspace Setup",
+          "timeEstimate": "2 mins",
+          "description": "Download or log in with zero marketing questionnaires.",
+          "actionItems": [
+            "Sign in",
+            "Set preferred defaults"
+          ],
+          "proTip": "Keep initial setup minimal."
+        },
+        {
+          "stepNumber": 2,
+          "title": "Core Workflow Execution",
+          "timeEstimate": "3 mins",
+          "description": "Perform your primary task without menu fatigue.",
+          "actionItems": [
+            "Test primary action"
+          ],
+          "proTip": "Focus strictly on your main daily goal."
+        }
+      ]
+    }
+  },
+  {
+    "id": "draft-1793705420386-zed-editor",
+    "name": "Zed Editor",
+    "slug": "zed-editor",
+    "website": "https://zed.dev",
+    "domain": "zed.dev",
+    "brandColor": "#000000",
+    "tagline": "Ultra-fast, Rust-powered code editor engineered with GPU acceleration for instantaneous startup and sub-millisecond typing latency.",
+    "description": "Ultra-fast, Rust-powered code editor engineered with GPU acceleration for instantaneous startup and sub-millisecond typing latency.",
+    "category": "Utilities",
+    "whatItReplaces": "VS Code & Heavy Electron Editors",
+    "replacesDetailed": "Replaces VS Code’s 1GB+ Electron memory footprint with a high-performance Rust engine rendering at 120fps on the GPU with instantaneous file search.",
+    "targetAudience": "Software engineers, systems programmers, and minimalists who refuse to wait for editor lag.",
+    "tags": [
+      "Beginner-Friendly",
+      "Free Tier Available",
+      "GPU-Accelerated",
+      "Rust-Powered"
+    ],
+    "learningCurve": {
+      "level": "Gentle",
+      "score": 1,
+      "timeToLearn": "4 mins",
+      "summary": "Familiar VS Code keymaps with instant responsiveness and built-in language servers."
+    },
+    "tutorialCount": 25,
+    "tutorialMeta": {
+      "videoGuides": 10,
+      "stepByStepDocs": 10,
+      "communityShortcuts": 5
+    },
+    "pricing": "Free tier available / Transparent pricing",
+    "status": "published",
+    "aiGeneratedAt": "2026-11-03T11:30:18.173Z",
+    "lessonPlan": {
+      "title": "Zed Editor Zero-Bloat Quickstart",
+      "subtitle": "Get started with Zed Editor in under 8 mins.",
+      "estimatedTime": "8 mins",
+      "difficulty": "Intermediate",
+      "overview": "A streamlined 5-step curriculum to replace bloated tools and master Zed Editor without cognitive fatigue.",
+      "prerequisites": [
+        "Web browser or local application install"
+      ],
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Initialization & Clean Defaults",
+          "timeEstimate": "2 mins",
+          "description": "Launch the application and disable non-essential notification badges.",
+          "actionItems": [
+            "Open application",
+            "Turn off unnecessary alerts and marketing popups"
+          ],
+          "proTip": "Start with default minimalist settings to avoid early configuration burnout."
+        },
+        {
+          "stepNumber": 2,
+          "title": "Core Workflow Execution",
+          "timeEstimate": "3 mins",
+          "description": "Perform your primary daily task without navigating through heavy multi-layered menus.",
+          "actionItems": [
+            "Execute standard action",
+            "Notice the immediate sub-50ms responsiveness"
+          ],
+          "proTip": "Learn the primary hotkey for creating new entries instantly."
+        },
+        {
+          "stepNumber": 3,
+          "title": "Keyboard Hotkeys & Flow State",
+          "timeEstimate": "2 mins",
+          "description": "Map essential shortcuts to keep your hands on the keyboard.",
+          "actionItems": [
+            "Review the cheat sheet",
+            "Test navigation commands"
+          ],
+          "proTip": "Press ? anywhere to inspect available keyboard combinations."
+        },
+        {
+          "stepNumber": 4,
+          "title": "Local Data Export & Sovereignty",
+          "timeEstimate": "2 mins",
+          "description": "Ensure your data is readily exportable in open formats with zero vendor lock-in.",
+          "actionItems": [
+            "Locate export options",
+            "Confirm standard formats (JSON/Markdown/CSV)"
+          ],
+          "proTip": "Keep regular offline backups of your workspace."
+        },
+        {
+          "stepNumber": 5,
+          "title": "Team Handoff or Daily Automation",
+          "timeEstimate": "2 mins",
+          "description": "Share lightweight outputs with colleagues without forcing them to register accounts.",
+          "actionItems": [
+            "Generate clean share link",
+            "Verify distraction-free viewer mode"
+          ],
+          "proTip": "Colleagues can view your outputs without signing up for enterprise seats."
+        }
+      ]
+    },
+    "localLogoPath": "/logos/zed-editor.png",
+    "affiliateUrl": "https://zed.dev/?ref=curateless",
+    "affiliateBadge": "Partner Pick",
+    "affiliatePerk": "Verified Anti-Bloat Recommendation",
+    "createdAt": "2026-11-03T11:30:20.386Z",
+    "publishedAt": "2026-11-03T11:32:16.275Z",
+    "dateAdded": "2026-11-03",
+    "updatedAt": "2026-11-03T11:57:34.415Z",
+    "logoDownloadedAt": "2026-11-03T12:24:52.366Z",
+    "logoSizeBytes": 2546,
+    "logoSource": "a.favicon.im"
+  },
+  {
+    "id": "draft-1793705422908-ghost",
+    "name": "Ghost",
+    "slug": "ghost",
+    "website": "https://ghost.org",
+    "domain": "ghost.org",
+    "brandColor": "#D1FF19",
+    "tagline": "Modern, open-source platform for independent journalists and publishers.",
+    "description": "Professional, distraction-free publishing platform powered by Node.js with native membership, newsletters, and zero bloated plugins.",
+    "category": "Writing",
+    "whatItReplaces": "WordPress & Bloated CMS Plugins",
+    "replacesDetailed": "Replaces endless plugin security vulnerabilities, bloated database queries, and slow page caching with a modern Node.js publishing platform tailored for creators.",
+    "targetAudience": "Independent journalists, newsletter writers, publication teams, and niche bloggers.",
+    "tags": [
+      "Beginner-Friendly",
+      "Free Tier Available",
+      "Alternative to WordPress",
+      "Open Source",
+      "Built-in Newsletters"
+    ],
+    "learningCurve": {
+      "level": "Low",
+      "score": 2,
+      "timeToLearn": "12 mins",
+      "summary": "Clean split-free Markdown and rich cards. Built-in members and email delivery without 20 plugins."
+    },
+    "tutorialCount": 26,
+    "tutorialMeta": {
+      "videoGuides": 11,
+      "stepByStepDocs": 11,
+      "communityShortcuts": 4
+    },
+    "pricing": "Free tier available / Transparent pricing",
+    "status": "published",
+    "aiGeneratedAt": "2026-11-03T11:30:21.604Z",
+    "lessonPlan": {
+      "title": "Ghost Zero-Bloat Quickstart",
+      "subtitle": "Get started with Ghost in under 12 mins.",
+      "estimatedTime": "12 mins",
+      "difficulty": "Intermediate",
+      "overview": "A streamlined 5-step curriculum to replace bloated tools and master Ghost without cognitive fatigue.",
+      "prerequisites": [
+        "Web browser or local application install"
+      ],
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Initialization & Clean Defaults",
+          "timeEstimate": "2 mins",
+          "description": "Launch the application and disable non-essential notification badges.",
+          "actionItems": [
+            "Open application",
+            "Turn off unnecessary alerts and marketing popups"
+          ],
+          "proTip": "Start with default minimalist settings to avoid early configuration burnout."
+        },
+        {
+          "stepNumber": 2,
+          "title": "Core Workflow Execution",
+          "timeEstimate": "3 mins",
+          "description": "Perform your primary daily task without navigating through heavy multi-layered menus.",
+          "actionItems": [
+            "Execute standard action",
+            "Notice the immediate sub-50ms responsiveness"
+          ],
+          "proTip": "Learn the primary hotkey for creating new entries instantly."
+        },
+        {
+          "stepNumber": 3,
+          "title": "Keyboard Hotkeys & Flow State",
+          "timeEstimate": "2 mins",
+          "description": "Map essential shortcuts to keep your hands on the keyboard.",
+          "actionItems": [
+            "Review the cheat sheet",
+            "Test navigation commands"
+          ],
+          "proTip": "Press ? anywhere to inspect available keyboard combinations."
+        },
+        {
+          "stepNumber": 4,
+          "title": "Local Data Export & Sovereignty",
+          "timeEstimate": "2 mins",
+          "description": "Ensure your data is readily exportable in open formats with zero vendor lock-in.",
+          "actionItems": [
+            "Locate export options",
+            "Confirm standard formats (JSON/Markdown/CSV)"
+          ],
+          "proTip": "Keep regular offline backups of your workspace."
+        },
+        {
+          "stepNumber": 5,
+          "title": "Team Handoff or Daily Automation",
+          "timeEstimate": "2 mins",
+          "description": "Share lightweight outputs with colleagues without forcing them to register accounts.",
+          "actionItems": [
+            "Generate clean share link",
+            "Verify distraction-free viewer mode"
+          ],
+          "proTip": "Colleagues can view your outputs without signing up for enterprise seats."
+        }
+      ]
+    },
+    "localLogoPath": "/logos/ghost.png",
+    "affiliateUrl": "https://ghost.org/?ref=curateless",
+    "affiliateBadge": "Partner Pick",
+    "affiliatePerk": "Verified Anti-Bloat Recommendation",
+    "createdAt": "2026-11-03T11:30:22.908Z",
+    "publishedAt": "2026-11-03T11:32:21.155Z",
+    "dateAdded": "2026-11-03",
+    "logoDownloadedAt": "2026-11-03T12:24:54.156Z",
+    "logoSizeBytes": 15406,
+    "logoSource": "a.favicon.im"
+  },
+  {
+    "id": "draft-1793705423662-cal-com",
+    "name": "Cal.com",
+    "slug": "cal-com",
+    "website": "https://cal.com",
+    "domain": "cal.com",
+    "brandColor": "#F4F4F4",
+    "tagline": "Open-source, privacy-first scheduling infrastructure replacing corporate calendar paywalls with full customization and self-hosting.",
+    "description": "Open-source, privacy-first scheduling infrastructure replacing corporate calendar paywalls with full customization and self-hosting.",
+    "category": "Organization",
+    "whatItReplaces": "Calendly & Paywalled Booking Platforms",
+    "replacesDetailed": "Replaces Calendly’s restrictive single-calendar free limitations and enterprise pricing with a self-hostable, developer-friendly scheduling infrastructure.",
+    "targetAudience": "Consultants, remote teams, founders, and developers wanting full control over calendar bookings.",
+    "tags": [
+      "Beginner-Friendly",
+      "Free Tier Available",
+      "Alternative to Calendly",
+      "Open Source",
+      "Self-Hostable"
+    ],
+    "learningCurve": {
+      "level": "Gentle",
+      "score": 1,
+      "timeToLearn": "5 mins",
+      "summary": "Connect your Google or Outlook calendar and share your link in under 3 minutes."
+    },
+    "tutorialCount": 18,
+    "tutorialMeta": {
+      "videoGuides": 8,
+      "stepByStepDocs": 8,
+      "communityShortcuts": 2
+    },
+    "pricing": "Free tier available / Transparent pricing",
+    "status": "published",
+    "aiGeneratedAt": "2026-11-03T11:30:22.908Z",
+    "lessonPlan": {
+      "title": "Cal.com Zero-Bloat Quickstart",
+      "subtitle": "Get started with Cal.com in under 5 mins.",
+      "estimatedTime": "5 mins",
+      "difficulty": "Beginner",
+      "overview": "A streamlined 5-step curriculum to replace bloated tools and master Cal.com without cognitive fatigue.",
+      "prerequisites": [
+        "Web browser or local application install"
+      ],
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Initialization & Clean Defaults",
+          "timeEstimate": "2 mins",
+          "description": "Launch the application and disable non-essential notification badges.",
+          "actionItems": [
+            "Open application",
+            "Turn off unnecessary alerts and marketing popups"
+          ],
+          "proTip": "Start with default minimalist settings to avoid early configuration burnout."
+        },
+        {
+          "stepNumber": 2,
+          "title": "Core Workflow Execution",
+          "timeEstimate": "3 mins",
+          "description": "Perform your primary daily task without navigating through heavy multi-layered menus.",
+          "actionItems": [
+            "Execute standard action",
+            "Notice the immediate sub-50ms responsiveness"
+          ],
+          "proTip": "Learn the primary hotkey for creating new entries instantly."
+        },
+        {
+          "stepNumber": 3,
+          "title": "Keyboard Hotkeys & Flow State",
+          "timeEstimate": "2 mins",
+          "description": "Map essential shortcuts to keep your hands on the keyboard.",
+          "actionItems": [
+            "Review the cheat sheet",
+            "Test navigation commands"
+          ],
+          "proTip": "Press ? anywhere to inspect available keyboard combinations."
+        },
+        {
+          "stepNumber": 4,
+          "title": "Local Data Export & Sovereignty",
+          "timeEstimate": "2 mins",
+          "description": "Ensure your data is readily exportable in open formats with zero vendor lock-in.",
+          "actionItems": [
+            "Locate export options",
+            "Confirm standard formats (JSON/Markdown/CSV)"
+          ],
+          "proTip": "Keep regular offline backups of your workspace."
+        },
+        {
+          "stepNumber": 5,
+          "title": "Team Handoff or Daily Automation",
+          "timeEstimate": "2 mins",
+          "description": "Share lightweight outputs with colleagues without forcing them to register accounts.",
+          "actionItems": [
+            "Generate clean share link",
+            "Verify distraction-free viewer mode"
+          ],
+          "proTip": "Colleagues can view your outputs without signing up for enterprise seats."
+        }
+      ]
+    },
+    "localLogoPath": "/logos/cal-com.png",
+    "affiliateUrl": "https://refer.cal.com/adwin-tamang-ucpcca-xxja",
+    "affiliateBadge": "Partner Pick",
+    "affiliatePerk": "Verified Anti-Bloat Recommendation",
+    "createdAt": "2026-11-03T11:30:23.662Z",
+    "updatedAt": "2026-11-03T12:09:03.426Z",
+    "publishedAt": "2026-11-03T12:09:05.933Z",
+    "dateAdded": "2026-11-03",
+    "logoDownloadedAt": "2026-11-03T12:24:55.510Z",
+    "logoSizeBytes": 68346,
+    "logoSource": "a.favicon.im"
+  },
+  {
+    "id": "manual-1793705128499-cursor-ai",
+    "name": "Cursor AI",
+    "slug": "cursor-ai",
+    "website": "https://cursor.com",
+    "domain": "cursor.com",
+    "brandColor": "#4f46e5",
+    "tagline": "Lightweight, modern writing tool.",
+    "category": "Writing",
+    "whatItReplaces": "Bloated AI code assistants",
+    "replacesDetailed": "Replaces enterprise bloat with focused micro-functionality.",
+    "targetAudience": "Software developers seeking minimalist AI pair-programming",
+    "tags": [
+      "Beginner-Friendly",
+      "Free Tier Available",
+      "Alternative to Copilot"
+    ],
+    "learningCurve": {
+      "level": "Low",
+      "score": 2,
+      "timeToLearn": "5 mins",
+      "summary": "Straightforward onboarding designed for instant velocity."
+    },
+    "tutorialCount": 12,
+    "tutorialMeta": {
+      "videoGuides": 5,
+      "stepByStepDocs": 5,
+      "communityShortcuts": 2
+    },
+    "pricing": "Free tier / Transparent pricing",
+    "status": "draft",
+    "localLogoPath": "/logos/cursor-ai.png",
+    "affiliateUrl": "https://cursor.com/?ref=curateless",
+    "affiliateBadge": "Partner Pick",
+    "affiliatePerk": "Verified Anti-Bloat Recommendation",
+    "createdAt": "2026-11-03T11:25:28.499Z",
+    "lessonPlan": {
+      "title": "Cursor AI Quickstart Guide",
+      "subtitle": "Get started with Cursor AI in under 5 mins.",
+      "estimatedTime": "5 mins",
+      "difficulty": "Beginner",
+      "overview": "A streamlined 5-step curriculum to master Cursor AI.",
+      "prerequisites": [
+        "Web browser or local app"
+      ],
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Account & Workspace Setup",
+          "timeEstimate": "2 mins",
+          "description": "Download or log in with zero marketing questionnaires.",
+          "actionItems": [
+            "Sign in",
+            "Set preferred defaults"
+          ],
+          "proTip": "Keep initial setup minimal."
+        },
+        {
+          "stepNumber": 2,
+          "title": "Core Workflow Execution",
+          "timeEstimate": "3 mins",
+          "description": "Perform your primary task without menu fatigue.",
+          "actionItems": [
+            "Test primary action"
+          ],
+          "proTip": "Focus strictly on your main daily goal."
+        }
+      ]
+    }
+  },
+  {
+    "id": "draft-1793703559854",
+    "name": "Use.ai",
+    "slug": "use-ai",
+    "website": "https://use.ai/",
+    "domain": "use.ai",
+    "brandColor": "#4f46e5",
+    "tagline": "Lightweight, high-speed utilities micro-tool.",
+    "category": "Utilities",
+    "whatItReplaces": "Bloated Legacy Software",
+    "replacesDetailed": "Replaces heavy enterprise suites with a lightweight, distraction-free architecture.",
+    "targetAudience": "Developers, creators, and professionals who demand instant response times.",
+    "tags": [
+      "Beginner-Friendly",
+      "Free Tier Available",
+      "Sub-50ms Sync"
+    ],
+    "learningCurve": {
+      "level": "Gentle",
+      "score": 1,
+      "timeToLearn": "5 mins",
+      "summary": "Intuitive interface designed for immediate productivity with zero setup friction."
+    },
+    "tutorialCount": 15,
+    "tutorialMeta": {
+      "videoGuides": 6,
+      "stepByStepDocs": 6,
+      "communityShortcuts": 3
+    },
+    "pricing": "Free tier available / Transparent pricing",
+    "status": "published",
+    "aiGeneratedAt": "2026-11-03T10:59:18.310Z",
+    "lessonPlan": {
+      "title": "Use.ai Zero-Bloat Quickstart",
+      "subtitle": "Get started with Use.ai in under 5 mins.",
+      "estimatedTime": "5 mins",
+      "difficulty": "Beginner",
+      "overview": "A streamlined 5-step curriculum to replace bloated tools and master Use.ai without cognitive fatigue.",
+      "prerequisites": [
+        "Web browser or local application install"
+      ],
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Initialization & Clean Defaults",
+          "timeEstimate": "2 mins",
+          "description": "Launch the application and disable non-essential notification badges.",
+          "actionItems": [
+            "Open application",
+            "Turn off unnecessary alerts and marketing popups"
+          ],
+          "proTip": "Start with default minimalist settings to avoid early configuration burnout."
+        },
+        {
+          "stepNumber": 2,
+          "title": "Core Workflow Execution",
+          "timeEstimate": "3 mins",
+          "description": "Perform your primary daily task without navigating through heavy multi-layered menus.",
+          "actionItems": [
+            "Execute standard action",
+            "Notice the immediate sub-50ms responsiveness"
+          ],
+          "proTip": "Learn the primary hotkey for creating new entries instantly."
+        },
+        {
+          "stepNumber": 3,
+          "title": "Keyboard Hotkeys & Flow State",
+          "timeEstimate": "2 mins",
+          "description": "Map essential shortcuts to keep your hands on the keyboard.",
+          "actionItems": [
+            "Review the cheat sheet",
+            "Test navigation commands"
+          ],
+          "proTip": "Press ? anywhere to inspect available keyboard combinations."
+        },
+        {
+          "stepNumber": 4,
+          "title": "Local Data Export & Sovereignty",
+          "timeEstimate": "2 mins",
+          "description": "Ensure your data is readily exportable in open formats with zero vendor lock-in.",
+          "actionItems": [
+            "Locate export options",
+            "Confirm standard formats (JSON/Markdown/CSV)"
+          ],
+          "proTip": "Keep regular offline backups of your workspace."
+        },
+        {
+          "stepNumber": 5,
+          "title": "Team Handoff or Daily Automation",
+          "timeEstimate": "2 mins",
+          "description": "Share lightweight outputs with colleagues without forcing them to register accounts.",
+          "actionItems": [
+            "Generate clean share link",
+            "Verify distraction-free viewer mode"
+          ],
+          "proTip": "Colleagues can view your outputs without signing up for enterprise seats."
+        }
+      ]
+    },
+    "localLogoPath": "/logos/use-ai.png",
+    "affiliateUrl": "https://use.ai/?ref=curateless",
+    "affiliateBadge": "Partner Pick",
+    "affiliatePerk": "Verified Anti-Bloat Recommendation",
+    "createdAt": "2026-11-03T10:59:19.854Z",
+    "publishedAt": "2026-11-03T10:59:26.877Z",
+    "dateAdded": "2026-11-03"
+  },
+  {
+    "id": "draft-1793703368336",
+    "name": "Excalidraw",
+    "slug": "excalidraw",
+    "website": "https://excalidraw.com",
+    "domain": "excalidraw.com",
+    "brandColor": "#6965DB",
+    "tagline": "Lightweight, high-speed design micro-tool.",
+    "category": "Design",
+    "whatItReplaces": "Miro & Cluttered Enterprise Whiteboards",
+    "replacesDetailed": "Eliminates paywalled collaborative canvas limits, heavy UI toolbars, and mandatory signups with an end-to-end encrypted virtual hand-drawn whiteboard.",
+    "targetAudience": "Product architects, engineering teams, and visual thinkers who need rapid sketching without corporate overhead.",
+    "tags": [
+      "Beginner-Friendly",
+      "Free Tier Available",
+      "Alternative to Miro",
+      "Open Source",
+      "End-to-End Encrypted"
+    ],
+    "learningCurve": {
+      "level": "Gentle",
+      "score": 1,
+      "timeToLearn": "3 mins",
+      "summary": "Pick a tool and draw. Zero onboarding hoops or permissions setup required."
+    },
+    "tutorialCount": 19,
+    "tutorialMeta": {
+      "videoGuides": 8,
+      "stepByStepDocs": 8,
+      "communityShortcuts": 3
+    },
+    "pricing": "Free tier available / Transparent pricing",
+    "status": "published",
+    "aiGeneratedAt": "2026-11-03T10:56:01.908Z",
+    "lessonPlan": {
+      "title": "Excalidraw Zero-Bloat Quickstart",
+      "subtitle": "Get started with Excalidraw in under 3 mins.",
+      "estimatedTime": "3 mins",
+      "difficulty": "Beginner",
+      "overview": "A streamlined 5-step curriculum to replace bloated tools and master Excalidraw without cognitive fatigue.",
+      "prerequisites": [
+        "Web browser or local application install"
+      ],
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Initialization & Clean Defaults",
+          "timeEstimate": "2 mins",
+          "description": "Launch the application and disable non-essential notification badges.",
+          "actionItems": [
+            "Open application",
+            "Turn off unnecessary alerts and marketing popups"
+          ],
+          "proTip": "Start with default minimalist settings to avoid early configuration burnout."
+        },
+        {
+          "stepNumber": 2,
+          "title": "Core Workflow Execution",
+          "timeEstimate": "3 mins",
+          "description": "Perform your primary daily task without navigating through heavy multi-layered menus.",
+          "actionItems": [
+            "Execute standard action",
+            "Notice the immediate sub-50ms responsiveness"
+          ],
+          "proTip": "Learn the primary hotkey for creating new entries instantly."
+        },
+        {
+          "stepNumber": 3,
+          "title": "Keyboard Hotkeys & Flow State",
+          "timeEstimate": "2 mins",
+          "description": "Map essential shortcuts to keep your hands on the keyboard.",
+          "actionItems": [
+            "Review the cheat sheet",
+            "Test navigation commands"
+          ],
+          "proTip": "Press ? anywhere to inspect available keyboard combinations."
+        },
+        {
+          "stepNumber": 4,
+          "title": "Local Data Export & Sovereignty",
+          "timeEstimate": "2 mins",
+          "description": "Ensure your data is readily exportable in open formats with zero vendor lock-in.",
+          "actionItems": [
+            "Locate export options",
+            "Confirm standard formats (JSON/Markdown/CSV)"
+          ],
+          "proTip": "Keep regular offline backups of your workspace."
+        },
+        {
+          "stepNumber": 5,
+          "title": "Team Handoff or Daily Automation",
+          "timeEstimate": "2 mins",
+          "description": "Share lightweight outputs with colleagues without forcing them to register accounts.",
+          "actionItems": [
+            "Generate clean share link",
+            "Verify distraction-free viewer mode"
+          ],
+          "proTip": "Colleagues can view your outputs without signing up for enterprise seats."
+        }
+      ]
+    },
+    "localLogoPath": "/logos/excalidraw.png",
+    "affiliateUrl": "https://excalidraw.com/?ref=curateless",
+    "affiliateBadge": "Partner Pick",
+    "affiliatePerk": "Verified Anti-Bloat Recommendation",
+    "createdAt": "2026-11-03T10:56:08.336Z",
+    "publishedAt": "2026-11-03T10:57:36.279Z",
+    "dateAdded": "2026-11-03",
+    "logoDownloadedAt": "2026-11-03T12:24:53.021Z",
+    "logoSizeBytes": 4182,
+    "logoSource": "a.favicon.im"
+  },
+  {
+    "id": "draft-1793703242568",
+    "name": "Ghost",
+    "slug": "ghost",
+    "website": "https://ghost.org",
+    "domain": "ghost.org",
+    "brandColor": "#15171A",
+    "tagline": "Lightweight, high-speed writing micro-tool.",
+    "category": "Writing",
+    "whatItReplaces": "WordPress & Bloated CMS Plugins",
+    "replacesDetailed": "Replaces endless plugin security vulnerabilities, bloated database queries, and slow page caching with a modern Node.js publishing platform tailored for creators.",
+    "targetAudience": "Independent journalists, newsletter writers, publication teams, and niche bloggers.",
+    "tags": [
+      "Beginner-Friendly",
+      "Free Tier Available",
+      "Alternative to WordPress",
+      "Open Source",
+      "Built-in Newsletters"
+    ],
+    "learningCurve": {
+      "level": "Low",
+      "score": 2,
+      "timeToLearn": "12 mins",
+      "summary": "Clean split-free Markdown and rich cards. Built-in members and email delivery without 20 plugins."
+    },
+    "tutorialCount": 26,
+    "tutorialMeta": {
+      "videoGuides": 11,
+      "stepByStepDocs": 11,
+      "communityShortcuts": 4
+    },
+    "pricing": "Free tier available / Transparent pricing",
+    "status": "published",
+    "aiGeneratedAt": "2026-11-03T10:54:00.940Z",
+    "lessonPlan": {
+      "title": "Ghost Zero-Bloat Quickstart",
+      "subtitle": "Get started with Ghost in under 12 mins.",
+      "estimatedTime": "12 mins",
+      "difficulty": "Intermediate",
+      "overview": "A streamlined 5-step curriculum to replace bloated tools and master Ghost without cognitive fatigue.",
+      "prerequisites": [
+        "Web browser or local application install"
+      ],
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Initialization & Clean Defaults",
+          "timeEstimate": "2 mins",
+          "description": "Launch the application and disable non-essential notification badges.",
+          "actionItems": [
+            "Open application",
+            "Turn off unnecessary alerts and marketing popups"
+          ],
+          "proTip": "Start with default minimalist settings to avoid early configuration burnout."
+        },
+        {
+          "stepNumber": 2,
+          "title": "Core Workflow Execution",
+          "timeEstimate": "3 mins",
+          "description": "Perform your primary daily task without navigating through heavy multi-layered menus.",
+          "actionItems": [
+            "Execute standard action",
+            "Notice the immediate sub-50ms responsiveness"
+          ],
+          "proTip": "Learn the primary hotkey for creating new entries instantly."
+        },
+        {
+          "stepNumber": 3,
+          "title": "Keyboard Hotkeys & Flow State",
+          "timeEstimate": "2 mins",
+          "description": "Map essential shortcuts to keep your hands on the keyboard.",
+          "actionItems": [
+            "Review the cheat sheet",
+            "Test navigation commands"
+          ],
+          "proTip": "Press ? anywhere to inspect available keyboard combinations."
+        },
+        {
+          "stepNumber": 4,
+          "title": "Local Data Export & Sovereignty",
+          "timeEstimate": "2 mins",
+          "description": "Ensure your data is readily exportable in open formats with zero vendor lock-in.",
+          "actionItems": [
+            "Locate export options",
+            "Confirm standard formats (JSON/Markdown/CSV)"
+          ],
+          "proTip": "Keep regular offline backups of your workspace."
+        },
+        {
+          "stepNumber": 5,
+          "title": "Team Handoff or Daily Automation",
+          "timeEstimate": "2 mins",
+          "description": "Share lightweight outputs with colleagues without forcing them to register accounts.",
+          "actionItems": [
+            "Generate clean share link",
+            "Verify distraction-free viewer mode"
+          ],
+          "proTip": "Colleagues can view your outputs without signing up for enterprise seats."
+        }
+      ]
+    },
+    "localLogoPath": "/logos/ghost.png",
+    "affiliateUrl": "https://ghost.org/?ref=antibloat-curated",
+    "affiliateBadge": "Partner Pick",
+    "affiliatePerk": "Verified Anti-Bloat Recommendation",
+    "createdAt": "2026-11-03T10:54:02.568Z",
+    "publishedAt": "2026-11-03T10:54:26.675Z",
+    "dateAdded": "2026-11-03",
+    "logoDownloadedAt": "2026-11-03T11:19:40.118Z",
+    "logoSizeBytes": 227373,
+    "logoSource": "Brandfetch API"
+  },
+  {
+    "id": "linear",
+    "name": "Linear",
+    "slug": "linear",
+    "website": "https://linear.app",
+    "domain": "linear.app",
+    "brandColor": "#5E6AD2",
+    "logoLetter": "L",
+    "logoSvg": "<svg viewBox=\"0 0 100 100\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M12 50C12 29.0132 29.0132 12 50 12C70.9868 12 88 29.0132 88 50C88 70.9868 70.9868 88 50 88C29.0132 88 12 70.9868 12 50Z\" stroke=\"currentColor\" stroke-width=\"8\"/><path d=\"M35 65L65 35M35 35L65 65\" stroke=\"currentColor\" stroke-width=\"8\" stroke-linecap=\"round\"/></svg>",
+    "tagline": "The streamlined, keyboard-first issue tracker for teams that ship fast.",
+    "category": "Organization",
+    "whatItReplaces": "Jira & bloated legacy agile software",
+    "replacesDetailed": "Eliminates 3-second page loads, endless Jira configuration wizards, sluggish custom fields, and ticket overhead. Operates offline and synchronizes in under 50 milliseconds.",
+    "targetAudience": "High-velocity product teams, startup engineers, and designers who demand instant responsiveness and zero clutter.",
+    "learningCurve": {
+      "level": "Gentle",
+      "score": 1,
+      "meterPercent": 25,
+      "timeToLearn": "10 mins",
+      "summary": "Keyboard-driven with familiar shortcut maps. Most users feel completely at home within 10 minutes."
+    },
+    "tutorialCount": 18,
+    "tutorialMeta": {
+      "videoGuides": 6,
+      "stepByStepDocs": 8,
+      "communityShortcuts": 4
+    },
+    "tags": [
+      "Beginner-Friendly",
+      "Free Tier Available",
+      "Alternative to Jira",
+      "Keyboard-First",
+      "Sub-50ms Sync"
+    ],
+    "pricing": "Free for up to 250 active issues, $8/user/mo Pro",
+    "affiliateUrl": "https://linear.app/?ref=antibloat-curated",
+    "affiliateBadge": "Partner Link",
+    "affiliatePerk": "Free unlimited team trial + priority onboarding",
+    "dateAdded": "2026-10-15",
+    "stats": {
+      "loadSpeed": "38ms",
+      "bloatReduction": "85%",
+      "offlineSupport": "Full"
+    },
+    "lessonPlan": {
+      "title": "Linear Zero-Bloat Quickstart: From Overwhelmed to Flow State",
+      "subtitle": "Set up a clean, high-velocity backlog without losing your sanity in complex sprint configuration.",
+      "estimatedTime": "15 minutes",
+      "difficulty": "Beginner",
+      "overview": "Traditional project trackers force you into bureaucratic workflows with hundreds of unneeded fields. In this 5-step lesson plan, you will configure Linear to be your team's distraction-free single source of truth.",
+      "prerequisites": [
+        "A free Linear account",
+        "A list of 3-5 current backlog priorities to test with"
+      ],
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Account Initialization & Workspace Cleansing",
+          "timeEstimate": "3 mins",
+          "description": "Sign in with your team or personal email. Skip the bloated enterprise questionnaire and choose the Minimalist Engineering preset.",
+          "actionItems": [
+            "Select 'Software Development' as your team focus to auto-hide unnecessary enterprise metadata.",
+            "Choose your team identifier prefix (e.g., 'DEV' or 'APP').",
+            "Turn on Dark Mode (Cmd/Ctrl + Shift + D) for reduced eye strain."
+          ],
+          "proTip": "Linear stores its state locally first. You can perform every operation offline without worrying about server lag."
+        },
+        {
+          "stepNumber": 2,
+          "title": "Master the Command Palette (The 'K' Habit)",
+          "timeEstimate": "4 mins",
+          "description": "Stop reaching for your mouse. Linear is engineered around keyboard commands that keep you in flow state.",
+          "actionItems": [
+            "Press 'C' anywhere in the application to summon the instant issue composer.",
+            "Press 'Cmd + K' (Mac) or 'Ctrl + K' (Windows) to open the Command Palette.",
+            "Create your first issue: Type 'Fix navigation contrast' and press Cmd+Enter."
+          ],
+          "proTip": "Tap '?' at any time to inspect the full interactive keyboard cheat sheet overlay."
+        },
+        {
+          "stepNumber": 3,
+          "title": "Configuring Anti-Bloat Cycles (Sprints Without Overhead)",
+          "timeEstimate": "3 mins",
+          "description": "Replace cumbersome sprint planning ceremonies with automated, auto-rolling cycles.",
+          "actionItems": [
+            "Navigate to Team Settings > Cycles.",
+            "Toggle 'Enable Cycles' with a 2-week rolling window.",
+            "Enable 'Auto-archive completed issues after 30 days' to keep backlogs razor-sharp."
+          ],
+          "proTip": "Never maintain a 500-ticket backlog. If an issue isn't tackled within 3 cycles, use Linear's Auto-Close rule."
+        },
+        {
+          "stepNumber": 4,
+          "title": "Filtering & Custom Clean Views",
+          "timeEstimate": "3 mins",
+          "description": "Build a single distraction-free view that shows only what demands your immediate attention today.",
+          "actionItems": [
+            "Press 'V' to open View Options.",
+            "Filter by: Assignee = 'Me', Status = 'In Progress' or 'Todo'.",
+            "Save this view as 'My Daily Focus' and pin it to your sidebar."
+          ],
+          "proTip": "Hide estimations and complexity points if your team ships continuously—it removes 80% of ticket friction."
+        },
+        {
+          "stepNumber": 5,
+          "title": "GitHub/GitLab Zero-Click Auto-Closing",
+          "timeEstimate": "2 mins",
+          "description": "Connect your version control so closing PRs automatically marks tickets resolved without manual status dragging.",
+          "actionItems": [
+            "Go to Settings > Integrations > GitHub.",
+            "Authorize the repository and link branch names to issue IDs.",
+            "Commit with 'Fixes DEV-14' to auto-move issues to Done on merge."
+          ],
+          "proTip": "You will never have to manually log in to Jira or Linear just to drag a card to 'Completed' again."
+        }
+      ]
+    },
+    "localLogoPath": "/logos/linear.png",
+    "logoDownloadedAt": "2026-11-03T12:34:46.268Z",
+    "logoSizeBytes": 25274,
+    "logoSource": "a.favicon.im"
+  },
+  {
+    "id": "cap",
+    "name": "Cap",
+    "slug": "cap",
+    "website": "https://cap.so",
+    "domain": "cap.so",
+    "brandColor": "#0ea5e9",
+    "logoLetter": "C",
+    "logoSvg": "<svg viewBox=\"0 0 100 100\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"50\" cy=\"50\" r=\"38\" stroke=\"currentColor\" stroke-width=\"8\"/><polygon points=\"42,34 68,50 42,66\" fill=\"currentColor\"/></svg>",
+    "tagline": "Open-source, lightning-fast screen recording without Loom's paywalls.",
+    "category": "Video",
+    "whatItReplaces": "Loom & slow cloud video recorders",
+    "replacesDetailed": "Replaces Loom's 5-minute free limits, forced cloud processing delays, and heavy browser extension memory leaks with instant native recording and sharable links.",
+    "targetAudience": "Remote team leads, indie builders, software engineers, and educators who need frictionless video communication.",
+    "learningCurve": {
+      "level": "Gentle",
+      "score": 1,
+      "meterPercent": 20,
+      "timeToLearn": "5 mins",
+      "summary": "Zero configuration. Click record or hit a global hotkey, talk, and get an instant shareable link."
+    },
+    "tutorialCount": 14,
+    "tutorialMeta": {
+      "videoGuides": 7,
+      "stepByStepDocs": 5,
+      "communityShortcuts": 2
+    },
+    "tags": [
+      "Beginner-Friendly",
+      "Free Tier Available",
+      "Alternative to Loom",
+      "Open Source",
+      "Zero Watermark"
+    ],
+    "pricing": "100% Free & Open-Source, optional cloud hosting",
+    "affiliateUrl": "https://cap.so/?ref=antibloat-curated",
+    "affiliateBadge": "Featured Tool",
+    "affiliatePerk": "Unlimited recordings with self-hosting or free cloud tier",
+    "dateAdded": "2026-10-22",
+    "stats": {
+      "loadSpeed": "12ms",
+      "bloatReduction": "90%",
+      "offlineSupport": "Full"
+    },
+    "lessonPlan": {
+      "title": "Cap Express Lesson: High-Def Screen Recordings Without the Bloat",
+      "subtitle": "Record, annotate, and share your screen in under 60 seconds with zero subscription anxiety.",
+      "estimatedTime": "8 minutes",
+      "difficulty": "Beginner",
+      "overview": "Cloud screen recording tools have become bloated with mandatory enterprise workspaces, AI upsells, and 5-minute limits. Cap brings screen recording back to what it should be: fast, private, and lightweight.",
+      "prerequisites": [
+        "Cap installed on macOS or Windows (or browser app)",
+        "Microphone & optional webcam"
+      ],
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Clean Installation & Permission Grant",
+          "timeEstimate": "2 mins",
+          "description": "Download Cap and grant screen and microphone permissions with one prompt.",
+          "actionItems": [
+            "Launch Cap and allow Screen Recording & Microphone permissions.",
+            "Choose your default audio input (built-in mic or USB microphone).",
+            "Enable 'Save locally by default' for instant offline availability."
+          ],
+          "proTip": "Unlike web extensions that crash when you close the tab, native Cap records smoothly even under high CPU load."
+        },
+        {
+          "stepNumber": 2,
+          "title": "Setting Up Global Instant Hotkeys",
+          "timeEstimate": "1 min",
+          "description": "Configure a single key combination to start recording from any window instantly.",
+          "actionItems": [
+            "Open Cap Preferences (Cmd/Ctrl + ,).",
+            "Set 'Quick Record Region' to Cmd+Shift+R.",
+            "Set 'Instant Fullscreen Record' to Cmd+Shift+F."
+          ],
+          "proTip": "Pressing the hotkey gives you a non-intrusive 3-second countdown with sound cue."
+        },
+        {
+          "stepNumber": 3,
+          "title": "Recording with Crisp Auto-Zoom & Camera Bubble",
+          "timeEstimate": "2 mins",
+          "description": "Create professional presentations without manual video editing.",
+          "actionItems": [
+            "Select your display area or specific application window.",
+            "Toggle the circular camera overlay and drag it to any corner.",
+            "Use the drawing pencil shortcut to circle UI elements during capture."
+          ],
+          "proTip": "Cap features automatic smooth cursor smoothing so jittery mouse movements look polished."
+        },
+        {
+          "stepNumber": 4,
+          "title": "Trimming the Fluff with Zero Re-encoding",
+          "timeEstimate": "2 mins",
+          "description": "Cut out dead air at the beginning and end in seconds without waiting for cloud re-rendering.",
+          "actionItems": [
+            "When stopping the recording, drag the left and right trim handles.",
+            "Preview the trimmed segment instantly in real-time.",
+            "Click 'Done' to finalize cuts without CPU encoding lag."
+          ],
+          "proTip": "Trimming uses direct stream copying, completing in under 200 milliseconds."
+        },
+        {
+          "stepNumber": 5,
+          "title": "One-Click Instant Sharing or MP4 Export",
+          "timeEstimate": "1 min",
+          "description": "Get a clean, unbranded link or high-bitrate MP4 copied to your clipboard.",
+          "actionItems": [
+            "Click 'Copy Link' for instant cloud sharing (no ads or registration required for viewers).",
+            "Or click 'Save MP4' for raw 60fps local storage."
+          ],
+          "proTip": "You can connect your own Amazon S3 or Cloudflare R2 bucket for 100% self-hosted ownership."
+        }
+      ]
+    },
+    "localLogoPath": "/logos/cap.png",
+    "logoDownloadedAt": "2026-11-03T10:32:24.510Z",
+    "logoSizeBytes": 1280,
+    "logoSource": "a.favicon.im"
+  },
+  {
+    "id": "dub-co",
+    "name": "Dub.co",
+    "slug": "dub-co",
+    "website": "https://dub.co",
+    "domain": "dub.co",
+    "brandColor": "#000000",
+    "logoLetter": "D",
+    "logoSvg": "<svg viewBox=\"0 0 100 100\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M25 20H55C71.5685 20 85 33.4315 85 50C85 66.5685 71.5685 80 55 80H25V20Z\" stroke=\"currentColor\" stroke-width=\"8\"/><line x1=\"45\" y1=\"20\" x2=\"45\" y2=\"80\" stroke=\"currentColor\" stroke-width=\"8\"/></svg>",
+    "tagline": "The modern, open-source link management engine with real-time analytics.",
+    "category": "Utilities",
+    "whatItReplaces": "Bitly & cluttered legacy link shorteners",
+    "replacesDetailed": "Replaces Bitly's aggressive $35/mo paywalls, intrusive redirect ads, sluggish sub-domain routing, and confusing dashboards with edge-computed sub-30ms redirects.",
+    "targetAudience": "Growth engineers, content creators, marketing leads, and indie hackers who want sleek branded links and honest analytics.",
+    "learningCurve": {
+      "level": "Low",
+      "score": 2,
+      "meterPercent": 35,
+      "timeToLearn": "12 mins",
+      "summary": "Clean, intuitive interface with quick domain verification and instant link creation."
+    },
+    "tutorialCount": 16,
+    "tutorialMeta": {
+      "videoGuides": 5,
+      "stepByStepDocs": 8,
+      "communityShortcuts": 3
+    },
+    "tags": [
+      "Beginner-Friendly",
+      "Free Tier Available",
+      "Alternative to Bitly",
+      "Open Source",
+      "Sub-30ms Redirects"
+    ],
+    "pricing": "Free up to 1,000 clicks/mo, $24/mo Pro",
+    "affiliateUrl": "https://dub.co/?ref=antibloat-curated",
+    "affiliateBadge": "Top Pick",
+    "affiliatePerk": "Free tier with custom domain + 20% off Pro tier",
+    "dateAdded": "2026-10-28",
+    "stats": {
+      "loadSpeed": "24ms",
+      "bloatReduction": "80%",
+      "offlineSupport": "API-Only"
+    },
+    "lessonPlan": {
+      "title": "Dub.co Onboarding: From Bloated URLs to Lightning Branded Links",
+      "subtitle": "Connect your custom domain, generate UTM tracking links, and inspect edge analytics in 5 steps.",
+      "estimatedTime": "12 minutes",
+      "difficulty": "Beginner",
+      "overview": "Legacy link shorteners hold your brand hostage behind expensive enterprise tiers. Dub provides a distraction-free, privacy-preserving link engine powered by Next.js and Edge Middleware.",
+      "prerequisites": [
+        "A Dub.co account (free)",
+        "A custom domain (or use free dub.sh subdomains)"
+      ],
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Custom Domain DNS Setup",
+          "timeEstimate": "3 mins",
+          "description": "Point your branded subdomain (e.g. go.yourbrand.com) to Dub's global edge network.",
+          "actionItems": [
+            "In Dub settings, click 'Add Domain' and input your subdomain.",
+            "Add a CNAME record in Cloudflare/Namecheap pointing to 'cname.dub.co'.",
+            "Automatic SSL certificates will generate within 60 seconds."
+          ],
+          "proTip": "Using Cloudflare DNS? Set the proxy status to 'DNS Only' (grey cloud) for fastest verification."
+        },
+        {
+          "stepNumber": 2,
+          "title": "Creating Your First Smart Short Link",
+          "timeEstimate": "2 mins",
+          "description": "Generate a custom slug with automatic open-graph preview scraping.",
+          "actionItems": [
+            "Hit 'Cmd + N' or click 'Create Link'.",
+            "Paste your target destination URL.",
+            "Set a memorable slug (e.g., /launch or /guide).",
+            "Dub will auto-fetch the target title, favicon, and preview card."
+          ],
+          "proTip": "Enable 'Random Slug Generator' if you need high-volume short links for programmatic usage."
+        },
+        {
+          "stepNumber": 3,
+          "title": "Frictionless UTM Campaign Tagging",
+          "timeEstimate": "2 mins",
+          "description": "Add campaign, source, and medium parameters without ugly manual URL strings.",
+          "actionItems": [
+            "Expand the 'UTM Builder' accordion inside the link modal.",
+            "Fill in Source (e.g. twitter), Medium (social), and Campaign (november-drop).",
+            "Notice how Dub neatly encapsulates all tracking behind the clean short slug."
+          ],
+          "proTip": "Save UTM templates to reuse your standard campaign names across team members."
+        },
+        {
+          "stepNumber": 4,
+          "title": "Geo-Targeting & Device Rules (Without Enterprise Bloat)",
+          "timeEstimate": "3 mins",
+          "description": "Route iOS users to the App Store and Android users to Google Play with one link.",
+          "actionItems": [
+            "Toggle 'Targeting Rules' in the link settings.",
+            "Add iOS Rule -> Destination: App Store URL.",
+            "Add Android Rule -> Destination: Play Store URL.",
+            "Fallback destination: Web Landing Page."
+          ],
+          "proTip": "Bitly charges over $199/month for mobile deep-linking; Dub includes it natively."
+        },
+        {
+          "stepNumber": 5,
+          "title": "Privacy-Friendly Real-Time Analytics Inspection",
+          "timeEstimate": "2 mins",
+          "description": "Review referrers, country breakdowns, and conversion clicks without invasive cookie trackers.",
+          "actionItems": [
+            "Open your link dashboard to see real-time click heatmaps.",
+            "Filter by date range, country, or referring domain.",
+            "Export data to CSV or connect to Webhooks for automated Slack alerts."
+          ],
+          "proTip": "All analytics are GDPR-compliant out of the box with zero third-party cookie banners needed."
+        }
+      ]
+    },
+    "localLogoPath": "/logos/dub-co.png",
+    "logoDownloadedAt": "2026-11-03T10:32:24.594Z",
+    "logoSizeBytes": 23392,
+    "logoSource": "a.favicon.im"
+  },
+  {
+    "id": "obsidian",
+    "name": "Obsidian",
+    "slug": "obsidian",
+    "website": "https://obsidian.md",
+    "domain": "obsidian.md",
+    "brandColor": "#7c3aed",
+    "logoLetter": "O",
+    "logoSvg": "<svg viewBox=\"0 0 100 100\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"50,15 82,32 82,68 50,85 18,68 18,32\" stroke=\"currentColor\" stroke-width=\"8\"/><line x1=\"50\" y1=\"15\" x2=\"50\" y2=\"85\" stroke=\"currentColor\" stroke-width=\"6\"/><line x1=\"18\" y1=\"32\" x2=\"82\" y2=\"68\" stroke=\"currentColor\" stroke-width=\"4\"/><line x1=\"18\" y1=\"68\" x2=\"82\" y2=\"32\" stroke=\"currentColor\" stroke-width=\"4\"/></svg>",
+    "tagline": "A sharp, local-first knowledge base on top of plain text Markdown files.",
+    "category": "Organization",
+    "whatItReplaces": "Notion & cloud-locked bloated databases",
+    "replacesDetailed": "Replaces Notion's sluggish database loading spinners, cloud vendor lock-in, offline sync failures, and bloated workspace navigation with instant local files you own forever.",
+    "targetAudience": "Researchers, developers, students, writers, and knowledge workers who value complete data sovereignty and instant search.",
+    "learningCurve": {
+      "level": "Moderate",
+      "score": 3,
+      "meterPercent": 55,
+      "timeToLearn": "25 mins",
+      "summary": "Starts simple as a markdown editor. Learning bi-directional linking and community plugins unlocks superpower status."
+    },
+    "tutorialCount": 32,
+    "tutorialMeta": {
+      "videoGuides": 14,
+      "stepByStepDocs": 12,
+      "communityShortcuts": 6
+    },
+    "tags": [
+      "Alternative to Notion",
+      "Free Tier Available",
+      "Local-First",
+      "Offline Storage",
+      "Extensible"
+    ],
+    "pricing": "100% Free for personal use, optional $4/mo Sync",
+    "affiliateUrl": "https://obsidian.md/?ref=antibloat-curated",
+    "affiliateBadge": "Community Favorite",
+    "affiliatePerk": "100% free forever for personal use with zero lock-in",
+    "dateAdded": "2026-10-10",
+    "stats": {
+      "loadSpeed": "15ms",
+      "bloatReduction": "92%",
+      "offlineSupport": "100% Native"
+    },
+    "lessonPlan": {
+      "title": "Obsidian De-Bloated: Building an Eternal Second Brain in Markdown",
+      "subtitle": "Say goodbye to cloud lag. Organize your notes with bi-directional links and pure plain text.",
+      "estimatedTime": "20 minutes",
+      "difficulty": "Intermediate",
+      "overview": "Notion is great until your database hits 5,000 records and every click takes 4 seconds. Obsidian operates directly on local `.md` files on your hard drive, guaranteeing that your notes will remain readable 50 years from now.",
+      "prerequisites": [
+        "Obsidian installed on your desktop or phone",
+        "A folder on your computer designated as your 'Vault'"
+      ],
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Creating Your First Local Vault",
+          "timeEstimate": "2 mins",
+          "description": "Initialize your note vault in a local directory (e.g. iCloud, Dropbox, or local SSD).",
+          "actionItems": [
+            "Open Obsidian and click 'Create new vault'.",
+            "Name it (e.g., 'CoreVault') and select a folder path on your drive.",
+            "Verify that notes created are simple `.md` files viewable in any text editor."
+          ],
+          "proTip": "Avoid putting your vault in deeply nested subfolders. A simple `/Documents/Notes` folder is ideal."
+        },
+        {
+          "stepNumber": 2,
+          "title": "Bi-Directional Wiki-Linking (`[[Note Name]]`)",
+          "timeEstimate": "4 mins",
+          "description": "Ditch rigid folder hierarchies in favor of natural networked thoughts.",
+          "actionItems": [
+            "Type `[[Project Alpha]]` inside any note to create an instant backlink.",
+            "Click on the newly created link to auto-generate the destination page.",
+            "Open the 'Backlinks' panel on the right sidebar to see all references connecting back."
+          ],
+          "proTip": "Use aliases by typing `[[Project Alpha|Alpha]]` to display natural phrasing while linking to the core document."
+        },
+        {
+          "stepNumber": 3,
+          "title": "The Interactive Graph View",
+          "timeEstimate": "3 mins",
+          "description": "Visualize how your thoughts, research, and projects interconnect in 2D space.",
+          "actionItems": [
+            "Press 'Cmd/Ctrl + G' to open Graph View.",
+            "Use the color groups feature to highlight tags (e.g. #active = green, #archive = gray).",
+            "Adjust node repulsion and gravity for a balanced celestial view of your knowledge."
+          ],
+          "proTip": "Don't stress over making the graph look pretty early on; focus on writing, and the web will grow organically."
+        },
+        {
+          "stepNumber": 4,
+          "title": "Anti-Bloat Plugin Selection (Keep It Lean)",
+          "timeEstimate": "6 mins",
+          "description": "Avoid plugin hoard syndrome. Install only the 3 essential community tools.",
+          "actionItems": [
+            "Settings > Community Plugins > Turn on Community Plugins.",
+            "Install 'Dataview' for lightweight SQL-like queries over your notes.",
+            "Install 'Omnisearch' for lightning-fast fuzzy text and PDF search.",
+            "Skip cosmetic widgets that slow down startup time."
+          ],
+          "proTip": "Check 'Debug Startup Time' in Settings to ensure total vault boot remains under 300ms."
+        },
+        {
+          "stepNumber": 5,
+          "title": "Free Multi-Device Sync Options",
+          "timeEstimate": "5 mins",
+          "description": "Keep notes synced across laptop and mobile without paying high monthly subscriptions.",
+          "actionItems": [
+            "Option A: Sync via standard iCloud Drive or Google Drive / Syncthing.",
+            "Option B: Use the Git plugin to auto-push notes to a private GitHub repo.",
+            "Option C: Support the developers with official end-to-end encrypted Obsidian Sync."
+          ],
+          "proTip": "Because files are raw text, merge conflicts can be resolved using standard git diff tools."
+        }
+      ]
+    },
+    "localLogoPath": "/logos/obsidian.png",
+    "logoDownloadedAt": "2026-11-03T12:34:58.968Z",
+    "logoSizeBytes": 5856,
+    "logoSource": "a.favicon.im"
+  },
+  {
+    "id": "typora",
+    "name": "Typora",
+    "slug": "typora",
+    "website": "https://typora.io",
+    "domain": "typora.io",
+    "brandColor": "#0284c7",
+    "logoLetter": "T",
+    "logoSvg": "<svg viewBox=\"0 0 100 100\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"18\" y=\"18\" width=\"64\" height=\"64\" rx=\"12\" stroke=\"currentColor\" stroke-width=\"8\"/><path d=\"M32 36H68M50 36V66\" stroke=\"currentColor\" stroke-width=\"8\" stroke-linecap=\"round\"/></svg>",
+    "tagline": "A truly distraction-free Markdown reader and editor with live seamless preview.",
+    "category": "Writing",
+    "whatItReplaces": "Microsoft Word & bloated rich-text processors",
+    "replacesDetailed": "Replaces Word's endless ribbon menus, formatting corruptions, slow startup times, and heavy .docx file bloat with a tranquil, pure writing canvas.",
+    "targetAudience": "Novelists, technical bloggers, academic researchers, and essayists who want words and typography to take center stage.",
+    "learningCurve": {
+      "level": "Gentle",
+      "score": 1,
+      "meterPercent": 15,
+      "timeToLearn": "5 mins",
+      "summary": "Type markdown symbols and they immediately render into beautiful typography inline. Zero split-screen dissonance."
+    },
+    "tutorialCount": 9,
+    "tutorialMeta": {
+      "videoGuides": 3,
+      "stepByStepDocs": 4,
+      "communityShortcuts": 2
+    },
+    "tags": [
+      "Beginner-Friendly",
+      "Alternative to MS Word",
+      "Distraction-Free",
+      "Live Preview",
+      "One-Time License"
+    ],
+    "pricing": "Free trial / $14.99 one-time purchase (no subscription)",
+    "affiliateUrl": "https://typora.io/?ref=antibloat-curated",
+    "affiliateBadge": "Verified Partner",
+    "affiliatePerk": "15-day free evaluation + one-time lifetime license",
+    "dateAdded": "2026-09-20",
+    "stats": {
+      "loadSpeed": "20ms",
+      "bloatReduction": "88%",
+      "offlineSupport": "100% Native"
+    },
+    "lessonPlan": {
+      "title": "Typora Mastery: Flow-State Writing Without Formatting Frustrations",
+      "subtitle": "Master inline live-rendering, mathematical formulas, and flawless PDF/HTML exports.",
+      "estimatedTime": "10 minutes",
+      "difficulty": "Beginner",
+      "overview": "Word processors clutter your screen with 500 toolbar buttons you will never press. Typora eliminates split preview panes by rendering Markdown as you type, giving you pure typographic zen.",
+      "prerequisites": [
+        "Typora installed on Windows, Mac, or Linux",
+        "A blank canvas ready to write"
+      ],
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "The Live Preview Experience",
+          "timeEstimate": "2 mins",
+          "description": "Learn how Typora collapses markdown syntax into formatted text instantly.",
+          "actionItems": [
+            "Type `# Headline 1` and press Space or Enter to see it transform instantly.",
+            "Type `**bold text**` and `*italic text*` to witness inline rendering.",
+            "Click on any rendered word to reveal the underlying Markdown code for surgical edits."
+          ],
+          "proTip": "Press 'Ctrl + /' (or Cmd + /) to toggle raw source code mode whenever you want to inspect plain text."
+        },
+        {
+          "stepNumber": 2,
+          "title": "Focus Mode & Typewriter Scrolling",
+          "timeEstimate": "2 mins",
+          "description": "Keep your current active sentence centered on screen to avoid neck strain.",
+          "actionItems": [
+            "View > Toggle 'Typewriter Mode' (keeps current line pinned at vertical center).",
+            "View > Toggle 'Focus Mode' (dims all other paragraphs except the active sentence).",
+            "Press F11 / Cmd+Ctrl+F for Fullscreen borderless writing."
+          ],
+          "proTip": "Pair Focus Mode with ambient background noise for deep 90-minute writing sprints."
+        },
+        {
+          "stepNumber": 3,
+          "title": "Mathematical Formulas & Code Fences",
+          "timeEstimate": "2 mins",
+          "description": "Write KaTeX formulas and syntax-highlighted code blocks effortlessly.",
+          "actionItems": [
+            "Type `$$` and press Enter to open KaTeX display math block.",
+            "Type `\\sum_{i=1}^{n} x_i^2` to preview crisp vector mathematics.",
+            "Type ````javascript` to create a live highlighted code container."
+          ],
+          "proTip": "Typora supports Mermaid diagrams natively: type ````mermaid` to render instant flowcharts."
+        },
+        {
+          "stepNumber": 4,
+          "title": "Minimalist Themes & Custom CSS",
+          "timeEstimate": "2 mins",
+          "description": "Choose high-readability typographic themes suited for print and digital reading.",
+          "actionItems": [
+            "Themes menu > Switch between 'Github', 'Newsprint', and 'Night'.",
+            "Open theme folder to inject custom Google Fonts or CSS font smoothing rules."
+          ],
+          "proTip": "The 'Newsprint' theme is calibrated with optimal line heights for long-form non-fiction."
+        },
+        {
+          "stepNumber": 5,
+          "title": "Flawless PDF & Docx Export",
+          "timeEstimate": "2 mins",
+          "description": "Export clean client-ready PDFs with custom headers, page numbering, and table of contents.",
+          "actionItems": [
+            "File > Export > PDF.",
+            "Set page margins to 20mm and check 'Generate Table of Contents'.",
+            "Notice how typography matches professional book printing standards."
+          ],
+          "proTip": "Install Pandoc to enable one-click export into EPUB, Word, and LaTeX."
+        }
+      ]
+    },
+    "localLogoPath": "/logos/typora.png",
+    "logoDownloadedAt": "2026-11-03T12:34:57.859Z",
+    "logoSizeBytes": 4153,
+    "logoSource": "a.favicon.im"
+  },
+  {
+    "id": "penpot",
+    "name": "Penpot",
+    "slug": "penpot",
+    "website": "https://penpot.app",
+    "domain": "penpot.app",
+    "brandColor": "#10b981",
+    "logoLetter": "P",
+    "logoSvg": "<svg viewBox=\"0 0 100 100\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M25 75L75 25M25 75L40 75L75 40M25 75L25 60L60 25\" stroke=\"currentColor\" stroke-width=\"8\" stroke-linecap=\"round\"/><circle cx=\"75\" cy=\"25\" r=\"8\" fill=\"currentColor\"/></svg>",
+    "tagline": "The open-source, web-standard design & prototyping tool for teams.",
+    "category": "Design",
+    "whatItReplaces": "Figma & proprietary Adobe design suites",
+    "replacesDetailed": "Replaces Figma's closed ecosystem, developer handoff paywalls, expensive seat-tier pricing, and proprietary file formats with 100% native SVG and CSS Flexbox/Grid standards.",
+    "targetAudience": "UI/UX designers, front-end developers, open-source maintainers, and privacy-conscious design agencies.",
+    "learningCurve": {
+      "level": "Moderate",
+      "score": 3,
+      "meterPercent": 50,
+      "timeToLearn": "20 mins",
+      "summary": "Familiar canvas layout for anyone who used Sketch or Figma, with developer-friendly CSS layout models."
+    },
+    "tutorialCount": 24,
+    "tutorialMeta": {
+      "videoGuides": 10,
+      "stepByStepDocs": 10,
+      "communityShortcuts": 4
+    },
+    "tags": [
+      "Beginner-Friendly",
+      "Free Tier Available",
+      "Alternative to Figma",
+      "Open Source",
+      "Native SVG"
+    ],
+    "pricing": "100% Free Cloud & Self-Hostable, Team tiers available",
+    "affiliateUrl": "https://penpot.app/?ref=antibloat-curated",
+    "affiliateBadge": "Open Standard",
+    "affiliatePerk": "Unlimited projects & seats on open-source community edition",
+    "dateAdded": "2026-10-05",
+    "stats": {
+      "loadSpeed": "45ms",
+      "bloatReduction": "75%",
+      "offlineSupport": "Docker Self-Host"
+    },
+    "lessonPlan": {
+      "title": "Penpot Starter Kit: Designing with True Web Standards",
+      "subtitle": "Learn native SVG layouts, Flexbox/CSS Grid alignment, and developer handoff without proprietary lock-in.",
+      "estimatedTime": "18 minutes",
+      "difficulty": "Intermediate",
+      "overview": "Traditional design software disconnects designers from real web layout engines. Penpot is built from the ground up on native SVG and real CSS Flexbox and Grid, making developer handoff instant and exact.",
+      "prerequisites": [
+        "A free Penpot cloud account or local Docker instance",
+        "Basic understanding of components and frames"
+      ],
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Board Creation & Standard Viewport Setup",
+          "timeEstimate": "3 mins",
+          "description": "Initialize a responsive artboard with standard modern breakpoints.",
+          "actionItems": [
+            "Click '+' to create a new file.",
+            "Press 'B' (Board tool) and select 'Desktop - 1440px' or 'Mobile - 390px'.",
+            "Enable the 8pt layout grid in the right design inspector."
+          ],
+          "proTip": "Penpot files are natively saved as SVG vectors, meaning you can open assets directly in Illustrator or browser."
+        },
+        {
+          "stepNumber": 2,
+          "title": "Flexbox Auto-Layout Like Real Code",
+          "timeEstimate": "4 mins",
+          "description": "Harness real CSS Flexbox properties directly on the design canvas.",
+          "actionItems": [
+            "Select multiple buttons or cards and press 'Shift + A' to add Auto Layout.",
+            "Switch between Row (horizontal) and Column (vertical) flow.",
+            "Tweak Gap, Padding, and Alignment (center, space-between, stretch)."
+          ],
+          "proTip": "Unlike other tools that approximate auto-layout, Penpot outputs exact `display: flex` CSS rules."
+        },
+        {
+          "stepNumber": 3,
+          "title": "True CSS Grid Containers",
+          "timeEstimate": "4 mins",
+          "description": "Build 12-column responsive dashboard layouts with genuine two-dimensional grid tracks.",
+          "actionItems": [
+            "Create a container board and toggle Layout to 'CSS Grid'.",
+            "Define columns: `repeat(12, 1fr)` and gap: `16px`.",
+            "Drag UI cards into cells; notice how they snap according to grid areas."
+          ],
+          "proTip": "Penpot is the first major design tool in the world with full CSS Grid engine support."
+        },
+        {
+          "stepNumber": 4,
+          "title": "Design Tokens & Reusable Components",
+          "timeEstimate": "4 mins",
+          "description": "Create design system components with shared color palettes and typography scales.",
+          "actionItems": [
+            "Convert a primary button into a Main Component (Cmd/Ctrl + K).",
+            "Create instances across various boards to verify synchronized updates.",
+            "Link fills to Color Palette tokens for immediate dark-mode swapping."
+          ],
+          "proTip": "Tokens can be exported directly as JSON variables for Tailwind CSS or CSS Custom Properties."
+        },
+        {
+          "stepNumber": 5,
+          "title": "Zero-Paywall Developer Handoff",
+          "timeEstimate": "3 mins",
+          "description": "Engineers can inspect, copy exact CSS, and download clean SVGs without paying for expensive 'editor seats'.",
+          "actionItems": [
+            "Click the 'Code Inspect' tab in the top right.",
+            "Click any element to inspect computed CSS, markup, and SVG assets.",
+            "Copy ready-to-paste CSS Flex/Grid snippets straight into your codebase."
+          ],
+          "proTip": "Invite your entire engineering team as inspect viewers without incurring a single extra dollar in seat fees."
+        }
+      ]
+    },
+    "localLogoPath": "/logos/penpot.png",
+    "logoDownloadedAt": "2026-11-03T10:32:27.477Z",
+    "logoSizeBytes": 21662,
+    "logoSource": "a.favicon.im"
+  },
+  {
+    "id": "raycast",
+    "name": "Raycast",
+    "slug": "raycast",
+    "website": "https://raycast.com",
+    "domain": "raycast.com",
+    "brandColor": "#FF6363",
+    "logoLetter": "R",
+    "logoSvg": "<svg viewBox=\"0 0 100 100\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M20 50L50 20L80 50L50 80L20 50Z\" stroke=\"currentColor\" stroke-width=\"8\"/><circle cx=\"50\" cy=\"50\" r=\"10\" fill=\"currentColor\"/></svg>",
+    "tagline": "An extendable, blazingly fast launcher to replace bloated helper apps.",
+    "category": "Utilities",
+    "whatItReplaces": "Mac Spotlight, Alfred & 10 separate background apps",
+    "replacesDetailed": "Replaces slow Spotlight searches, bloated clipboard managers, separate window resizing tools, snippet expanders, and calculator widgets with a single lightweight executable.",
+    "targetAudience": "Mac developers, designers, writers, and power users who want maximum keyboard speed without memory drain.",
+    "learningCurve": {
+      "level": "Low",
+      "score": 2,
+      "meterPercent": 30,
+      "timeToLearn": "10 mins",
+      "summary": "Works out of the box as an app launcher. Mastering extensions and window management takes minutes."
+    },
+    "tutorialCount": 28,
+    "tutorialMeta": {
+      "videoGuides": 12,
+      "stepByStepDocs": 11,
+      "communityShortcuts": 5
+    },
+    "tags": [
+      "Beginner-Friendly",
+      "Free Tier Available",
+      "Alternative to Alfred",
+      "Blazing Fast",
+      "Extension Store"
+    ],
+    "pricing": "100% Free Core, optional Pro with AI and cloud sync",
+    "affiliateUrl": "https://raycast.com/?ref=antibloat-curated",
+    "affiliateBadge": "Essential Utility",
+    "affiliatePerk": "Free forever core features + Pro trial",
+    "dateAdded": "2026-09-15",
+    "stats": {
+      "loadSpeed": "8ms",
+      "bloatReduction": "94%",
+      "offlineSupport": "Full"
+    },
+    "lessonPlan": {
+      "title": "Raycast Power-Hour: Consolidating 8 Apps into One Fast Launcher",
+      "subtitle": "Set up instant window management, clipboard history, text snippets, and API extensions.",
+      "estimatedTime": "12 minutes",
+      "difficulty": "Beginner",
+      "overview": "Most computers run 5-10 small background utility apps that each consume 200MB of RAM and clutter menu bars. Raycast bundles these capabilities into one native, zero-latency binary.",
+      "prerequisites": [
+        "Raycast installed on macOS (or Windows equivalent launcher like Flow/PowerToys)",
+        "Set Raycast shortcut to Cmd+Space"
+      ],
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Replacing Default Spotlight (Cmd + Space)",
+          "timeEstimate": "2 mins",
+          "description": "Map your main search shortcut to Raycast and disable default Spotlight.",
+          "actionItems": [
+            "Open Mac System Settings > Keyboard > Keyboard Shortcuts > Spotlight.",
+            "Uncheck 'Show Spotlight search'.",
+            "In Raycast Settings, assign Raycast Hotkey to 'Cmd + Space'."
+          ],
+          "proTip": "Raycast launches in under 8ms with zero index caching delay."
+        },
+        {
+          "stepNumber": 2,
+          "title": "Infinite Clipboard History (Encrypted Locally)",
+          "timeEstimate": "2 mins",
+          "description": "Never lose a copied snippet, link, hex code, or screenshot again.",
+          "actionItems": [
+            "Trigger Raycast and type 'Clipboard History'.",
+            "Assign a direct alias shortcut (e.g., 'Cmd + Shift + V').",
+            "Search past copied items by text, image content, or color code."
+          ],
+          "proTip": "Set clipboard auto-clear to 7 days for maximum privacy and lean local database size."
+        },
+        {
+          "stepNumber": 3,
+          "title": "Zero-Lag Window Management",
+          "timeEstimate": "2 mins",
+          "description": "Uninstall third-party window resizers like Magnet or Rectangle.",
+          "actionItems": [
+            "Type 'Left Half', 'Right Half', 'Maximize', or 'Almost Maximize'.",
+            "Assign quick keybindings: Ctrl+Option+Left for Left Half, Ctrl+Option+Right for Right Half.",
+            "Tile two windows side by side in under 1 second without touching the mouse."
+          ],
+          "proTip": "Use 'First Third' and 'Last Two Thirds' for wide curved monitor setups."
+        },
+        {
+          "stepNumber": 4,
+          "title": "Dynamic Text Expander Snippets",
+          "timeEstimate": "3 mins",
+          "description": "Stop repeatedly typing calendar links, zoom URLs, and repetitive email templates.",
+          "actionItems": [
+            "Open 'Create Snippet' in Raycast.",
+            "Keyword: `!cal` -> Content: `https://cal.com/yourname`.",
+            "Keyword: `!zoom` -> Content: your personal meeting room link.",
+            "Type the keyword in any text field across the OS to auto-expand."
+          ],
+          "proTip": "Use dynamic placeholders like `{clipboard}` and `{date}` to automatically insert current values."
+        },
+        {
+          "stepNumber": 5,
+          "title": "Installing Verified Community Extensions",
+          "timeEstimate": "3 mins",
+          "description": "Browse thousands of community plugins without installing separate desktop applications.",
+          "actionItems": [
+            "Type 'Store' in Raycast.",
+            "Install 'GitHub' extension to search pull requests and issues instantly.",
+            "Install 'Brew' extension to search and update Homebrew packages in one click.",
+            "Install 'Color Picker' for instant hex sampling from your screen."
+          ],
+          "proTip": "All extensions run in isolated sandboxed workers so buggy plugins can never freeze your launcher."
+        }
+      ]
+    },
+    "localLogoPath": "/logos/raycast.png",
+    "logoDownloadedAt": "2026-11-03T12:34:56.752Z",
+    "logoSizeBytes": 18876,
+    "logoSource": "a.favicon.im"
+  },
+  {
+    "id": "lossless-cut",
+    "name": "LosslessCut",
+    "slug": "lossless-cut",
+    "website": "https://github.com/mifi/lossless-cut",
+    "domain": "github.com",
+    "brandColor": "#f59e0b",
+    "logoLetter": "LC",
+    "logoSvg": "<svg viewBox=\"0 0 100 100\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M20 30L45 55M20 70L45 45\" stroke=\"currentColor\" stroke-width=\"8\" stroke-linecap=\"round\"/><circle cx=\"20\" cy=\"30\" r=\"8\" stroke=\"currentColor\" stroke-width=\"6\"/><circle cx=\"20\" cy=\"70\" r=\"8\" stroke=\"currentColor\" stroke-width=\"6\"/><line x1=\"45\" y1=\"50\" x2=\"85\" y2=\"50\" stroke=\"currentColor\" stroke-width=\"8\" stroke-linecap=\"round\"/></svg>",
+    "tagline": "The Swiss Army knife of lossless video and audio trimming and slicing.",
+    "category": "Video",
+    "whatItReplaces": "Adobe Premiere & Final Cut for quick trims",
+    "replacesDetailed": "Replaces loading heavy 4GB video editors just to trim or extract a 30-second clip. Uses direct FFmpeg stream cutting with zero quality loss and instantaneous exports.",
+    "targetAudience": "Streamers, YouTubers, podcasters, drone videographers, and educators who need to cut video fast without re-encoding.",
+    "learningCurve": {
+      "level": "Low",
+      "score": 2,
+      "meterPercent": 28,
+      "timeToLearn": "8 mins",
+      "summary": "Keyboard-driven in/out marker trimming. Export happens in under 2 seconds without CPU fan noise."
+    },
+    "tutorialCount": 11,
+    "tutorialMeta": {
+      "videoGuides": 4,
+      "stepByStepDocs": 5,
+      "communityShortcuts": 2
+    },
+    "tags": [
+      "Beginner-Friendly",
+      "Free Tier Available",
+      "Alternative to Premiere",
+      "Open Source",
+      "Lossless Speed"
+    ],
+    "pricing": "100% Free Open Source (GitHub) / Optional app store donation",
+    "affiliateUrl": "https://github.com/mifi/lossless-cut?ref=antibloat-curated",
+    "affiliateBadge": "Open Source Hero",
+    "affiliatePerk": "100% free open-source software, zero render times",
+    "dateAdded": "2026-09-01",
+    "stats": {
+      "loadSpeed": "10ms",
+      "bloatReduction": "96%",
+      "offlineSupport": "100% Offline"
+    },
+    "lessonPlan": {
+      "title": "LosslessCut Rapid Onboarding: Slice 4K Footage in Seconds",
+      "subtitle": "Extract video segments, merge clips, and remove audio tracks without re-encoding or generational loss.",
+      "estimatedTime": "8 minutes",
+      "difficulty": "Beginner",
+      "overview": "Standard non-linear video editors re-encode your entire video just to clip off 5 seconds of silence, degrading quality and taking 15 minutes of CPU rendering. LosslessCut performs direct stream copying on the keyframe boundary in under 2 seconds.",
+      "prerequisites": [
+        "LosslessCut installed on Windows, Mac, or Linux",
+        "A video file (.mp4, .mov, .mkv, .webm) to experiment with"
+      ],
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Drag & Drop File Ingestion",
+          "timeEstimate": "1 min",
+          "description": "Open any media file with instantaneous timeline playback.",
+          "actionItems": [
+            "Drag your video directly into the LosslessCut window.",
+            "Observe that playback begins immediately with zero project indexing or scratch disk creation."
+          ],
+          "proTip": "LosslessCut handles massive 100GB 4K 120fps drone files without dropping a single frame."
+        },
+        {
+          "stepNumber": 2,
+          "title": "Setting In/Out Cut Points ('I' and 'O')",
+          "timeEstimate": "2 mins",
+          "description": "Use standard video editing shortcuts to isolate your best segment.",
+          "actionItems": [
+            "Scrub the timeline with J/K/L or the mouse cursor.",
+            "Press 'I' to set the Segment Start Point.",
+            "Press 'O' to set the Segment End Point.",
+            "Use Left/Right arrow keys for surgical frame-by-frame precision."
+          ],
+          "proTip": "Press ',' and '.' to jump strictly between keyframes (I-frames) for mathematically perfect clean cut points."
+        },
+        {
+          "stepNumber": 3,
+          "title": "Multi-Segment Batch Splitting",
+          "timeEstimate": "2 mins",
+          "description": "Create multiple clips from one single source video in one pass.",
+          "actionItems": [
+            "Click '+' or press 'N' to create a second segment.",
+            "Define new in and out points for highlight #2.",
+            "Label segments directly in the segment manager list."
+          ],
+          "proTip": "Choose between 'Export separate files' or 'Merge segments into one continuous file'."
+        },
+        {
+          "stepNumber": 4,
+          "title": "Stream Track Extraction & Audio Stripping",
+          "timeEstimate": "2 mins",
+          "description": "Remove noisy microphone tracks or extract raw WAV/AAC audio from video.",
+          "actionItems": [
+            "Click the 'Tracks' button on the bottom bar.",
+            "Toggle off Audio Track 2 if you only want the clean lavalier mic.",
+            "Click 'Extract Tracks' to pull pure audio files without re-compression."
+          ],
+          "proTip": "This is the fastest method in the world to extract podcast audio from Zoom video recordings."
+        },
+        {
+          "stepNumber": 5,
+          "title": "Instant 2-Second Lossless Export",
+          "timeEstimate": "1 min",
+          "description": "Export the finalized clips at raw file copy speeds.",
+          "actionItems": [
+            "Click the green 'Export' button in the bottom right corner.",
+            "Select Output Container: 'Same as input' or MP4.",
+            "Hit 'Export' and watch the 2-second completion dialogue appear."
+          ],
+          "proTip": "Zero CPU fan spin, zero quality degradation, zero watermark. Pure efficiency."
+        }
+      ]
+    },
+    "localLogoPath": "/logos/lossless-cut.png",
+    "logoDownloadedAt": "2026-11-03T10:32:27.683Z",
+    "logoSizeBytes": 959,
+    "logoSource": "a.favicon.im"
+  }
+]

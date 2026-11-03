@@ -1,0 +1,16 @@
+# Custom Domain Configuration for GitHub Pages / Static Hosting
+# 
+# To connect your own custom domain (e.g. curateless.tools or antibloat.io):
+# 1. Rename this file to 'CNAME' (without .example) or copy it to 'public/CNAME'
+# 2. Replace the domain below with your exact domain:
+#
+# yoursite.com
+#
+# 3. Configure your DNS provider:
+#    - For apex domain (yoursite.com): Add 4 A Records pointing to GitHub Pages IPs:
+#      185.199.108.153
+#      185.199.109.153
+#      185.199.110.153
+#      185.199.111.153
+#    - For subdomain (tools.yoursite.com): Add a CNAME record pointing to:
+#      <your-github-username>.github.io

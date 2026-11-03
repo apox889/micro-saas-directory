@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Linear",
+    "website": "https://linear.app",
+    "category": "Productivity",
+    "description": "Streamlined issue tracking built for high-performance software teams, replacing slow bloated Jira boards with instant keyboard navigation.",
+    "tags": ["Beginner-Friendly", "Free Tier Available", "High Performance", "Minimalist UI"],
+    "learningCurve": {
+      "level": "Gentle",
+      "score": 1,
+      "timeToLearn": "5 mins",
+      "summary": "Familiar spreadsheet-like velocity with intuitive keyboard shortcuts."
+    },
+    "whatItReplaces": "Jira & Complex Issue Trackers",
+    "replacesDetailed": "Replaces 10-second multi-step Jira page reloads with instantaneous sub-50ms sync and keyboard navigation.",
+    "targetAudience": "Modern software engineers, product managers, and lean engineering teams.",
+    "tutorialCount": 18,
+    "affiliateUrl": "https://linear.app/?ref=curateless"
+  },
+  {
+    "name": "Zed Editor",
+    "website": "https://zed.dev",
+    "category": "Utilities",
+    "description": "Ultra-fast, Rust-powered code editor engineered with GPU acceleration for instantaneous startup and sub-millisecond typing latency.",
+    "tags": ["Beginner-Friendly", "Free Tier Available", "Open Source", "GPU-Accelerated"],
+    "learningCurve": {
+      "level": "Low",
+      "score": 2,
+      "timeToLearn": "8 mins",
+      "summary": "Familiar VS Code keymaps with instant responsiveness and built-in language servers."
+    },
+    "whatItReplaces": "VS Code & Heavy Electron Editors",
+    "replacesDetailed": "Replaces VS Code’s 1GB+ Electron memory footprint with a high-performance Rust engine rendering at 120fps on the GPU.",
+    "targetAudience": "Software engineers, systems programmers, and minimalists who refuse to wait for editor lag.",
+    "tutorialCount": 16,
+    "affiliateUrl": "https://zed.dev/?ref=curateless"
+  },
+  {
+    "name": "Excalidraw",
+    "website": "https://excalidraw.com",
+    "category": "Design",
+    "description": "Virtual collaborative whiteboard for sketching hand-drawn style diagrams, system architectures, and wireframes with zero account friction.",
+    "tags": ["Beginner-Friendly", "Free Tier Available", "Zero Account Required", "Open Source"],
+    "learningCurve": {
+      "level": "Gentle",
+      "score": 1,
+      "timeToLearn": "3 mins",
+      "summary": "Zero onboarding needed. Pick a tool and draw immediately."
+    },
+    "whatItReplaces": "Miro, Mural & Heavy Whiteboards",
+    "replacesDetailed": "Replaces resource-draining canvas whiteboards with an ultra-lightweight client-side SVG sketchpad.",
+    "targetAudience": "Product designers, system architects, engineering leads, and technical educators.",
+    "tutorialCount": 14,
+    "affiliateUrl": "https://excalidraw.com/?ref=curateless"
+  },
+  {
+    "name": "Ghost",
+    "website": "https://ghost.org",
+    "category": "Publishing",
+    "description": "Modern, open-source publishing platform and newsletter engine built on Node.js, replacing bloated WordPress installations.",
+    "tags": ["Beginner-Friendly", "Free Tier Available", "Independent Web", "SEO Optimized"],
+    "learningCurve": {
+      "level": "Low",
+      "score": 2,
+      "timeToLearn": "15 mins",
+      "summary": "Clean markdown-first editor with integrated subscriber management."
+    },
+    "whatItReplaces": "Bloated WordPress & Substack",
+    "replacesDetailed": "Replaces 40+ third-party WordPress plugins and sluggish database queries with a clean, fast publishing stack.",
+    "targetAudience": "Independent writers, journalists, niche publishers, and content creators.",
+    "tutorialCount": 20,
+    "affiliateUrl": "https://ghost.org/?ref=curateless"
+  },
+  {
+    "name": "Cal.com",
+    "website": "https://cal.com",
+    "category": "Productivity",
+    "description": "Open-source, self-hostable appointment scheduling platform replacing enterprise-bloated Calendly setups.",
+    "tags": ["Beginner-Friendly", "Free Tier Available", "Self-Hostable", "Open Source"],
+    "learningCurve": {
+      "level": "Gentle",
+      "score": 1,
+      "timeToLearn": "5 mins",
+      "summary": "Connect your calendar and share your link in minutes."
+    },
+    "whatItReplaces": "Calendly & Doodle",
+    "replacesDetailed": "Replaces commercial scheduling silos with open data ownership, webhooks, and sub-second booking speeds.",
+    "targetAudience": "Consultants, founders, sales reps, and remote agencies.",
+    "tutorialCount": 12,
+    "affiliateUrl": "https://cal.com/?ref=curateless"
+  },
+  {
+    "name": "Hoppscotch",
+    "website": "https://hoppscotch.io",
+    "category": "Development",
+    "description": "Lightweight, web-first API development ecosystem replacing bloated 500MB Postman desktop installs.",
+    "tags": ["Beginner-Friendly", "Free Tier Available", "Instant Browser Launch", "Open Source"],
+    "learningCurve": {
+      "level": "Gentle",
+      "score": 1,
+      "timeToLearn": "4 mins",
+      "summary": "Runs right inside your browser with instantaneous request dispatching."
+    },
+    "whatItReplaces": "Postman Desktop & Insomnia Bloat",
+    "replacesDetailed": "Replaces memory-heavy Electron API clients with a sub-50ms web application requiring zero local disk storage.",
+    "targetAudience": "Frontend developers, backend engineers, and QA testers testing REST and GraphQL endpoints.",
+    "tutorialCount": 15,
+    "affiliateUrl": "https://hoppscotch.io/?ref=curateless"
+  },
+  {
+    "name": "Baserow",
+    "website": "https://baserow.io",
+    "category": "Database",
+    "description": "Open-source no-code database and Airtable alternative giving full control over your relational data without row locks.",
+    "tags": ["Beginner-Friendly", "Free Tier Available", "Self-Hostable", "Relational Database"],
+    "learningCurve": {
+      "level": "Moderate",
+      "score": 3,
+      "timeToLearn": "12 mins",
+      "summary": "Familiar spreadsheet interface powered by real PostgreSQL relational architecture."
+    },
+    "whatItReplaces": "Airtable & Locked Spreadsheets",
+    "replacesDetailed": "Eliminates aggressive Airtable pricing tiers and restrictive 50k row limits with open PostgreSQL performance.",
+    "targetAudience": "Operations managers, database administrators, and no-code builders.",
+    "tutorialCount": 13,
+    "affiliateUrl": "https://baserow.io/?ref=curateless"
+  },
+  {
+    "name": "Raycast",
+    "website": "https://raycast.com",
+    "category": "Utilities",
+    "description": "Blazingly fast, extendable Mac launcher engineered to keep your hands on the keyboard and automate recurring tasks.",
+    "tags": ["Beginner-Friendly", "Free Tier Available", "Keyboard-First", "Extensible"],
+    "learningCurve": {
+      "level": "Gentle",
+      "score": 1,
+      "timeToLearn": "5 mins",
+      "summary": "Instant replacement for Spotlight with powerful community extensions."
+    },
+    "whatItReplaces": "Spotlight, Alfred & Sluggish Launchers",
+    "replacesDetailed": "Replaces sluggish search bars and standalone snippets apps with a single, unified sub-10ms launcher.",
+    "targetAudience": "Mac power users, developers, and speed-oriented professionals.",
+    "tutorialCount": 22,
+    "affiliateUrl": "https://raycast.com/?ref=curateless"
+  },
+  {
+    "name": "Typora",
+    "website": "https://typora.io",
+    "category": "Writing",
+    "description": "Seamless, live-preview Markdown reader and writer providing distraction-free authoring without dual-pane clutter.",
+    "tags": ["Beginner-Friendly", "Free Tier Available", "Distraction-Free", "Markdown-Native"],
+    "learningCurve": {
+      "level": "Gentle",
+      "score": 1,
+      "timeToLearn": "2 mins",
+      "summary": "What you see is what you type: markdown elements format in real time."
+    },
+    "whatItReplaces": "Microsoft Word & Cluttered Dual-Pane Editors",
+    "replacesDetailed": "Replaces heavy WYSIWYG word processors with a clean, single-surface live-preview Markdown document viewer.",
+    "targetAudience": "Technical writers, documentation authors, students, and bloggers.",
+    "tutorialCount": 10,
+    "affiliateUrl": "https://typora.io/?ref=curateless"
+  },
+  {
+    "name": "Obsidian",
+    "website": "https://obsidian.md",
+    "category": "Notes",
+    "description": "Private and flexible knowledge base that adapts to the way you think, storing plain text Markdown files locally on your computer.",
+    "tags": ["Beginner-Friendly", "Free Tier Available", "Local-First", "Zero Vendor Lock-in"],
+    "learningCurve": {
+      "level": "Low",
+      "score": 2,
+      "timeToLearn": "10 mins",
+      "summary": "Start with simple notes, then connect ideas using bi-directional links and graph views."
+    },
+    "whatItReplaces": "Notion & Sluggish Cloud Note Apps",
+    "replacesDetailed": "Replaces proprietary cloud notes and slow database page loads with instantaneous local Markdown files you own forever.",
+    "targetAudience": "Researchers, developers, writers, and knowledge workers seeking data sovereignty.",
+    "tutorialCount": 25,
+    "affiliateUrl": "https://obsidian.md/?ref=curateless"
+  }
+]
