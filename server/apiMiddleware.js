@@ -828,11 +828,11 @@ export function createLogoApiMiddleware() {
         });
       }
 
-      // GET /api/tools: Get tools list from persistent JSON database (only published tools for public)
+      // GET /api/tools: Get tools list from persistent JSON database (only strictly published tools for public)
       if (req.method === 'GET' && (pathname === '/api/tools' || pathname === '/api/tools/')) {
         const tools = getToolsDb();
-        // Public directory only shows published tools with verified affiliate links
-        const publishedTools = tools.filter(t => t.status !== 'draft').map(t => {
+        // Public directory only shows strictly published tools (never drafts or trash)
+        const publishedTools = tools.filter(t => t.status === 'published').map(t => {
           if (!t.affiliateUrl || t.affiliateUrl.trim() === '') {
             const domain = t.domain || extractDomain(t.website) || 'example.com';
             const baseWeb = t.website ? t.website.replace(/\/+$/, '') : `https://${domain}`;

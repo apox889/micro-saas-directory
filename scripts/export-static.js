@@ -35,13 +35,8 @@ export function exportStaticData() {
   // Filter strictly published tools (exclude drafts and trashed items)
   let published = tools.filter(t => t.status === 'published');
 
-  // Fallback to toolsData.js if tools.json has no published tools
   if (published.length === 0) {
-    console.log('ℹ️ [Static Export] No published tools in tools.json, falling back to src/data/toolsData.js');
-    const toolsDataPath = path.join(ROOT_DIR, 'src', 'data', 'toolsData.js');
-    if (fs.existsSync(toolsDataPath)) {
-      // Basic fallback
-    }
+    console.log('ℹ️ [Static Export] 0 published tools in database. Exporting clean empty dataset.');
   }
 
   // Deduplicate by slug or id (keep the latest updated version)

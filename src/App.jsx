@@ -22,12 +22,12 @@ function checkIsAdminRoute() {
 }
 
 export default function App() {
-  // Initialize with pre-compiled static published tools (for decoupled static hosting)
+  // Initialize strictly with pre-compiled static published tools (single source of truth)
   const [tools, setTools] = useState(() => {
-    if (Array.isArray(PUBLISHED_TOOLS) && PUBLISHED_TOOLS.length > 0) {
+    if (Array.isArray(PUBLISHED_TOOLS)) {
       return PUBLISHED_TOOLS;
     }
-    return TOOLS_DATA;
+    return [];
   });
   const [selectedCategory, setSelectedCategory] = useState("All");
   const [searchQuery, setSearchQuery] = useState("");
@@ -68,11 +68,11 @@ export default function App() {
   // Fetch initial published tools & draft count from backend API (if running) with static fallback
   const refreshBackendData = async () => {
     try {
-      // 1. Fetch public tools from backend API
+      // 1. Fetch public tools from backend API (strictly published, never drafts or trash)
       const toolsRes = await fetch('/api/tools').catch(() => null);
       if (toolsRes && toolsRes.ok) {
         const toolsData = await toolsRes.json();
-        if (toolsData.success && Array.isArray(toolsData.tools) && toolsData.tools.length > 0) {
+        if (toolsData.success && Array.isArray(toolsData.tools)) {
           setTools(toolsData.tools);
         }
       } else {
@@ -80,7 +80,7 @@ export default function App() {
         const staticRes = await fetch('/data/tools.json').catch(() => null);
         if (staticRes && staticRes.ok) {
           const staticData = await staticRes.json();
-          if (staticData.success && Array.isArray(staticData.tools) && staticData.tools.length > 0) {
+          if (staticData.success && Array.isArray(staticData.tools)) {
             setTools(staticData.tools);
           }
         }
@@ -95,7 +95,6 @@ export default function App() {
         }
       }
     } catch (err) {
-      // Quiet fallback for static decoupled hosting
       console.info('Static decoupled mode: using pre-built published dataset.');
     }
   };
@@ -408,6 +407,30 @@ export default function App() {
                     activeTag={activeTag}
                   />
                 ))}
+              </div>
+            ) : tools.length === 0 ? (
+              /* No Tools Published Yet */
+              <div className="text-center py-16 bg-white dark:bg-[#141517] rounded-2xl border border-zinc-200 dark:border-zinc-800 p-8 max-w-lg mx-auto shadow-sm">
+                <div className="w-12 h-12 rounded-full bg-indigo-50 dark:bg-indigo-950/60 text-indigo-600 dark:text-indigo-400 flex items-center justify-center mx-auto mb-3">
+                  <Sparkles className="w-6 h-6" />
+                </div>
+                <h3 className="text-base font-bold text-zinc-900 dark:text-zinc-100 mb-1">
+                  Directory is Being Curated
+                </h3>
+                <p className="text-xs text-zinc-500 mb-5 leading-relaxed">
+                  There are currently 0 live published tools. Ingest or review drafts in your Admin Dashboard, then click &quot;Publish&quot; to showcase them on this live directory.
+                </p>
+                <button
+                  type="button"
+                  onClick={() => {
+                    setIsAdminView(true);
+                    window.location.hash = '#/admin';
+                  }}
+                  className="inline-flex items-center gap-1.5 px-4 py-2 rounded-xl text-xs font-semibold bg-indigo-600 hover:bg-indigo-700 text-white shadow"
+                >
+                  <Sparkles className="w-3.5 h-3.5" />
+                  <span>Open Admin Staging Dashboard</span>
+                </button>
               </div>
             ) : (
               /* Empty Search Results */
