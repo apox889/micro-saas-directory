@@ -10,7 +10,8 @@ This project is engineered around a **decoupled workflow**:
 
 ```
 ├── .github/workflows/
-│   └── deploy.yml              # Automated GitHub Pages CI/CD deployment
+│   └── ci.yml                  # Automated build verification on push / PR
+├── vercel.json                 # Vercel deployment configuration & SPA routing
 ├── public/
 │   ├── 404.html                # SPA redirect helper for GitHub Pages / static deep linking
 │   ├── CNAME.example           # Custom domain template for GitHub Pages
