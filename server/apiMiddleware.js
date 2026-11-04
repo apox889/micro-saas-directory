@@ -295,19 +295,150 @@ export function createLogoApiMiddleware() {
         });
       }
 
-      // GET /api/admin/tools or /api/admin/all-tools: Returns all tools partitioned by status
+      // GET /api/admin/tools or /api/admin/all-tools: Returns all tools partitioned by status (drafts, published, trash)
       if (req.method === 'GET' && (pathname === '/api/admin/tools' || pathname === '/api/admin/all-tools')) {
         const tools = getToolsDb();
         const drafts = tools.filter(t => t.status === 'draft');
-        const published = tools.filter(t => t.status !== 'draft');
+        const published = tools.filter(t => t.status === 'published');
+        const trash = tools.filter(t => t.status === 'trash');
+        const active = tools.filter(t => t.status !== 'trash');
+
         return sendJson(200, {
           success: true,
-          total: tools.length,
+          total: active.length,
+          allTotal: tools.length,
           draftsCount: drafts.length,
           publishedCount: published.length,
+          trashCount: trash.length,
           drafts,
           published,
-          tools
+          trash,
+          tools: active
+        });
+      }
+
+      // POST /api/admin/tools/bulk: Bulk actions (trash, restore, permanent-delete, publish, draft)
+      if (req.method === 'POST' && pathname === '/api/admin/tools/bulk') {
+        const body = await getBody();
+        const { action, ids } = body;
+
+        if (!action || !Array.isArray(ids) || ids.length === 0) {
+          return sendJson(400, { error: 'Valid action and non-empty ids array required.' });
+        }
+
+        let tools = getToolsDb();
+        const affectedIds = new Set(ids);
+        let affectedCount = 0;
+
+        if (action === 'trash') {
+          tools.forEach(t => {
+            if (affectedIds.has(t.id) || affectedIds.has(t.slug)) {
+              if (t.status !== 'trash') {
+                t.previousStatus = t.status || 'draft';
+                t.status = 'trash';
+                t.deletedAt = new Date().toISOString();
+                affectedCount++;
+              }
+            }
+          });
+        } else if (action === 'restore') {
+          tools.forEach(t => {
+            if (affectedIds.has(t.id) || affectedIds.has(t.slug)) {
+              if (t.status === 'trash') {
+                t.status = t.previousStatus === 'published' ? 'published' : 'draft';
+                delete t.deletedAt;
+                t.restoredAt = new Date().toISOString();
+                affectedCount++;
+              }
+            }
+          });
+        } else if (action === 'permanent-delete') {
+          const initialLen = tools.length;
+          tools = tools.filter(t => !affectedIds.has(t.id) && !affectedIds.has(t.slug));
+          affectedCount = initialLen - tools.length;
+        } else if (action === 'publish') {
+          tools.forEach(t => {
+            if (affectedIds.has(t.id) || affectedIds.has(t.slug)) {
+              t.status = 'published';
+              t.publishedAt = t.publishedAt || new Date().toISOString();
+              affectedCount++;
+            }
+          });
+        } else if (action === 'draft') {
+          tools.forEach(t => {
+            if (affectedIds.has(t.id) || affectedIds.has(t.slug)) {
+              t.status = 'draft';
+              affectedCount++;
+            }
+          });
+        } else {
+          return sendJson(400, { error: `Unsupported bulk action "${action}".` });
+        }
+
+        saveToolsDb(tools);
+
+        const drafts = tools.filter(t => t.status === 'draft');
+        const published = tools.filter(t => t.status === 'published');
+        const trash = tools.filter(t => t.status === 'trash');
+
+        return sendJson(200, {
+          success: true,
+          message: `Successfully executed "${action}" on ${affectedCount} tool(s).`,
+          action,
+          affectedCount,
+          draftsCount: drafts.length,
+          publishedCount: published.length,
+          trashCount: trash.length,
+          drafts,
+          published,
+          trash
+        });
+      }
+
+      // POST /api/admin/trash/empty or DELETE /api/admin/trash: Permanently purge all items in Trash
+      if (
+        (req.method === 'POST' && pathname === '/api/admin/trash/empty') ||
+        (req.method === 'DELETE' && pathname === '/api/admin/trash')
+      ) {
+        let tools = getToolsDb();
+        const trashCount = tools.filter(t => t.status === 'trash').length;
+        const kept = tools.filter(t => t.status !== 'trash');
+        saveToolsDb(kept);
+
+        console.log(`[Admin API] 🗑️ Permanently emptied ${trashCount} items from Trash.`);
+
+        return sendJson(200, {
+          success: true,
+          message: `Permanently purged ${trashCount} item(s) from Trash.`,
+          purgedCount: trashCount
+        });
+      }
+
+      // POST /api/admin/tools/:id/restore: Restore a tool from trash back to drafts or published
+      if (req.method === 'POST' && pathname.match(/^\/api\/admin\/tools\/[^/]+\/restore$/)) {
+        const id = pathname.split('/')[4];
+        const tools = getToolsDb();
+        const toolIndex = tools.findIndex(t => t.id === id || t.slug === id);
+
+        if (toolIndex === -1) {
+          return sendJson(404, { error: `Tool '${id}' not found.` });
+        }
+
+        const tool = tools[toolIndex];
+        const restoredStatus = tool.previousStatus === 'published' ? 'published' : 'draft';
+        tool.status = restoredStatus;
+        delete tool.deletedAt;
+        tool.restoredAt = new Date().toISOString();
+
+        tools[toolIndex] = tool;
+        saveToolsDb(tools);
+
+        console.log(`[Admin API] ↩️ Restored tool "${tool.name}" to status: ${restoredStatus}`);
+
+        return sendJson(200, {
+          success: true,
+          message: `Tool "${tool.name}" restored to ${restoredStatus === 'published' ? 'Live Tools' : 'Drafts Queue'}.`,
+          tool
         });
       }
 
@@ -361,6 +492,7 @@ export function createLogoApiMiddleware() {
             publishedCount: result.publishedCount,
             committed: result.committed,
             pushed: result.pushed,
+            vercel: result.vercel,
             timestamp: result.timestamp
           });
         } catch (publishErr) {
@@ -496,25 +628,52 @@ export function createLogoApiMiddleware() {
         });
       }
 
-      // DELETE /api/admin/tools/:id or /api/admin/drafts/:id: Delete or discard any tool item
+      // DELETE /api/admin/tools/:id or /api/admin/drafts/:id: Soft-delete to Trash by default, or permanently purge if ?permanent=true
       if (req.method === 'DELETE' && (pathname.startsWith('/api/admin/tools/') || pathname.startsWith('/api/admin/drafts/'))) {
-        const id = pathname.replace('/api/admin/tools/', '').replace('/api/admin/drafts/', '');
-        const tools = getToolsDb();
+        const isPermanentPath = pathname.endsWith('/permanent');
+        let cleanPath = isPermanentPath ? pathname.replace(/\/permanent$/, '') : pathname;
+        const id = cleanPath.replace('/api/admin/tools/', '').replace('/api/admin/drafts/', '');
+        const isPermanent = isPermanentPath || parsedUrl.searchParams.get('permanent') === 'true';
+
+        let tools = getToolsDb();
         const toolIndex = tools.findIndex(t => t.id === id || t.slug === id);
 
         if (toolIndex === -1) {
           return sendJson(404, { error: `Tool with ID '${id}' not found.` });
         }
 
-        const removedName = tools[toolIndex].name;
-        const updated = tools.filter((_, idx) => idx !== toolIndex);
-        saveToolsDb(updated);
+        const tool = tools[toolIndex];
+        const removedName = tool.name;
 
-        console.log(`[Admin API] 🗑️ Deleted tool "${removedName}" (ID: ${id})`);
+        if (isPermanent) {
+          tools = tools.filter((_, idx) => idx !== toolIndex);
+          saveToolsDb(tools);
+          console.log(`[Admin API] ❌ Permanently purged tool "${removedName}" (ID: ${id})`);
+          return sendJson(200, {
+            success: true,
+            permanent: true,
+            message: `Tool "${removedName}" permanently deleted from database.`,
+            deletedId: id
+          });
+        }
+
+        // Soft-delete: Move to Trash folder
+        const prevStatus = tool.status === 'trash' ? (tool.previousStatus || 'draft') : tool.status;
+        tools[toolIndex] = {
+          ...tool,
+          previousStatus: prevStatus,
+          status: 'trash',
+          deletedAt: new Date().toISOString()
+        };
+        saveToolsDb(tools);
+
+        console.log(`[Admin API] 🗑️ Moved tool "${removedName}" (ID: ${id}) to Trash`);
 
         return sendJson(200, {
           success: true,
-          message: `Tool "${removedName}" removed successfully.`,
+          trashed: true,
+          message: `Tool "${removedName}" moved to Trash folder.`,
+          tool: tools[toolIndex],
           deletedId: id
         });
       }

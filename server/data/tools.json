@@ -73,7 +73,9 @@
           "proTip": "Learn the primary hotkey for creating new entries instantly."
         }
       ]
-    }
+    },
+    "previousStatus": "draft",
+    "restoredAt": "2026-11-04T04:26:03.212Z"
   },
   {
     "id": "draft-1793709290581-ghost-4",
@@ -149,7 +151,9 @@
           "proTip": "Learn the primary hotkey for creating new entries instantly."
         }
       ]
-    }
+    },
+    "previousStatus": "draft",
+    "restoredAt": "2026-11-04T04:26:03.212Z"
   },
   {
     "id": "draft-1793709292311-cal-com-5",
