@@ -33,7 +33,7 @@
     },
     "pricing": "Free tier available / Transparent pricing",
     "affiliateUrl": "https://zed.dev/?ref=curateless",
-    "status": "draft",
+    "status": "trash",
     "aiGeneratedAt": "2026-11-04T04:51:27.069Z",
     "lessonPlan": {
       "title": "Zed Editor Zero-Bloat Quickstart",
@@ -105,7 +105,9 @@
     "localLogoPath": "/logos/zed-editor.png",
     "affiliateBadge": "Partner Pick",
     "affiliatePerk": "Verified Anti-Bloat Recommendation",
-    "createdAt": "2026-11-04T04:51:32.963Z"
+    "createdAt": "2026-11-04T04:51:32.963Z",
+    "previousStatus": "draft",
+    "deletedAt": "2026-11-04T04:58:34.284Z"
   },
   {
     "id": "draft-1793767894647-excalidraw",
@@ -141,7 +143,7 @@
     },
     "pricing": "Free tier available / Transparent pricing",
     "affiliateUrl": "https://excalidraw.com/?ref=curateless",
-    "status": "draft",
+    "status": "trash",
     "aiGeneratedAt": "2026-11-04T04:51:32.964Z",
     "lessonPlan": {
       "title": "Excalidraw Zero-Bloat Quickstart",
@@ -213,7 +215,9 @@
     "localLogoPath": "/logos/excalidraw.png",
     "affiliateBadge": "Partner Pick",
     "affiliatePerk": "Verified Anti-Bloat Recommendation",
-    "createdAt": "2026-11-04T04:51:34.647Z"
+    "createdAt": "2026-11-04T04:51:34.647Z",
+    "previousStatus": "draft",
+    "deletedAt": "2026-11-04T04:58:34.284Z"
   },
   {
     "id": "draft-1793767896212-ghost",
@@ -249,7 +253,7 @@
     },
     "pricing": "Free tier available / Transparent pricing",
     "affiliateUrl": "https://ghost.org/?ref=curateless",
-    "status": "draft",
+    "status": "trash",
     "aiGeneratedAt": "2026-11-04T04:51:34.647Z",
     "lessonPlan": {
       "title": "Ghost Zero-Bloat Quickstart",
@@ -321,7 +325,9 @@
     "localLogoPath": "/logos/ghost.png",
     "affiliateBadge": "Partner Pick",
     "affiliatePerk": "Verified Anti-Bloat Recommendation",
-    "createdAt": "2026-11-04T04:51:36.213Z"
+    "createdAt": "2026-11-04T04:51:36.213Z",
+    "previousStatus": "draft",
+    "deletedAt": "2026-11-04T04:58:34.284Z"
   },
   {
     "id": "draft-1793767897977-cal-com",
@@ -357,7 +363,7 @@
     },
     "pricing": "Free tier available / Transparent pricing",
     "affiliateUrl": "https://cal.com/?ref=curateless",
-    "status": "draft",
+    "status": "trash",
     "aiGeneratedAt": "2026-11-04T04:51:36.213Z",
     "lessonPlan": {
       "title": "Cal.com Zero-Bloat Quickstart",
@@ -429,7 +435,9 @@
     "localLogoPath": "/logos/cal-com.png",
     "affiliateBadge": "Partner Pick",
     "affiliatePerk": "Verified Anti-Bloat Recommendation",
-    "createdAt": "2026-11-04T04:51:37.977Z"
+    "createdAt": "2026-11-04T04:51:37.977Z",
+    "previousStatus": "draft",
+    "deletedAt": "2026-11-04T04:58:34.284Z"
   },
   {
     "id": "draft-1793767899523-hoppscotch",
@@ -465,7 +473,7 @@
     },
     "pricing": "Free tier available / Transparent pricing",
     "affiliateUrl": "https://hoppscotch.com/?ref=curateless",
-    "status": "draft",
+    "status": "trash",
     "aiGeneratedAt": "2026-11-04T04:51:37.978Z",
     "lessonPlan": {
       "title": "Hoppscotch Zero-Bloat Quickstart",
@@ -537,7 +545,9 @@
     "localLogoPath": "/logos/hoppscotch.png",
     "affiliateBadge": "Partner Pick",
     "affiliatePerk": "Verified Anti-Bloat Recommendation",
-    "createdAt": "2026-11-04T04:51:39.524Z"
+    "createdAt": "2026-11-04T04:51:39.524Z",
+    "previousStatus": "draft",
+    "deletedAt": "2026-11-04T04:58:34.284Z"
   },
   {
     "id": "draft-1793767900937-baserow",
@@ -573,7 +583,7 @@
     },
     "pricing": "Free tier available / Transparent pricing",
     "affiliateUrl": "https://baserow.io/?ref=curateless",
-    "status": "draft",
+    "status": "trash",
     "aiGeneratedAt": "2026-11-04T04:51:39.524Z",
     "lessonPlan": {
       "title": "Baserow Zero-Bloat Quickstart",
@@ -645,7 +655,9 @@
     "localLogoPath": "/logos/baserow.png",
     "affiliateBadge": "Partner Pick",
     "affiliatePerk": "Verified Anti-Bloat Recommendation",
-    "createdAt": "2026-11-04T04:51:40.937Z"
+    "createdAt": "2026-11-04T04:51:40.937Z",
+    "previousStatus": "draft",
+    "deletedAt": "2026-11-04T04:58:34.284Z"
   },
   {
     "id": "draft-1793767901842-plausible-analytics",
@@ -681,7 +693,7 @@
     },
     "pricing": "Free tier available / Transparent pricing",
     "affiliateUrl": "https://plausible.io/?ref=curateless",
-    "status": "draft",
+    "status": "trash",
     "aiGeneratedAt": "2026-11-04T04:51:40.937Z",
     "lessonPlan": {
       "title": "Plausible Analytics Zero-Bloat Quickstart",
@@ -753,7 +765,9 @@
     "localLogoPath": "/logos/plausible-analytics.png",
     "affiliateBadge": "Partner Pick",
     "affiliatePerk": "Verified Anti-Bloat Recommendation",
-    "createdAt": "2026-11-04T04:51:41.842Z"
+    "createdAt": "2026-11-04T04:51:41.842Z",
+    "previousStatus": "draft",
+    "deletedAt": "2026-11-04T04:58:34.284Z"
   },
   {
     "id": "draft-1793767904622-kitemaker",
@@ -788,7 +802,7 @@
     },
     "pricing": "Free tier available / Transparent pricing",
     "affiliateUrl": "https://kitemaker.co/?ref=curateless",
-    "status": "draft",
+    "status": "trash",
     "aiGeneratedAt": "2026-11-04T04:51:41.842Z",
     "lessonPlan": {
       "title": "Kitemaker Zero-Bloat Quickstart",
@@ -860,7 +874,9 @@
     "localLogoPath": "/logos/kitemaker.png",
     "affiliateBadge": "Partner Pick",
     "affiliatePerk": "Verified Anti-Bloat Recommendation",
-    "createdAt": "2026-11-04T04:51:44.622Z"
+    "createdAt": "2026-11-04T04:51:44.622Z",
+    "previousStatus": "draft",
+    "deletedAt": "2026-11-04T04:58:34.284Z"
   },
   {
     "id": "draft-1793767906965-snipd",
@@ -895,7 +911,7 @@
     },
     "pricing": "Free tier available / Transparent pricing",
     "affiliateUrl": "https://snipd.com/?ref=curateless",
-    "status": "draft",
+    "status": "trash",
     "aiGeneratedAt": "2026-11-04T04:51:44.622Z",
     "lessonPlan": {
       "title": "Snipd Zero-Bloat Quickstart",
@@ -967,7 +983,9 @@
     "localLogoPath": "/logos/snipd.png",
     "affiliateBadge": "Partner Pick",
     "affiliatePerk": "Verified Anti-Bloat Recommendation",
-    "createdAt": "2026-11-04T04:51:46.965Z"
+    "createdAt": "2026-11-04T04:51:46.965Z",
+    "previousStatus": "draft",
+    "deletedAt": "2026-11-04T04:58:34.284Z"
   },
   {
     "id": "draft-1793767908508-standard-notes",
@@ -1003,7 +1021,7 @@
     },
     "pricing": "Free tier available / Transparent pricing",
     "affiliateUrl": "https://standardnotes.com/?ref=curateless",
-    "status": "draft",
+    "status": "trash",
     "aiGeneratedAt": "2026-11-04T04:51:46.966Z",
     "lessonPlan": {
       "title": "Standard Notes Zero-Bloat Quickstart",
@@ -1075,7 +1093,9 @@
     "localLogoPath": "/logos/standard-notes.png",
     "affiliateBadge": "Partner Pick",
     "affiliatePerk": "Verified Anti-Bloat Recommendation",
-    "createdAt": "2026-11-04T04:51:48.508Z"
+    "createdAt": "2026-11-04T04:51:48.508Z",
+    "previousStatus": "draft",
+    "deletedAt": "2026-11-04T04:58:34.284Z"
   },
   {
     "id": "draft-1793709289262-excalidraw-3",
