@@ -224,10 +224,10 @@ if (isCli) {
   publishLiveToGitHub(customMsg)
     .then((result) => {
       console.log('✅ Result:', result.message);
-      process.exit(0);
+      process.exitCode = 0;
     })
     .catch((err) => {
       console.error('❌ Error:', err.message);
-      process.exit(1);
+      process.exitCode = 1;
     });
 }
