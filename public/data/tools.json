@@ -1,78 +1,8 @@
 {
   "success": true,
-  "count": 17,
-  "exportedAt": "2026-11-03T14:19:41.158Z",
+  "count": 16,
+  "exportedAt": "2026-11-04T01:14:41.705Z",
   "tools": [
-    {
-      "id": "manual-1793710324562-asdsadsad",
-      "name": "asdsadsad",
-      "slug": "asdsadsad",
-      "website": "https://google.com",
-      "domain": "google.com",
-      "brandColor": "#4f46e5",
-      "tagline": "asdsadasd vsdvdf",
-      "description": "asdsadasd vsdvdf",
-      "category": "Utilities",
-      "whatItReplaces": "Bloated legacy software",
-      "replacesDetailed": "Replaces enterprise bloat with focused micro-functionality.",
-      "targetAudience": "Builders & digital craftsmen",
-      "tags": [
-        "Beginner-Friendly",
-        "Free Tier Available"
-      ],
-      "learningCurve": {
-        "level": "Gentle",
-        "score": 1,
-        "timeToLearn": "5 mins",
-        "summary": "Straightforward onboarding designed for instant velocity."
-      },
-      "tutorialCount": 12,
-      "tutorialMeta": {
-        "videoGuides": 5,
-        "stepByStepDocs": 5,
-        "communityShortcuts": 2
-      },
-      "pricing": "Free tier / Transparent pricing",
-      "status": "published",
-      "localLogoPath": "/logos/asdsadsad.png",
-      "affiliateUrl": "https://google.com/?ref=curateless",
-      "affiliateBadge": "Partner Pick",
-      "affiliatePerk": "Verified Anti-Bloat Recommendation",
-      "createdAt": "2026-11-03T12:52:04.562Z",
-      "lessonPlan": {
-        "title": "asdsadsad Quickstart Guide",
-        "subtitle": "Get started with asdsadsad in under 5 mins.",
-        "estimatedTime": "5 mins",
-        "difficulty": "Beginner",
-        "overview": "A streamlined 5-step curriculum to master asdsadsad.",
-        "prerequisites": [
-          "Web browser or local app"
-        ],
-        "steps": [
-          {
-            "stepNumber": 1,
-            "title": "Account & Workspace Setup",
-            "timeEstimate": "2 mins",
-            "description": "Download or log in with zero marketing questionnaires.",
-            "actionItems": [
-              "Sign in",
-              "Set preferred defaults"
-            ],
-            "proTip": "Keep initial setup minimal."
-          },
-          {
-            "stepNumber": 2,
-            "title": "Core Workflow Execution",
-            "timeEstimate": "3 mins",
-            "description": "Perform your primary task without menu fatigue.",
-            "actionItems": [
-              "Test primary action"
-            ],
-            "proTip": "Focus strictly on your main daily goal."
-          }
-        ]
-      }
-    },
     {
       "id": "manual-1793710291645-sadasd",
       "name": "sadasd",
