@@ -82,60 +82,28 @@ Visit `http://localhost:4173/` to verify your static production build.
 
 ---
 
-## 🌐 Workflow 3: Deploying to GitHub Pages (With or Without Custom Domain)
+## 🌐 Workflow 3: Deploying to Vercel (Recommended)
 
-### Option A: Automated Deployment via GitHub Actions (Recommended)
+Our project includes native Vercel configuration (`vercel.json`) with SPA route rewrites configured:
 
-1. **Initialize Git & Push to GitHub:**
-   ```bash
-   git init
-   git add .
-   git commit -m "feat: decoupled anti-bloat directory"
-   git branch -M main
-   git remote add origin https://github.com/<your-username>/<your-repo-name>.git
-   git push -u origin main
-   ```
+### 1. Connect Repository to Vercel
+1. Import `micro-saas-directory` into [Vercel Dashboard](https://vercel.com/new).
+2. Framework Preset will automatically detect **Vite**.
+3. Build Command: `npm run build`
+4. Output Directory: `dist`
+5. Click **Deploy**.
 
-2. **Enable GitHub Pages in Repository Settings:**
-   - Go to your repository on GitHub: **Settings** → **Pages**.
-   - Under **Build and deployment** → **Source**, select **GitHub Actions**.
-   - The workflow in `.github/workflows/deploy.yml` will automatically build and deploy the static site!
-
-3. **(Optional) Configure a Custom Domain (e.g. `curateless.tools`):**
-   - Run our domain configuration script:
-     ```bash
-     npm run set-domain curateless.tools
-     ```
-   - Commit and push:
-     ```bash
-     git add public/CNAME
-     git commit -m "chore: add custom domain CNAME"
-     git push
-     ```
-   - In your DNS provider (Cloudflare, Namecheap, GoDaddy):
-     - For Apex Domain (`curateless.tools`): Add 4 `A` records pointing to:
-       ```
-       185.199.108.153
-       185.199.109.153
-       185.199.110.153
-       185.199.111.153
-       ```
-     - For Subdomain (`tools.yoursite.com`): Add a `CNAME` record pointing to `<your-username>.github.io`.
+Every `git push` to your `main` branch (including one-click updates via the Admin **"Publish Live 🚀"** button) will trigger an instant zero-downtime deployment on Vercel with zero GitHub Pages errors.
 
 ---
 
-## ☁️ Workflow 4: Deploying to Vercel, Netlify, or Cloudflare Pages
+## ☁️ Workflow 4: Deploying to Other Static CDNs (Netlify, Cloudflare Pages)
 
 Because `dist/` is a standard static build, you can deploy to any modern hosting platform in seconds:
 
 ### Cloudflare Pages
 - **Build command:** `npm run build`
 - **Build output directory:** `dist`
-
-### Vercel
-- **Framework Preset:** Vite
-- **Build command:** `npm run build`
-- **Output directory:** `dist`
 
 ### Netlify
 - **Build command:** `npm run build`
