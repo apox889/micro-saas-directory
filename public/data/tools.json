@@ -1,6 +1,1095 @@
 {
   "success": true,
-  "count": 0,
-  "exportedAt": "2026-11-04T04:58:37.356Z",
-  "tools": []
+  "count": 10,
+  "exportedAt": "2026-11-04T05:13:31.569Z",
+  "tools": [
+    {
+      "id": "draft-1793769186773-zed-editor",
+      "name": "Zed Editor",
+      "slug": "zed-editor",
+      "website": "https://zed.dev",
+      "domain": "zed.dev",
+      "brandColor": "#00D1A0",
+      "tagline": "High-performance, multiplayer code editor written in Rust.",
+      "description": "Ultra-fast, Rust-powered code editor engineered with GPU acceleration for instantaneous startup and sub-millisecond typing latency.",
+      "category": "Utilities",
+      "whatItReplaces": "VS Code & Heavy Electron Editors",
+      "replacesDetailed": "Replaces VS Code’s 1GB+ Electron memory footprint with a high-performance Rust engine rendering at 120fps on the GPU with instantaneous file search.",
+      "targetAudience": "Software engineers, systems programmers, and minimalists who refuse to wait for editor lag.",
+      "tags": [
+        "Beginner-Friendly",
+        "Free Tier Available",
+        "Alternative to VS Code",
+        "Open Source",
+        "GPU-Accelerated"
+      ],
+      "learningCurve": {
+        "level": "Low",
+        "score": 2,
+        "timeToLearn": "8 mins",
+        "summary": "Familiar VS Code keymaps with instant responsiveness and built-in language servers."
+      },
+      "tutorialCount": 16,
+      "tutorialMeta": {
+        "videoGuides": 7,
+        "stepByStepDocs": 7,
+        "communityShortcuts": 2
+      },
+      "pricing": "Free tier available / Transparent pricing",
+      "affiliateUrl": "https://zed.dev/?ref=curateless",
+      "status": "published",
+      "aiGeneratedAt": "2026-11-04T05:13:04.381Z",
+      "lessonPlan": {
+        "title": "Zed Editor Zero-Bloat Quickstart",
+        "subtitle": "Get started with Zed Editor in under 8 mins.",
+        "estimatedTime": "8 mins",
+        "difficulty": "Intermediate",
+        "overview": "A streamlined 5-step curriculum to replace bloated tools and master Zed Editor without cognitive fatigue.",
+        "prerequisites": [
+          "Web browser or local application install"
+        ],
+        "steps": [
+          {
+            "stepNumber": 1,
+            "title": "Initialization & Clean Defaults",
+            "timeEstimate": "2 mins",
+            "description": "Launch the application and disable non-essential notification badges.",
+            "actionItems": [
+              "Open application",
+              "Turn off unnecessary alerts and marketing popups"
+            ],
+            "proTip": "Start with default minimalist settings to avoid early configuration burnout."
+          },
+          {
+            "stepNumber": 2,
+            "title": "Core Workflow Execution",
+            "timeEstimate": "3 mins",
+            "description": "Perform your primary daily task without navigating through heavy multi-layered menus.",
+            "actionItems": [
+              "Execute standard action",
+              "Notice the immediate sub-50ms responsiveness"
+            ],
+            "proTip": "Learn the primary hotkey for creating new entries instantly."
+          },
+          {
+            "stepNumber": 3,
+            "title": "Keyboard Hotkeys & Flow State",
+            "timeEstimate": "2 mins",
+            "description": "Map essential shortcuts to keep your hands on the keyboard.",
+            "actionItems": [
+              "Review the cheat sheet",
+              "Test navigation commands"
+            ],
+            "proTip": "Press ? anywhere to inspect available keyboard combinations."
+          },
+          {
+            "stepNumber": 4,
+            "title": "Local Data Export & Sovereignty",
+            "timeEstimate": "2 mins",
+            "description": "Ensure your data is readily exportable in open formats with zero vendor lock-in.",
+            "actionItems": [
+              "Locate export options",
+              "Confirm standard formats (JSON/Markdown/CSV)"
+            ],
+            "proTip": "Keep regular offline backups of your workspace."
+          },
+          {
+            "stepNumber": 5,
+            "title": "Team Handoff or Daily Automation",
+            "timeEstimate": "2 mins",
+            "description": "Share lightweight outputs with colleagues without forcing them to register accounts.",
+            "actionItems": [
+              "Generate clean share link",
+              "Verify distraction-free viewer mode"
+            ],
+            "proTip": "Colleagues can view your outputs without signing up for enterprise seats."
+          }
+        ]
+      },
+      "localLogoPath": "/logos/zed-editor.png",
+      "affiliateBadge": "Partner Pick",
+      "affiliatePerk": "Verified Anti-Bloat Recommendation",
+      "createdAt": "2026-11-04T05:13:06.774Z",
+      "publishedAt": "2026-11-04T05:13:25.628Z"
+    },
+    {
+      "id": "draft-1793769188310-excalidraw",
+      "name": "Excalidraw",
+      "slug": "excalidraw",
+      "website": "https://excalidraw.com",
+      "domain": "excalidraw.com",
+      "brandColor": "#6965DB",
+      "tagline": "Virtual collaborative whiteboard for sketching hand-drawn diagrams.",
+      "description": "Infinite virtual whiteboard featuring a delightfully minimal hand-drawn aesthetic, real-time collaboration, and zero required logins.",
+      "category": "Design",
+      "whatItReplaces": "Miro & Cluttered Enterprise Whiteboards",
+      "replacesDetailed": "Eliminates paywalled collaborative canvas limits, heavy UI toolbars, and mandatory signups with an end-to-end encrypted virtual hand-drawn whiteboard.",
+      "targetAudience": "Product architects, engineering teams, and visual thinkers who need rapid sketching without corporate overhead.",
+      "tags": [
+        "Beginner-Friendly",
+        "Free Tier Available",
+        "Alternative to Miro",
+        "Open Source",
+        "End-to-End Encrypted"
+      ],
+      "learningCurve": {
+        "level": "Gentle",
+        "score": 1,
+        "timeToLearn": "3 mins",
+        "summary": "Pick a tool and draw. Zero onboarding hoops or permissions setup required."
+      },
+      "tutorialCount": 19,
+      "tutorialMeta": {
+        "videoGuides": 8,
+        "stepByStepDocs": 8,
+        "communityShortcuts": 3
+      },
+      "pricing": "Free tier available / Transparent pricing",
+      "affiliateUrl": "https://excalidraw.com/?ref=curateless",
+      "status": "published",
+      "aiGeneratedAt": "2026-11-04T05:13:06.774Z",
+      "lessonPlan": {
+        "title": "Excalidraw Zero-Bloat Quickstart",
+        "subtitle": "Get started with Excalidraw in under 3 mins.",
+        "estimatedTime": "3 mins",
+        "difficulty": "Beginner",
+        "overview": "A streamlined 5-step curriculum to replace bloated tools and master Excalidraw without cognitive fatigue.",
+        "prerequisites": [
+          "Web browser or local application install"
+        ],
+        "steps": [
+          {
+            "stepNumber": 1,
+            "title": "Initialization & Clean Defaults",
+            "timeEstimate": "2 mins",
+            "description": "Launch the application and disable non-essential notification badges.",
+            "actionItems": [
+              "Open application",
+              "Turn off unnecessary alerts and marketing popups"
+            ],
+            "proTip": "Start with default minimalist settings to avoid early configuration burnout."
+          },
+          {
+            "stepNumber": 2,
+            "title": "Core Workflow Execution",
+            "timeEstimate": "3 mins",
+            "description": "Perform your primary daily task without navigating through heavy multi-layered menus.",
+            "actionItems": [
+              "Execute standard action",
+              "Notice the immediate sub-50ms responsiveness"
+            ],
+            "proTip": "Learn the primary hotkey for creating new entries instantly."
+          },
+          {
+            "stepNumber": 3,
+            "title": "Keyboard Hotkeys & Flow State",
+            "timeEstimate": "2 mins",
+            "description": "Map essential shortcuts to keep your hands on the keyboard.",
+            "actionItems": [
+              "Review the cheat sheet",
+              "Test navigation commands"
+            ],
+            "proTip": "Press ? anywhere to inspect available keyboard combinations."
+          },
+          {
+            "stepNumber": 4,
+            "title": "Local Data Export & Sovereignty",
+            "timeEstimate": "2 mins",
+            "description": "Ensure your data is readily exportable in open formats with zero vendor lock-in.",
+            "actionItems": [
+              "Locate export options",
+              "Confirm standard formats (JSON/Markdown/CSV)"
+            ],
+            "proTip": "Keep regular offline backups of your workspace."
+          },
+          {
+            "stepNumber": 5,
+            "title": "Team Handoff or Daily Automation",
+            "timeEstimate": "2 mins",
+            "description": "Share lightweight outputs with colleagues without forcing them to register accounts.",
+            "actionItems": [
+              "Generate clean share link",
+              "Verify distraction-free viewer mode"
+            ],
+            "proTip": "Colleagues can view your outputs without signing up for enterprise seats."
+          }
+        ]
+      },
+      "localLogoPath": "/logos/excalidraw.png",
+      "affiliateBadge": "Partner Pick",
+      "affiliatePerk": "Verified Anti-Bloat Recommendation",
+      "createdAt": "2026-11-04T05:13:08.310Z",
+      "publishedAt": "2026-11-04T05:13:25.628Z"
+    },
+    {
+      "id": "draft-1793769189626-ghost",
+      "name": "Ghost",
+      "slug": "ghost",
+      "website": "https://ghost.org",
+      "domain": "ghost.org",
+      "brandColor": "#15171A",
+      "tagline": "Modern, open-source platform for independent journalists and publishers.",
+      "description": "Professional, distraction-free publishing platform powered by Node.js with native membership, newsletters, and zero bloated plugins.",
+      "category": "Writing",
+      "whatItReplaces": "WordPress & Bloated CMS Plugins",
+      "replacesDetailed": "Replaces endless plugin security vulnerabilities, bloated database queries, and slow page caching with a modern Node.js publishing platform tailored for creators.",
+      "targetAudience": "Independent journalists, newsletter writers, publication teams, and niche bloggers.",
+      "tags": [
+        "Beginner-Friendly",
+        "Free Tier Available",
+        "Alternative to WordPress",
+        "Open Source",
+        "Built-in Newsletters"
+      ],
+      "learningCurve": {
+        "level": "Low",
+        "score": 2,
+        "timeToLearn": "12 mins",
+        "summary": "Clean split-free Markdown and rich cards. Built-in members and email delivery without 20 plugins."
+      },
+      "tutorialCount": 26,
+      "tutorialMeta": {
+        "videoGuides": 11,
+        "stepByStepDocs": 11,
+        "communityShortcuts": 4
+      },
+      "pricing": "Free tier available / Transparent pricing",
+      "affiliateUrl": "https://ghost.org/?ref=curateless",
+      "status": "published",
+      "aiGeneratedAt": "2026-11-04T05:13:08.310Z",
+      "lessonPlan": {
+        "title": "Ghost Zero-Bloat Quickstart",
+        "subtitle": "Get started with Ghost in under 12 mins.",
+        "estimatedTime": "12 mins",
+        "difficulty": "Intermediate",
+        "overview": "A streamlined 5-step curriculum to replace bloated tools and master Ghost without cognitive fatigue.",
+        "prerequisites": [
+          "Web browser or local application install"
+        ],
+        "steps": [
+          {
+            "stepNumber": 1,
+            "title": "Initialization & Clean Defaults",
+            "timeEstimate": "2 mins",
+            "description": "Launch the application and disable non-essential notification badges.",
+            "actionItems": [
+              "Open application",
+              "Turn off unnecessary alerts and marketing popups"
+            ],
+            "proTip": "Start with default minimalist settings to avoid early configuration burnout."
+          },
+          {
+            "stepNumber": 2,
+            "title": "Core Workflow Execution",
+            "timeEstimate": "3 mins",
+            "description": "Perform your primary daily task without navigating through heavy multi-layered menus.",
+            "actionItems": [
+              "Execute standard action",
+              "Notice the immediate sub-50ms responsiveness"
+            ],
+            "proTip": "Learn the primary hotkey for creating new entries instantly."
+          },
+          {
+            "stepNumber": 3,
+            "title": "Keyboard Hotkeys & Flow State",
+            "timeEstimate": "2 mins",
+            "description": "Map essential shortcuts to keep your hands on the keyboard.",
+            "actionItems": [
+              "Review the cheat sheet",
+              "Test navigation commands"
+            ],
+            "proTip": "Press ? anywhere to inspect available keyboard combinations."
+          },
+          {
+            "stepNumber": 4,
+            "title": "Local Data Export & Sovereignty",
+            "timeEstimate": "2 mins",
+            "description": "Ensure your data is readily exportable in open formats with zero vendor lock-in.",
+            "actionItems": [
+              "Locate export options",
+              "Confirm standard formats (JSON/Markdown/CSV)"
+            ],
+            "proTip": "Keep regular offline backups of your workspace."
+          },
+          {
+            "stepNumber": 5,
+            "title": "Team Handoff or Daily Automation",
+            "timeEstimate": "2 mins",
+            "description": "Share lightweight outputs with colleagues without forcing them to register accounts.",
+            "actionItems": [
+              "Generate clean share link",
+              "Verify distraction-free viewer mode"
+            ],
+            "proTip": "Colleagues can view your outputs without signing up for enterprise seats."
+          }
+        ]
+      },
+      "localLogoPath": "/logos/ghost.png",
+      "affiliateBadge": "Partner Pick",
+      "affiliatePerk": "Verified Anti-Bloat Recommendation",
+      "createdAt": "2026-11-04T05:13:09.626Z",
+      "publishedAt": "2026-11-04T05:13:25.628Z"
+    },
+    {
+      "id": "draft-1793769191201-cal-com",
+      "name": "Cal.com",
+      "slug": "cal-com",
+      "website": "https://cal.com",
+      "domain": "cal.com",
+      "brandColor": "#292929",
+      "tagline": "Customizable, privacy-respecting scheduling infrastructure for everyone.",
+      "description": "Open-source, privacy-first scheduling infrastructure replacing corporate calendar paywalls with full customization and self-hosting.",
+      "category": "Organization",
+      "whatItReplaces": "Calendly & Paywalled Booking Platforms",
+      "replacesDetailed": "Replaces Calendly’s restrictive single-calendar free limitations and enterprise pricing with a self-hostable, developer-friendly scheduling infrastructure.",
+      "targetAudience": "Consultants, remote teams, founders, and developers wanting full control over calendar bookings.",
+      "tags": [
+        "Beginner-Friendly",
+        "Free Tier Available",
+        "Alternative to Calendly",
+        "Open Source",
+        "Self-Hostable"
+      ],
+      "learningCurve": {
+        "level": "Gentle",
+        "score": 1,
+        "timeToLearn": "5 mins",
+        "summary": "Connect your Google or Outlook calendar and share your link in under 3 minutes."
+      },
+      "tutorialCount": 18,
+      "tutorialMeta": {
+        "videoGuides": 8,
+        "stepByStepDocs": 8,
+        "communityShortcuts": 2
+      },
+      "pricing": "Free tier available / Transparent pricing",
+      "affiliateUrl": "https://cal.com/?ref=curateless",
+      "status": "published",
+      "aiGeneratedAt": "2026-11-04T05:13:09.626Z",
+      "lessonPlan": {
+        "title": "Cal.com Zero-Bloat Quickstart",
+        "subtitle": "Get started with Cal.com in under 5 mins.",
+        "estimatedTime": "5 mins",
+        "difficulty": "Beginner",
+        "overview": "A streamlined 5-step curriculum to replace bloated tools and master Cal.com without cognitive fatigue.",
+        "prerequisites": [
+          "Web browser or local application install"
+        ],
+        "steps": [
+          {
+            "stepNumber": 1,
+            "title": "Initialization & Clean Defaults",
+            "timeEstimate": "2 mins",
+            "description": "Launch the application and disable non-essential notification badges.",
+            "actionItems": [
+              "Open application",
+              "Turn off unnecessary alerts and marketing popups"
+            ],
+            "proTip": "Start with default minimalist settings to avoid early configuration burnout."
+          },
+          {
+            "stepNumber": 2,
+            "title": "Core Workflow Execution",
+            "timeEstimate": "3 mins",
+            "description": "Perform your primary daily task without navigating through heavy multi-layered menus.",
+            "actionItems": [
+              "Execute standard action",
+              "Notice the immediate sub-50ms responsiveness"
+            ],
+            "proTip": "Learn the primary hotkey for creating new entries instantly."
+          },
+          {
+            "stepNumber": 3,
+            "title": "Keyboard Hotkeys & Flow State",
+            "timeEstimate": "2 mins",
+            "description": "Map essential shortcuts to keep your hands on the keyboard.",
+            "actionItems": [
+              "Review the cheat sheet",
+              "Test navigation commands"
+            ],
+            "proTip": "Press ? anywhere to inspect available keyboard combinations."
+          },
+          {
+            "stepNumber": 4,
+            "title": "Local Data Export & Sovereignty",
+            "timeEstimate": "2 mins",
+            "description": "Ensure your data is readily exportable in open formats with zero vendor lock-in.",
+            "actionItems": [
+              "Locate export options",
+              "Confirm standard formats (JSON/Markdown/CSV)"
+            ],
+            "proTip": "Keep regular offline backups of your workspace."
+          },
+          {
+            "stepNumber": 5,
+            "title": "Team Handoff or Daily Automation",
+            "timeEstimate": "2 mins",
+            "description": "Share lightweight outputs with colleagues without forcing them to register accounts.",
+            "actionItems": [
+              "Generate clean share link",
+              "Verify distraction-free viewer mode"
+            ],
+            "proTip": "Colleagues can view your outputs without signing up for enterprise seats."
+          }
+        ]
+      },
+      "localLogoPath": "/logos/cal-com.png",
+      "affiliateBadge": "Partner Pick",
+      "affiliatePerk": "Verified Anti-Bloat Recommendation",
+      "createdAt": "2026-11-04T05:13:11.201Z",
+      "publishedAt": "2026-11-04T05:13:25.629Z"
+    },
+    {
+      "id": "draft-1793769193035-hoppscotch",
+      "name": "Hoppscotch",
+      "slug": "hoppscotch",
+      "website": "https://hoppscotch.com",
+      "domain": "hoppscotch.com",
+      "brandColor": "#2563EB",
+      "tagline": "Open-source, web-first API testing and development client.",
+      "description": "Sub-second, web-native API development ecosystem that fires REST and GraphQL requests instantly with zero forced desktop installation.",
+      "category": "Utilities",
+      "whatItReplaces": "Postman & Heavy Desktop API Clients",
+      "replacesDetailed": "Replaces Postman’s forced cloud login, 500MB desktop client, and workspace paywalls with a lightning-fast, web-first API testing suite.",
+      "targetAudience": "Backend developers, QA engineers, and API builders looking for immediate request dispatching.",
+      "tags": [
+        "Beginner-Friendly",
+        "Free Tier Available",
+        "Alternative to Postman",
+        "Open Source",
+        "Zero-Install"
+      ],
+      "learningCurve": {
+        "level": "Gentle",
+        "score": 1,
+        "timeToLearn": "4 mins",
+        "summary": "Familiar HTTP methods and REST/GraphQL payload fields with instantaneous execution."
+      },
+      "tutorialCount": 15,
+      "tutorialMeta": {
+        "videoGuides": 6,
+        "stepByStepDocs": 6,
+        "communityShortcuts": 3
+      },
+      "pricing": "Free tier available / Transparent pricing",
+      "affiliateUrl": "https://hoppscotch.com/?ref=curateless",
+      "status": "published",
+      "aiGeneratedAt": "2026-11-04T05:13:11.201Z",
+      "lessonPlan": {
+        "title": "Hoppscotch Zero-Bloat Quickstart",
+        "subtitle": "Get started with Hoppscotch in under 4 mins.",
+        "estimatedTime": "4 mins",
+        "difficulty": "Beginner",
+        "overview": "A streamlined 5-step curriculum to replace bloated tools and master Hoppscotch without cognitive fatigue.",
+        "prerequisites": [
+          "Web browser or local application install"
+        ],
+        "steps": [
+          {
+            "stepNumber": 1,
+            "title": "Initialization & Clean Defaults",
+            "timeEstimate": "2 mins",
+            "description": "Launch the application and disable non-essential notification badges.",
+            "actionItems": [
+              "Open application",
+              "Turn off unnecessary alerts and marketing popups"
+            ],
+            "proTip": "Start with default minimalist settings to avoid early configuration burnout."
+          },
+          {
+            "stepNumber": 2,
+            "title": "Core Workflow Execution",
+            "timeEstimate": "3 mins",
+            "description": "Perform your primary daily task without navigating through heavy multi-layered menus.",
+            "actionItems": [
+              "Execute standard action",
+              "Notice the immediate sub-50ms responsiveness"
+            ],
+            "proTip": "Learn the primary hotkey for creating new entries instantly."
+          },
+          {
+            "stepNumber": 3,
+            "title": "Keyboard Hotkeys & Flow State",
+            "timeEstimate": "2 mins",
+            "description": "Map essential shortcuts to keep your hands on the keyboard.",
+            "actionItems": [
+              "Review the cheat sheet",
+              "Test navigation commands"
+            ],
+            "proTip": "Press ? anywhere to inspect available keyboard combinations."
+          },
+          {
+            "stepNumber": 4,
+            "title": "Local Data Export & Sovereignty",
+            "timeEstimate": "2 mins",
+            "description": "Ensure your data is readily exportable in open formats with zero vendor lock-in.",
+            "actionItems": [
+              "Locate export options",
+              "Confirm standard formats (JSON/Markdown/CSV)"
+            ],
+            "proTip": "Keep regular offline backups of your workspace."
+          },
+          {
+            "stepNumber": 5,
+            "title": "Team Handoff or Daily Automation",
+            "timeEstimate": "2 mins",
+            "description": "Share lightweight outputs with colleagues without forcing them to register accounts.",
+            "actionItems": [
+              "Generate clean share link",
+              "Verify distraction-free viewer mode"
+            ],
+            "proTip": "Colleagues can view your outputs without signing up for enterprise seats."
+          }
+        ]
+      },
+      "localLogoPath": "/logos/hoppscotch.png",
+      "affiliateBadge": "Partner Pick",
+      "affiliatePerk": "Verified Anti-Bloat Recommendation",
+      "createdAt": "2026-11-04T05:13:13.035Z",
+      "publishedAt": "2026-11-04T05:13:25.629Z"
+    },
+    {
+      "id": "draft-1793769194544-baserow",
+      "name": "Baserow",
+      "slug": "baserow",
+      "website": "https://baserow.io",
+      "domain": "baserow.io",
+      "brandColor": "#5B45FF",
+      "tagline": "Open-source no-code relational database and flexible Airtable alternative.",
+      "description": "Open-source no-code database and Airtable alternative delivering limitless relational rows with modern views and self-hosting freedom.",
+      "category": "Organization",
+      "whatItReplaces": "Airtable & Proprietary No-Code Databases",
+      "replacesDetailed": "Replaces Airtable’s severe row limits, locked-in cloud pricing, and closed database ecosystem with a scalable open-source no-code relational database.",
+      "targetAudience": "Operations leads, no-code developers, product managers, and agencies needing database flexibility.",
+      "tags": [
+        "Beginner-Friendly",
+        "Free Tier Available",
+        "Alternative to Airtable",
+        "Open Source",
+        "Self-Hostable"
+      ],
+      "learningCurve": {
+        "level": "Low",
+        "score": 2,
+        "timeToLearn": "15 mins",
+        "summary": "Grid, gallery, and kanban views that feel identical to Airtable with self-hosting freedom."
+      },
+      "tutorialCount": 22,
+      "tutorialMeta": {
+        "videoGuides": 9,
+        "stepByStepDocs": 9,
+        "communityShortcuts": 4
+      },
+      "pricing": "Free tier available / Transparent pricing",
+      "affiliateUrl": "https://baserow.io/?ref=curateless",
+      "status": "published",
+      "aiGeneratedAt": "2026-11-04T05:13:13.035Z",
+      "lessonPlan": {
+        "title": "Baserow Zero-Bloat Quickstart",
+        "subtitle": "Get started with Baserow in under 15 mins.",
+        "estimatedTime": "15 mins",
+        "difficulty": "Intermediate",
+        "overview": "A streamlined 5-step curriculum to replace bloated tools and master Baserow without cognitive fatigue.",
+        "prerequisites": [
+          "Web browser or local application install"
+        ],
+        "steps": [
+          {
+            "stepNumber": 1,
+            "title": "Initialization & Clean Defaults",
+            "timeEstimate": "2 mins",
+            "description": "Launch the application and disable non-essential notification badges.",
+            "actionItems": [
+              "Open application",
+              "Turn off unnecessary alerts and marketing popups"
+            ],
+            "proTip": "Start with default minimalist settings to avoid early configuration burnout."
+          },
+          {
+            "stepNumber": 2,
+            "title": "Core Workflow Execution",
+            "timeEstimate": "3 mins",
+            "description": "Perform your primary daily task without navigating through heavy multi-layered menus.",
+            "actionItems": [
+              "Execute standard action",
+              "Notice the immediate sub-50ms responsiveness"
+            ],
+            "proTip": "Learn the primary hotkey for creating new entries instantly."
+          },
+          {
+            "stepNumber": 3,
+            "title": "Keyboard Hotkeys & Flow State",
+            "timeEstimate": "2 mins",
+            "description": "Map essential shortcuts to keep your hands on the keyboard.",
+            "actionItems": [
+              "Review the cheat sheet",
+              "Test navigation commands"
+            ],
+            "proTip": "Press ? anywhere to inspect available keyboard combinations."
+          },
+          {
+            "stepNumber": 4,
+            "title": "Local Data Export & Sovereignty",
+            "timeEstimate": "2 mins",
+            "description": "Ensure your data is readily exportable in open formats with zero vendor lock-in.",
+            "actionItems": [
+              "Locate export options",
+              "Confirm standard formats (JSON/Markdown/CSV)"
+            ],
+            "proTip": "Keep regular offline backups of your workspace."
+          },
+          {
+            "stepNumber": 5,
+            "title": "Team Handoff or Daily Automation",
+            "timeEstimate": "2 mins",
+            "description": "Share lightweight outputs with colleagues without forcing them to register accounts.",
+            "actionItems": [
+              "Generate clean share link",
+              "Verify distraction-free viewer mode"
+            ],
+            "proTip": "Colleagues can view your outputs without signing up for enterprise seats."
+          }
+        ]
+      },
+      "localLogoPath": "/logos/baserow.png",
+      "affiliateBadge": "Partner Pick",
+      "affiliatePerk": "Verified Anti-Bloat Recommendation",
+      "createdAt": "2026-11-04T05:13:14.544Z",
+      "publishedAt": "2026-11-04T05:13:25.629Z"
+    },
+    {
+      "id": "draft-1793769195991-plausible-analytics",
+      "name": "Plausible Analytics",
+      "slug": "plausible-analytics",
+      "website": "https://plausible.io",
+      "domain": "plausible.io",
+      "brandColor": "#6366F1",
+      "tagline": "Simple, lightweight, privacy-focused open source Google Analytics alternative.",
+      "description": "Privacy-focused, sub-1KB web analytics dashboard providing high-value visitor insights without intrusive tracking cookies or complex menus.",
+      "category": "Utilities",
+      "whatItReplaces": "Google Analytics 4 & Heavy Tracking Bloat",
+      "replacesDetailed": "Replaces GA4’s convoluted 50-page menu maze, intrusive cookie banners, and 45KB tracker scripts with a sub-1KB, privacy-first analytics dashboard.",
+      "targetAudience": "Indie founders, content creators, and privacy-conscious web developers.",
+      "tags": [
+        "Beginner-Friendly",
+        "Free Tier Available",
+        "Alternative to Google Analytics",
+        "Open Source",
+        "Cookie-Free"
+      ],
+      "learningCurve": {
+        "level": "Gentle",
+        "score": 1,
+        "timeToLearn": "3 mins",
+        "summary": "Single-page analytics dashboard. Zero training or cookie banner configuration needed."
+      },
+      "tutorialCount": 14,
+      "tutorialMeta": {
+        "videoGuides": 6,
+        "stepByStepDocs": 6,
+        "communityShortcuts": 2
+      },
+      "pricing": "Free tier available / Transparent pricing",
+      "affiliateUrl": "https://plausible.io/?ref=curateless",
+      "status": "published",
+      "aiGeneratedAt": "2026-11-04T05:13:14.544Z",
+      "lessonPlan": {
+        "title": "Plausible Analytics Zero-Bloat Quickstart",
+        "subtitle": "Get started with Plausible Analytics in under 3 mins.",
+        "estimatedTime": "3 mins",
+        "difficulty": "Beginner",
+        "overview": "A streamlined 5-step curriculum to replace bloated tools and master Plausible Analytics without cognitive fatigue.",
+        "prerequisites": [
+          "Web browser or local application install"
+        ],
+        "steps": [
+          {
+            "stepNumber": 1,
+            "title": "Initialization & Clean Defaults",
+            "timeEstimate": "2 mins",
+            "description": "Launch the application and disable non-essential notification badges.",
+            "actionItems": [
+              "Open application",
+              "Turn off unnecessary alerts and marketing popups"
+            ],
+            "proTip": "Start with default minimalist settings to avoid early configuration burnout."
+          },
+          {
+            "stepNumber": 2,
+            "title": "Core Workflow Execution",
+            "timeEstimate": "3 mins",
+            "description": "Perform your primary daily task without navigating through heavy multi-layered menus.",
+            "actionItems": [
+              "Execute standard action",
+              "Notice the immediate sub-50ms responsiveness"
+            ],
+            "proTip": "Learn the primary hotkey for creating new entries instantly."
+          },
+          {
+            "stepNumber": 3,
+            "title": "Keyboard Hotkeys & Flow State",
+            "timeEstimate": "2 mins",
+            "description": "Map essential shortcuts to keep your hands on the keyboard.",
+            "actionItems": [
+              "Review the cheat sheet",
+              "Test navigation commands"
+            ],
+            "proTip": "Press ? anywhere to inspect available keyboard combinations."
+          },
+          {
+            "stepNumber": 4,
+            "title": "Local Data Export & Sovereignty",
+            "timeEstimate": "2 mins",
+            "description": "Ensure your data is readily exportable in open formats with zero vendor lock-in.",
+            "actionItems": [
+              "Locate export options",
+              "Confirm standard formats (JSON/Markdown/CSV)"
+            ],
+            "proTip": "Keep regular offline backups of your workspace."
+          },
+          {
+            "stepNumber": 5,
+            "title": "Team Handoff or Daily Automation",
+            "timeEstimate": "2 mins",
+            "description": "Share lightweight outputs with colleagues without forcing them to register accounts.",
+            "actionItems": [
+              "Generate clean share link",
+              "Verify distraction-free viewer mode"
+            ],
+            "proTip": "Colleagues can view your outputs without signing up for enterprise seats."
+          }
+        ]
+      },
+      "localLogoPath": "/logos/plausible-analytics.png",
+      "affiliateBadge": "Partner Pick",
+      "affiliatePerk": "Verified Anti-Bloat Recommendation",
+      "createdAt": "2026-11-04T05:13:15.991Z",
+      "publishedAt": "2026-11-04T05:13:25.629Z"
+    },
+    {
+      "id": "draft-1793769197691-kitemaker",
+      "name": "Kitemaker",
+      "slug": "kitemaker",
+      "website": "https://kitemaker.co",
+      "domain": "kitemaker.co",
+      "brandColor": "#F43F5E",
+      "tagline": "Fast, keyboard-driven product collaboration and issue tracking.",
+      "description": "Ultra-responsive issue tracker built around conversations and keyboard shortcuts, stripping away Jira's administrative overhead.",
+      "category": "Organization",
+      "whatItReplaces": "Jira & Bureaucratic Issue Trackers",
+      "replacesDetailed": "Replaces Jira’s slow drag-and-drop ticket boards and endless custom fields with hotkey-driven, discussion-centric product discovery for agile engineering squads.",
+      "targetAudience": "Engineering squads and high-velocity product teams who prioritize building over ticket bureaucracy.",
+      "tags": [
+        "Beginner-Friendly",
+        "Free Tier Available",
+        "Alternative to Jira",
+        "Keyboard-First"
+      ],
+      "learningCurve": {
+        "level": "Low",
+        "score": 2,
+        "timeToLearn": "8 mins",
+        "summary": "Keyboard-driven work items with seamless GitHub and Slack integrations."
+      },
+      "tutorialCount": 12,
+      "tutorialMeta": {
+        "videoGuides": 5,
+        "stepByStepDocs": 5,
+        "communityShortcuts": 2
+      },
+      "pricing": "Free tier available / Transparent pricing",
+      "affiliateUrl": "https://kitemaker.co/?ref=curateless",
+      "status": "published",
+      "aiGeneratedAt": "2026-11-04T05:13:15.991Z",
+      "lessonPlan": {
+        "title": "Kitemaker Zero-Bloat Quickstart",
+        "subtitle": "Get started with Kitemaker in under 8 mins.",
+        "estimatedTime": "8 mins",
+        "difficulty": "Intermediate",
+        "overview": "A streamlined 5-step curriculum to replace bloated tools and master Kitemaker without cognitive fatigue.",
+        "prerequisites": [
+          "Web browser or local application install"
+        ],
+        "steps": [
+          {
+            "stepNumber": 1,
+            "title": "Initialization & Clean Defaults",
+            "timeEstimate": "2 mins",
+            "description": "Launch the application and disable non-essential notification badges.",
+            "actionItems": [
+              "Open application",
+              "Turn off unnecessary alerts and marketing popups"
+            ],
+            "proTip": "Start with default minimalist settings to avoid early configuration burnout."
+          },
+          {
+            "stepNumber": 2,
+            "title": "Core Workflow Execution",
+            "timeEstimate": "3 mins",
+            "description": "Perform your primary daily task without navigating through heavy multi-layered menus.",
+            "actionItems": [
+              "Execute standard action",
+              "Notice the immediate sub-50ms responsiveness"
+            ],
+            "proTip": "Learn the primary hotkey for creating new entries instantly."
+          },
+          {
+            "stepNumber": 3,
+            "title": "Keyboard Hotkeys & Flow State",
+            "timeEstimate": "2 mins",
+            "description": "Map essential shortcuts to keep your hands on the keyboard.",
+            "actionItems": [
+              "Review the cheat sheet",
+              "Test navigation commands"
+            ],
+            "proTip": "Press ? anywhere to inspect available keyboard combinations."
+          },
+          {
+            "stepNumber": 4,
+            "title": "Local Data Export & Sovereignty",
+            "timeEstimate": "2 mins",
+            "description": "Ensure your data is readily exportable in open formats with zero vendor lock-in.",
+            "actionItems": [
+              "Locate export options",
+              "Confirm standard formats (JSON/Markdown/CSV)"
+            ],
+            "proTip": "Keep regular offline backups of your workspace."
+          },
+          {
+            "stepNumber": 5,
+            "title": "Team Handoff or Daily Automation",
+            "timeEstimate": "2 mins",
+            "description": "Share lightweight outputs with colleagues without forcing them to register accounts.",
+            "actionItems": [
+              "Generate clean share link",
+              "Verify distraction-free viewer mode"
+            ],
+            "proTip": "Colleagues can view your outputs without signing up for enterprise seats."
+          }
+        ]
+      },
+      "localLogoPath": "/logos/kitemaker.png",
+      "affiliateBadge": "Partner Pick",
+      "affiliatePerk": "Verified Anti-Bloat Recommendation",
+      "createdAt": "2026-11-04T05:13:17.691Z",
+      "publishedAt": "2026-11-04T05:13:25.629Z"
+    },
+    {
+      "id": "draft-1793769199558-snipd",
+      "name": "Snipd",
+      "slug": "snipd",
+      "website": "https://snipd.com",
+      "domain": "snipd.com",
+      "brandColor": "#06B6D4",
+      "tagline": "AI podcast player that captures, transcribes, and organizes audio knowledge.",
+      "description": "AI-powered podcast player that highlights spoken ideas, transcribes audio instantly, and exports key takeaways to your second brain.",
+      "category": "Video",
+      "whatItReplaces": "Bloated Podcast Players & Heavy Audio Editors",
+      "replacesDetailed": "Replaces sluggish podcast players with one-tap AI audio bookmarking, automated transcripts, key takeaways, and smart silence removal.",
+      "targetAudience": "Podcast listeners, researchers, and lifelong learners wanting to retain audio insights.",
+      "tags": [
+        "Beginner-Friendly",
+        "Free Tier Available",
+        "Smart Transcripts",
+        "AI-Powered"
+      ],
+      "learningCurve": {
+        "level": "Gentle",
+        "score": 1,
+        "timeToLearn": "4 mins",
+        "summary": "Tap headphone button to snip insights. AI automatically transcribes and syncs to Notion/Obsidian."
+      },
+      "tutorialCount": 10,
+      "tutorialMeta": {
+        "videoGuides": 4,
+        "stepByStepDocs": 4,
+        "communityShortcuts": 2
+      },
+      "pricing": "Free tier available / Transparent pricing",
+      "affiliateUrl": "https://snipd.com/?ref=curateless",
+      "status": "published",
+      "aiGeneratedAt": "2026-11-04T05:13:17.691Z",
+      "lessonPlan": {
+        "title": "Snipd Zero-Bloat Quickstart",
+        "subtitle": "Get started with Snipd in under 4 mins.",
+        "estimatedTime": "4 mins",
+        "difficulty": "Beginner",
+        "overview": "A streamlined 5-step curriculum to replace bloated tools and master Snipd without cognitive fatigue.",
+        "prerequisites": [
+          "Web browser or local application install"
+        ],
+        "steps": [
+          {
+            "stepNumber": 1,
+            "title": "Initialization & Clean Defaults",
+            "timeEstimate": "2 mins",
+            "description": "Launch the application and disable non-essential notification badges.",
+            "actionItems": [
+              "Open application",
+              "Turn off unnecessary alerts and marketing popups"
+            ],
+            "proTip": "Start with default minimalist settings to avoid early configuration burnout."
+          },
+          {
+            "stepNumber": 2,
+            "title": "Core Workflow Execution",
+            "timeEstimate": "3 mins",
+            "description": "Perform your primary daily task without navigating through heavy multi-layered menus.",
+            "actionItems": [
+              "Execute standard action",
+              "Notice the immediate sub-50ms responsiveness"
+            ],
+            "proTip": "Learn the primary hotkey for creating new entries instantly."
+          },
+          {
+            "stepNumber": 3,
+            "title": "Keyboard Hotkeys & Flow State",
+            "timeEstimate": "2 mins",
+            "description": "Map essential shortcuts to keep your hands on the keyboard.",
+            "actionItems": [
+              "Review the cheat sheet",
+              "Test navigation commands"
+            ],
+            "proTip": "Press ? anywhere to inspect available keyboard combinations."
+          },
+          {
+            "stepNumber": 4,
+            "title": "Local Data Export & Sovereignty",
+            "timeEstimate": "2 mins",
+            "description": "Ensure your data is readily exportable in open formats with zero vendor lock-in.",
+            "actionItems": [
+              "Locate export options",
+              "Confirm standard formats (JSON/Markdown/CSV)"
+            ],
+            "proTip": "Keep regular offline backups of your workspace."
+          },
+          {
+            "stepNumber": 5,
+            "title": "Team Handoff or Daily Automation",
+            "timeEstimate": "2 mins",
+            "description": "Share lightweight outputs with colleagues without forcing them to register accounts.",
+            "actionItems": [
+              "Generate clean share link",
+              "Verify distraction-free viewer mode"
+            ],
+            "proTip": "Colleagues can view your outputs without signing up for enterprise seats."
+          }
+        ]
+      },
+      "localLogoPath": "/logos/snipd.png",
+      "affiliateBadge": "Partner Pick",
+      "affiliatePerk": "Verified Anti-Bloat Recommendation",
+      "createdAt": "2026-11-04T05:13:19.558Z",
+      "publishedAt": "2026-11-04T05:13:25.629Z"
+    },
+    {
+      "id": "draft-1793769201443-standard-notes",
+      "name": "Standard Notes",
+      "slug": "standard-notes",
+      "website": "https://standardnotes.com",
+      "domain": "standardnotes.com",
+      "brandColor": "#3B82F6",
+      "tagline": "End-to-end encrypted note-taking app designed for digital longevity.",
+      "description": "End-to-end encrypted, zero-knowledge note-taking app ensuring 100-year digital permanence with lightweight plain text and Markdown.",
+      "category": "Writing",
+      "whatItReplaces": "Evernote, Google Docs & Proprietary Note Lock-in",
+      "replacesDetailed": "Replaces heavy cloud note bloat and surveillance capitalist data mining with end-to-end encrypted, zero-knowledge plain text and Markdown notes.",
+      "targetAudience": "Journalists, researchers, novelists, and privacy advocates needing eternal note longevity.",
+      "tags": [
+        "Beginner-Friendly",
+        "Free Tier Available",
+        "Alternative to Evernote",
+        "Open Source",
+        "End-to-End Encrypted"
+      ],
+      "learningCurve": {
+        "level": "Low",
+        "score": 2,
+        "timeToLearn": "6 mins",
+        "summary": "Clean interface with local encryption and instant multi-device synchronization."
+      },
+      "tutorialCount": 18,
+      "tutorialMeta": {
+        "videoGuides": 8,
+        "stepByStepDocs": 8,
+        "communityShortcuts": 2
+      },
+      "pricing": "Free tier available / Transparent pricing",
+      "affiliateUrl": "https://standardnotes.com/?ref=curateless",
+      "status": "published",
+      "aiGeneratedAt": "2026-11-04T05:13:19.558Z",
+      "lessonPlan": {
+        "title": "Standard Notes Zero-Bloat Quickstart",
+        "subtitle": "Get started with Standard Notes in under 6 mins.",
+        "estimatedTime": "6 mins",
+        "difficulty": "Intermediate",
+        "overview": "A streamlined 5-step curriculum to replace bloated tools and master Standard Notes without cognitive fatigue.",
+        "prerequisites": [
+          "Web browser or local application install"
+        ],
+        "steps": [
+          {
+            "stepNumber": 1,
+            "title": "Initialization & Clean Defaults",
+            "timeEstimate": "2 mins",
+            "description": "Launch the application and disable non-essential notification badges.",
+            "actionItems": [
+              "Open application",
+              "Turn off unnecessary alerts and marketing popups"
+            ],
+            "proTip": "Start with default minimalist settings to avoid early configuration burnout."
+          },
+          {
+            "stepNumber": 2,
+            "title": "Core Workflow Execution",
+            "timeEstimate": "3 mins",
+            "description": "Perform your primary daily task without navigating through heavy multi-layered menus.",
+            "actionItems": [
+              "Execute standard action",
+              "Notice the immediate sub-50ms responsiveness"
+            ],
+            "proTip": "Learn the primary hotkey for creating new entries instantly."
+          },
+          {
+            "stepNumber": 3,
+            "title": "Keyboard Hotkeys & Flow State",
+            "timeEstimate": "2 mins",
+            "description": "Map essential shortcuts to keep your hands on the keyboard.",
+            "actionItems": [
+              "Review the cheat sheet",
+              "Test navigation commands"
+            ],
+            "proTip": "Press ? anywhere to inspect available keyboard combinations."
+          },
+          {
+            "stepNumber": 4,
+            "title": "Local Data Export & Sovereignty",
+            "timeEstimate": "2 mins",
+            "description": "Ensure your data is readily exportable in open formats with zero vendor lock-in.",
+            "actionItems": [
+              "Locate export options",
+              "Confirm standard formats (JSON/Markdown/CSV)"
+            ],
+            "proTip": "Keep regular offline backups of your workspace."
+          },
+          {
+            "stepNumber": 5,
+            "title": "Team Handoff or Daily Automation",
+            "timeEstimate": "2 mins",
+            "description": "Share lightweight outputs with colleagues without forcing them to register accounts.",
+            "actionItems": [
+              "Generate clean share link",
+              "Verify distraction-free viewer mode"
+            ],
+            "proTip": "Colleagues can view your outputs without signing up for enterprise seats."
+          }
+        ]
+      },
+      "localLogoPath": "/logos/standard-notes.png",
+      "affiliateBadge": "Partner Pick",
+      "affiliatePerk": "Verified Anti-Bloat Recommendation",
+      "createdAt": "2026-11-04T05:13:21.443Z",
+      "publishedAt": "2026-11-04T05:13:25.629Z"
+    }
+  ]
 }
